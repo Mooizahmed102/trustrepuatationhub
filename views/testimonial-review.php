@@ -400,7 +400,7 @@ margin-top: 10px;
 </div>
 <div class="testi-dtl">
 <h4>Loved Their Customer Support!</h4>
-<p>Our company has been around for 45 years and the thought of building a website was terrifying. The project seems very challenging at first because there was another website previously done that was a hot mess. Thank God for people like Amelia and her Project design team at Trust Reputation Hub, they were very knowledgeable, patient, creative and overall PROFESSIONAL to my company needs. They were quick to make changes and edits and also offer others services that may be needed to launch this great website. I would encourage anyone who do not have the background or knowledge to design a website please go contact American web code is for your next design.</p>
+<p>Our company has been around for 45 years and the thought of building a website was terrifying. The project seems very challenging at first because there was another website previously done that was a hot mess. Thank God for people like Amelia and her Project design team at Trust Reputation Hub, they were very knowledgeable, patient, creative and overall PROFESSIONAL to my company needs. They were quick to make changes and edits and also offer others services that may be needed to launch this great website. I would encourage anyone who do not have the background or knowledge to design a website please go contact Trust Reputation Hub is for your next design.</p>
 <h5> Laura Labeau</h5>
 <div class="testi-star-st">
 
@@ -719,7 +719,7 @@ margin-top: 10px;
 <div class="col-md-5 col-sm-5 col-xs-12">
 <div class="contact-right wow fadeInRight" data-wow-delay="0.6s" data-wow-duration="2s">
 <div class="contact-icon-new">
-<img loading="lazy" src="img/phone-ringing.html" class="img-responsive" alt="img">
+<img loading="lazy" src="img/phone-ringing.png" class="img-responsive" alt="img">
 </div>
 <a class="contact-phone" href="tel:0000000000000">0000000000000</a>
 <h3>Ready to speak with our marketing expert? <br> Give us a ring!</h3>
@@ -744,7 +744,7 @@ margin-top: 10px;
 
 <li><a href="https://www.youtube.com/channel/UCyCKKAHOzVyrG4dYtEFJJqw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.bark.com/en/us/company/american-web-coders/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
+<li><a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
 
 <li><a href="https://www.sitejabber.com/reviews/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/sitejabber-icon.png"></a> </li>
 </ul>

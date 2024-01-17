@@ -5902,7 +5902,7 @@ We're experienced in various <span>technologies</span></h3>
 </div>
 <div class="test-box">
 <img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.html">
-<p>AWC did a great job on my music site. David & Emma handled any issues that came up. The site looks great and I would use them again. They were on top of things and communications were outstanding.</p>
+<p>TRH did a great job on my music site. David & Emma handled any issues that came up. The site looks great and I would use them again. They were on top of things and communications were outstanding.</p>
 <div class="flexRow">
 <h3>Marco<br> </h3>
 
@@ -5913,23 +5913,23 @@ We're experienced in various <span>technologies</span></h3>
 </div>
 <div class="test-box">
 <img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.html">
-<p>Trust Reputation Hub is one of the best agencies for website development and designing. I am very much grateful to the professionals of AWC for directing me through the best web service. Every staff member is well qualified, trained, and supportive throughout the procedure. </p>
+<p>Trust Reputation Hub is one of the best agencies for website development and designing. I am very much grateful to the professionals of TRH for directing me through the best web service. Every staff member is well qualified, trained, and supportive throughout the procedure. </p>
 <div class="flexRow">
 <h3>Neha Mishra<br> </h3>
 
 <div class="testimonial-trust">
-<a href="https://www.bark.com/en/us/company/american-web-coders/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
+<a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
 </div>
 </div>
 </div>
 <div class="test-box">
 <img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.html">
-<p>As our original site demanded a lot of manual effort, we asked Trust Reputation Hub to make a more user-friendly website. AWC understood and implemented everything I requested. They never pushed back on any of my requirements – instead, they managed to accomplish all of them. We're very satisfied.</p>
+<p>As our original site demanded a lot of manual effort, we asked Trust Reputation Hub to make a more user-friendly website. TRH understood and implemented everything I requested. They never pushed back on any of my requirements – instead, they managed to accomplish all of them. We're very satisfied.</p>
 <div class="flexRow">
 <h3>Abhi Rwt<br> </h3>
 
 <div class="testimonial-trust">
-<a href="https://www.bark.com/en/us/company/american-web-coders/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
+<a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
 </div>
 </div>
 </div>
@@ -6064,7 +6064,7 @@ We're experienced in various <span>technologies</span></h3>
 <div class="col-md-5 col-sm-5 col-xs-12">
 <div class="contact-right wow fadeInRight" data-wow-delay="0.6s" data-wow-duration="2s">
 <div class="contact-icon-new">
-<img loading="lazy" src="img/phone-ringing.html" class="img-responsive" alt="img">
+<img loading="lazy" src="img/phone-ringing.png" class="img-responsive" alt="img">
 </div>
 <a class="contact-phone" href="tel:0000000000000">0000000000000</a>
 <h3>Ready to speak with our marketing expert? <br> Give us a ring!</h3>
@@ -6089,7 +6089,7 @@ We're experienced in various <span>technologies</span></h3>
 
 <li><a href="https://www.youtube.com/channel/UCyCKKAHOzVyrG4dYtEFJJqw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.bark.com/en/us/company/american-web-coders/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
+<li><a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
 
 <li><a href="https://www.sitejabber.com/reviews/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/sitejabber-icon.png"></a> </li>
 </ul>

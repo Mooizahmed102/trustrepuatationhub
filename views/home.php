@@ -22,7 +22,7 @@
 <div class="row flexStart">
 <div class="col-md-6 col-sm-6 col-xs-12">
 <div class="banner-content wow fadeInLeft" data-wow-delay="0.6s" data-wow-duration="2s">
-<h1 class="section-head">Trust Reputation Hub - A Professional Web Design Agency </h1>
+<h1 class="section-head">Trust Reputation Hub - Design, Marketing and Reputation Management Agency </h1>
 <h5>Maximum Visibility and ROI Guaranteed!</h5><a class="lgt-btn hvr-bounce-to-right" href="contact.html">Get a Quote <i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 <a class="lgt-btn white-btn hvr-bounce-to-right" href="#package-div">See offers <i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 <p>Our customers love to work with us</p>
@@ -55,7 +55,7 @@
 <div class="row">
 <div class="col-md-7 col-sm-7 col-xs-12 center-col">
 <div class="we-content text-center wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="2s">
-<h2 class="pop-head"><span>CALIFORNIA'S AWARD-WINNING</span> WEB DESIGN AGENCY</h2>
+<h2 class="pop-head"><span>TEXAS AWARD-WINNING</span> WEB DESIGN AGENCY</h2>
 <p>As a professional Web Design Agency, we offer a unique and seamless experience for users. We don't just create websites; we create digital experiences to make your customers keep coming back to your site.</p>
 </div>
 </div>
@@ -5946,7 +5946,7 @@ Month
 </div>
 <div class="test-box">
 <img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
-<p>AWC did a great job on my music site. David & Emma handled any issues that came up. The site looks great and I would use them again. They were on top of things and communications were outstanding.</p>
+<p>TRH did a great job on my music site. David & Emma handled any issues that came up. The site looks great and I would use them again. They were on top of things and communications were outstanding.</p>
 <div class="flexRow">
 <h3>Marco<br> </h3>
 
@@ -5957,23 +5957,23 @@ Month
 </div>
 <div class="test-box">
 <img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
-<p>Trust Reputation Hub is one of the best agencies for website development and designing. I am very much grateful to the professionals of AWC for directing me through the best web service. Every staff member is well qualified, trained, and supportive throughout the procedure. </p>
+<p>Trust Reputation Hub is one of the best agencies for website development and designing. I am very much grateful to the professionals of TRH for directing me through the best web service. Every staff member is well qualified, trained, and supportive throughout the procedure. </p>
 <div class="flexRow">
 <h3>Neha Mishra<br> </h3>
 
 <div class="testimonial-trust">
-<a href="https://www.bark.com/en/us/company/american-web-coders/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
+<a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
 </div>
 </div>
 </div>
 <div class="test-box">
 <img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
-<p>As our original site demanded a lot of manual effort, we asked Trust Reputation Hub to make a more user-friendly website. AWC understood and implemented everything I requested. They never pushed back on any of my requirements – instead, they managed to accomplish all of them. We're very satisfied.</p>
+<p>As our original site demanded a lot of manual effort, we asked Trust Reputation Hub to make a more user-friendly website. TRH understood and implemented everything I requested. They never pushed back on any of my requirements – instead, they managed to accomplish all of them. We're very satisfied.</p>
 <div class="flexRow">
 <h3>Abhi Rwt<br> </h3>
 
 <div class="testimonial-trust">
-<a href="https://www.bark.com/en/us/company/american-web-coders/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
+<a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
 </div>
 </div>
 </div>
@@ -6108,7 +6108,7 @@ Month
 <div class="col-md-5 col-sm-5 col-xs-12">
 <div class="contact-right wow fadeInRight" data-wow-delay="0.6s" data-wow-duration="2s">
 <div class="contact-icon-new">
-<img loading="lazy" src="img/phone-ringing.html" class="img-responsive" alt="img">
+<img loading="lazy" src="img/phone-ringing.png" class="img-responsive" alt="img">
 </div>
 <a class="contact-phone" href="tel:0000000000000">0000000000000</a>
 <h3>Ready to speak with our marketing expert? <br> Give us a ring!</h3>
@@ -6133,7 +6133,7 @@ Month
 
 <li><a href="https://www.youtube.com/channel/UCyCKKAHOzVyrG4dYtEFJJqw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.bark.com/en/us/company/american-web-coders/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
+<li><a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
 
 <li><a href="https://www.sitejabber.com/reviews/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/sitejabber-icon.png"></a> </li>
 </ul>

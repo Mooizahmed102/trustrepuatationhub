@@ -3,7 +3,7 @@
 <div class="container bd-btm wow fadeInDown" data-wow-delay="0.2s" data-wow-duration="2s">
 <div class="row">
 <div class="col-sm-6">
-<a href="cdn-cgi/l/email-protection/#61080f070e21000c04130802000f160403020e050413124f020e0c"><i class="fa fa-envelope" aria-hidden="true"></i><span class="__cf_email__" data-cfemail="b0d9ded6dff0d1ddd5c2d9d3d1dec7d5d2d3dfd4d5c2c39ed3dfdd">[email&#160;protected]</span> </a>
+<a href=""><i class="fa fa-envelope" aria-hidden="true"></i><span class="__cf_email__" data-cfemail="">info@Trustreputationhub.com</span> </a>
 </div>
 <div class="col-sm-6">
 <a class="pull-right red-phone" href="tel:0000000000000" onclick="if (!window.__cfRLUnblockHandlers) return false; gtag('config', 'AW-448286750/utYzCPe97YsCEJ6g4dUB', {'phone_conversion_number': '0000000000000' });" data-cf-modified-cbe9344821a13e79676eea82-><i class="fa fa-calendar" aria-hidden="true"></i>For Support: 0000000000000</a>
@@ -142,8 +142,8 @@
 <h3 class="menu-head">Social Community</h3>
 <ul class="social">
 <li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-<li><a href="https://www.linkedin.com/company/american-web-coders/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-<li><a href="https://www.youtube.com/channel/UCNjaos6I-2uPC5uTwG9OtGw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+<li><a href="https://www.linkedin.com/company/TrustReputationHub/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+<li><a href="" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 </ul>
 <h3 class="menu-head">CONNECT TODAY</h3>
 <p>Find out more about our work. Feel free to get in touch with us!</p>
@@ -229,8 +229,8 @@
 <h3 class="menu-head">Social Community</h3>
 <ul class="social">
 <li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-<li><a href="https://www.linkedin.com/company/american-web-coders/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-<li><a href="https://www.youtube.com/channel/UCNjaos6I-2uPC5uTwG9OtGw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+<li><a href="https://www.linkedin.com/company/TrustReputationHub/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+<li><a href="" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 </ul>
 <h3 class="menu-head">Connect With Us</h3>
 <p>Find more about our work or feel free to get in touch with us.</p>

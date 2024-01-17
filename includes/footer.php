@@ -13,7 +13,7 @@
 <a href="https://www.dmca.com/Protection/Status.aspx?ID=0c0535f8-aa02-4aa8-b3ef-c5b6ad472757&amp;refurl=https://www.TrustReputationHub.com/" target="_blank" title="DMCA.com Protection Status" class="dmca-badge"> <img src="../images.dmca.com/Badges/dmca_protected_sml_120l.png" alt="DMCA.com Protection Status"></a>
 <a href="https://www.dmca.com/compliance/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/dmca-compliant-white-bg.png"></a>
 <div class="payment-method-img webdesign-2022">
-<a href="https://techreviewer.co/companies/american-web-coders" target="_blank"><img loading="lazy" data-url="img/tr-1.png" alt="img" class="img-responsive"></a>
+<a href="https://techreviewer.co/companies/TrustReputationHub" target="_blank"><img loading="lazy" data-url="img/tr-1.png" alt="img" class="img-responsive"></a>
 </div>
 </div>
 </div>
