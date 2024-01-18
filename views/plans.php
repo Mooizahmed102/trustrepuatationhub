@@ -3,7 +3,7 @@
 <html>
 
 <!-- Mirrored from www.TrustReputationHub.com/plans by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Jan 2024 22:35:50 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <?php include_once('includes/head.php')?>
 <body>
 <?php include_once('includes/header.php')?></body>
@@ -13,7 +13,7 @@
 <!-- Mirrored from www.TrustReputationHub.com/plans by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Jan 2024 22:35:50 GMT -->
 </html>
 <section class="inner-banner pkg-banner-new">
-<img alt="Image" class="img-responsive" src="img/company-banner.html">
+<img alt="Image" class="img-responsive" src="img/company-banner.jpg">
 <div class="banner-text">
 <div class="container">
 <div class="row">
@@ -5063,13 +5063,13 @@
 </div>
 </div>
 <ul class="social social-new-1 wow zoomIn" data-wow-delay="2s" data-wow-duration="2s">
-<li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.facebook.com/profile.php?id=100092980839774" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 
 <li><a href="https://www.linkedin.com/company/TrustReputationHub/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.youtube.com/channel/UCyCKKAHOzVyrG4dYtEFJJqw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+<li><a href="" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
+<li><a href="https://www.bark.com/en/us/company/trust-reputation-hub/o1epN/" target="_blank"><img src="img/bark-icon.png"></a> </li>
 
 <li><a href="https://www.sitejabber.com/reviews/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/sitejabber-icon.png"></a> </li>
 </ul>

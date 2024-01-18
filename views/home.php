@@ -4,7 +4,7 @@
 <html>
 
 <!-- Mirrored from www.TrustReputationHub.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Jan 2024 22:30:28 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <?php include_once('includes/head.php')?>
 <body>
 <?php include_once('includes/header.php')?></body>
@@ -23,7 +23,7 @@
 <div class="col-md-6 col-sm-6 col-xs-12">
 <div class="banner-content wow fadeInLeft" data-wow-delay="0.6s" data-wow-duration="2s">
 <h1 class="section-head">Trust Reputation Hub - Design, Marketing and Reputation Management Agency </h1>
-<h5>Maximum Visibility and ROI Guaranteed!</h5><a class="lgt-btn hvr-bounce-to-right" href="contact.html">Get a Quote <i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<h5>Maximum Visibility and ROI Guaranteed!</h5><a class="lgt-btn hvr-bounce-to-right" href="contact/">Get a Quote <i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 <a class="lgt-btn white-btn hvr-bounce-to-right" href="#package-div">See offers <i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 <p>Our customers love to work with us</p>
 
@@ -80,7 +80,7 @@
 <img class="lazy" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/ser1.png">
 <div class="service-desc">
 <h2 class="nbr">01</h2>
-<h2 class="section-head"><a href="branding-strategy.html">Branding & Strategy</a></h2>
+<h2 class="section-head"><a href="branding-strategy/">Branding & Strategy</a></h2>
 <ul>
 <li>
 <i aria-hidden="true" class="fa fa-angle-right"></i><a>Brand Strategy & Rebranding</a>
@@ -101,7 +101,7 @@
 <img class="lazy" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/ser2.png">
 <div class="service-desc">
 <h2 class="nbr">02</h2>
-<h2 class="section-head"><a href="web-design.html">Website Design</a></h2>
+<h2 class="section-head"><a href="web-design/">Website Design</a></h2>
 <ul>
 <li>
 <i aria-hidden="true" class="fa fa-angle-right"></i><a>Small Business Websites</a>
@@ -121,7 +121,7 @@
 <img class="lazy" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/ser3.png">
 <div class="service-desc">
 <h2 class="nbr">03</h2>
-<h2 class="section-head"><a href="ecommerce.html">Ecommerce Websites </a></h2>
+<h2 class="section-head"><a href="ecommerce/">Ecommerce Websites </a></h2>
 <ul>
 <li>
 <i aria-hidden="true" class="fa fa-angle-right"></i> <a>Ecommerce Websites</a>
@@ -141,7 +141,7 @@
 <img class="lazy" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/ser4.png">
 <div class="service-desc">
 <h2 class="nbr">04</h2>
-<h2 class="section-head"><a href="hosting-domain.html">Hosting & Domain</a></h2>
+<h2 class="section-head"><a href="hosting-domain/">Hosting & Domain</a></h2>
 <ul>
 <li>
 <i aria-hidden="true" class="fa fa-angle-right"></i><a>Domain & Hosting</a>
@@ -158,7 +158,7 @@
 <img class="lazy" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/ser5.png">
 <div class="service-desc">
 <h2 class="nbr">05</h2>
-<h2 class="section-head"><a href="website-maintainance.html">Website Maintenance</a></h2>
+<h2 class="section-head"><a href="website-maintainance/">Website Maintenance</a></h2>
 <ul>
 <li>
 <i aria-hidden="true" class="fa fa-angle-right"></i> <a>Website Maintenance</a>
@@ -178,7 +178,7 @@
 <img class="lazy" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/ser6.png">
 <div class="service-desc">
 <h2 class="nbr">06</h2>
-<h2 class="section-head"><a href="digital-marketing.html">Result-Driven Marketing</a></h2>
+<h2 class="section-head"><a href="digital-marketing/">Result-Driven Marketing</a></h2>
 <ul>
 <li>
 <i aria-hidden="true" class="fa fa-angle-right"></i> <a>Search Engine Optimization</a>
@@ -303,7 +303,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/website-design-starter.html">View Details</a>
+<a class=" " href="view-detail/website-design-starter/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -369,7 +369,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-professional.html">View Details</a>
+<a href="view-detail/website-design-professional/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Recommended Professional">
@@ -445,7 +445,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-business.html">View Details</a>
+<a href="view-detail/website-design-business/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Business">
@@ -528,7 +528,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-corporate.html">View Details</a>
+<a href="view-detail/website-design-corporate/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Business Plus">
@@ -622,7 +622,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-enterprise.html">View Details</a>
+<a href="view-detail/website-design-enterprise/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Enterprise Website plan">
@@ -722,7 +722,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-enterprise-plus.html">View Details</a>
+<a href="view-detail/website-design-enterprise-plus/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Enterprise Plus plan">
@@ -796,7 +796,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-starter.html">View Details</a>
+<a href="view-detail/ecommerce-starter/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="E-Commerce - Starter Package">
@@ -887,7 +887,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-professional.html">View Details</a>
+<a href="view-detail/ecommerce-professional/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="E-Commerce - Professional Package ">
@@ -987,7 +987,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-business.html">View Details</a>
+<a href="view-detail/ecommerce-business/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="E-Commerce - Business Package ">
@@ -1109,7 +1109,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-enterprise.html">View Details</a>
+<a href="view-detail/ecommerce-enterprise/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="Ecommerce Enterprise Plan">
@@ -1212,7 +1212,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/motion-graphic-starter.html">View Details</a>
+<a class=" " href="view-detail/motion-graphic-starter/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -1266,7 +1266,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/motion-graphic-classic.html">View Details</a>
+<a class=" " href="view-detail/motion-graphic-classic/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -1320,7 +1320,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/motion-graphic-advance.html">View Details</a>
+<a class=" " href="view-detail/motion-graphic-advance/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -1376,7 +1376,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/motion-graphic-pro-advance.html">View Details</a>
+<a class=" " href="view-detail/motion-graphic-pro-advance/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -1430,7 +1430,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/motion-graphic-premium.html">View Details</a>
+<a class=" " href="view-detail/motion-graphic-premium/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -1490,7 +1490,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/logo-animation-2d.html">View Details</a>
+<a class=" " href="view-detail/logo-animation-2d/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -1546,7 +1546,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/logo-animation-2d-advance.html">View Details</a>
+<a class=" " href="view-detail/logo-animation-2d-advance/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -1602,7 +1602,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/logo-animation-3d.html">View Details</a>
+<a class=" " href="view-detail/logo-animation-3d/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -1660,7 +1660,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/logo-animation-3d-advance.html">View Details</a>
+<a class=" " href="view-detail/logo-animation-3d-advance/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -1718,7 +1718,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/basic-2d-animation.html">View Details</a>
+<a class=" " href="view-detail/basic-2d-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -1772,7 +1772,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/standard-2d-animation.html">View Details</a>
+<a class=" " href="view-detail/standard-2d-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -1826,7 +1826,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/advance-2d-animation.html">View Details</a>
+<a class=" " href="view-detail/advance-2d-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -1882,7 +1882,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/advance-pro-2d-animation.html">View Details</a>
+<a class=" " href="view-detail/advance-pro-2d-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -1936,7 +1936,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/premium-2d-animation.html">View Details</a>
+<a class=" " href="view-detail/premium-2d-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -1997,7 +1997,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/basic-3d-animation.html">View Details</a>
+<a class=" " href="view-detail/basic-3d-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2054,7 +2054,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/standard-3d-animation.html">View Details</a>
+<a class=" " href="view-detail/standard-3d-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2111,7 +2111,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/advance-3d-animation.html">View Details</a>
+<a class=" " href="view-detail/advance-3d-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2170,7 +2170,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/premium-3d-animation.html">View Details</a>
+<a class=" " href="view-detail/premium-3d-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2228,7 +2228,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/startup-whiteboard.html">View Details</a>
+<a class=" " href="view-detail/startup-whiteboard/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2282,7 +2282,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/classic-whiteboard.html">View Details</a>
+<a class=" " href="view-detail/classic-whiteboard/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2336,7 +2336,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/advance-whiteboard.html">View Details</a>
+<a class=" " href="view-detail/advance-whiteboard/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2392,7 +2392,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/advance-pro-whiteboard.html">View Details</a>
+<a class=" " href="view-detail/advance-pro-whiteboard/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2446,7 +2446,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/premium-whiteboard.html">View Details</a>
+<a class=" " href="view-detail/premium-whiteboard/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2504,7 +2504,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/character-2d-standard.html">View Details</a>
+<a class=" " href="view-detail/character-2d-standard/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2558,7 +2558,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/character-2d-advance.html">View Details</a>
+<a class=" " href="view-detail/character-2d-advance/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2612,7 +2612,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/character-3d-standard.html">View Details</a>
+<a class=" " href="view-detail/character-3d-standard/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2668,7 +2668,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/character-3d-advance.html">View Details</a>
+<a class=" " href="view-detail/character-3d-advance/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2725,7 +2725,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/startup-screenplay-animation.html">View Details</a>
+<a class=" " href="view-detail/startup-screenplay-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2779,7 +2779,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/classic-screenplay-animation.html">View Details</a>
+<a class=" " href="view-detail/classic-screenplay-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2832,7 +2832,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/premium-screenplay-animation.html">View Details</a>
+<a class=" " href="view-detail/premium-screenplay-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2887,7 +2887,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/startup-typography.html">View Details</a>
+<a class=" " href="view-detail/startup-typography/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2941,7 +2941,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/classic-typography.html">View Details</a>
+<a class=" " href="view-detail/classic-typography/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -2994,7 +2994,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/advance-typography.html">View Details</a>
+<a class=" " href="view-detail/advance-typography/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3050,7 +3050,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/startup-music-video.html">View Details</a>
+<a class=" " href="view-detail/startup-music-video/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3104,7 +3104,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/classic-music-video.html">View Details</a>
+<a class=" " href="view-detail/classic-music-video/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3158,7 +3158,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/advance-music-video.html">View Details</a>
+<a class=" " href="view-detail/advance-music-video/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3214,7 +3214,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/premium-music-video.html">View Details</a>
+<a class=" " href="view-detail/premium-music-video/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3271,7 +3271,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/startup-video-editing.html">View Details</a>
+<a class=" " href="view-detail/startup-video-editing/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3324,7 +3324,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/classic-video-editing.html">View Details</a>
+<a class=" " href="view-detail/classic-video-editing/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3377,7 +3377,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/premium-video-editing.html">View Details</a>
+<a class=" " href="view-detail/premium-video-editing/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3432,7 +3432,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/startup-cutout-animation.html">View Details</a>
+<a class=" " href="view-detail/startup-cutout-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3486,7 +3486,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/classic-cutout-animation.html">View Details</a>
+<a class=" " href="view-detail/classic-cutout-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3539,7 +3539,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/advance-cutout-animation.html">View Details</a>
+<a class=" " href="view-detail/advance-cutout-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3594,7 +3594,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/startup-chalkboard-animation.html">View Details</a>
+<a class=" " href="view-detail/startup-chalkboard-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3648,7 +3648,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/classic-chalkboard-animation.html">View Details</a>
+<a class=" " href="view-detail/classic-chalkboard-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3701,7 +3701,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/advance-chalkboard-animation.html">View Details</a>
+<a class=" " href="view-detail/advance-chalkboard-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3757,7 +3757,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/startup-isometric-animation.html">View Details</a>
+<a class=" " href="view-detail/startup-isometric-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3811,7 +3811,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/classic-isometric-animation.html">View Details</a>
+<a class=" " href="view-detail/classic-isometric-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3865,7 +3865,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/advance-isometric-animation.html">View Details</a>
+<a class=" " href="view-detail/advance-isometric-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3921,7 +3921,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/premium-isometric-animation.html">View Details</a>
+<a class=" " href="view-detail/premium-isometric-animation/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -3983,7 +3983,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/hosting-starter.html">View Details</a>
+<a href="view-detail/hosting-starter/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Hosting Packages">
 <input type="hidden" name="starter" value="Starter Domain Plan">
@@ -4037,7 +4037,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/hosting-corporate.html">View Details</a>
+<a href="view-detail/hosting-corporate/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Hosting Packages">
 <input type="hidden" name="starter" value="Corporate Domain Plan">
@@ -4091,7 +4091,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/hosting-complete.html">View Details</a>
+<a href="view-detail/hosting-complete/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Hosting Packages">
 <input type="hidden" name="starter" value="Complete Domain Plan">
@@ -4136,7 +4136,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/maintenance-starter.html">View Details</a>
+<a href="view-detail/maintenance-starter/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Maintenance">
 <input type="hidden" name="starter" value="Starter Website Maintenance">
@@ -4184,7 +4184,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/maintenance-advance.html">View Details</a>
+<a href="view-detail/maintenance-advance/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Maintenance">
 <input type="hidden" name="starter" value="Website Maintenance Advanced ">
@@ -4238,7 +4238,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/maintenance-premium.html">View Details</a>
+<a href="view-detail/maintenance-premium/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Maintenance">
 <input type="hidden" name="starter" value="Website Maintenance Premium ">
@@ -4501,7 +4501,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/starter-logo.html">View Details</a>
+<a href="view-detail/starter-logo/">View Details</a>
 <input type="hidden" name="logo_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $99">
@@ -4543,7 +4543,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/professional-logo.html">View Details</a>
+<a href="view-detail/professional-logo/">View Details</a>
 </div> <input type="hidden" name="website_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Professional Logo">
 <input type="hidden" name="price" value="for $199">
@@ -4592,7 +4592,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/business-logo.html">View Details</a>
+<a href="view-detail/business-logo/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
@@ -4664,7 +4664,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/seo-startup-plan.html">View Details</a>
+<a href="view-detail/seo-startup-plan/">View Details</a>
 <input type="hidden" name="logo_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $350.00">
@@ -4727,7 +4727,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/seo-scaling-plan.html">View Details</a>
+<a href="view-detail/seo-scaling-plan/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Scaling Plan">
 <input type="hidden" name="starter" value="Scaling Plan">
@@ -4793,7 +4793,7 @@
 <form method="POST" action="https://www.TrustReputationHub.com/plan-form">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/seo-venture-plan.html">View Details</a>
+<a href="view-detail/seo-venture-plan/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Venture Plan">
 <input type="hidden" name="starter" value="Business Logo">
@@ -5505,7 +5505,7 @@ Month
 </div>
 <div class="view-btn wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s">
 <a class="lgt-btn1 hvr-bounce-to-right" href="#">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
-<a class="lgt-btn2 hvr-bounce-to-right" href="quote.html">Order Now<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<a class="lgt-btn2 hvr-bounce-to-right" href="quote/">Order Now<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 </div>
 </section>
  
@@ -5530,97 +5530,97 @@ Month
 <div class="tab-content">
 <div id="webdesign" class="tab-pane fade in active">
 <div class="port-slider portfolio-ss">
-<a href="img/webdesignimg1.html" data-fancybox>
+<a href="img/webdesignimg1/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg1.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg2.html" data-fancybox>
+<a href="img/webdesignimg2/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg2.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg3.html" data-fancybox>
+<a href="img/webdesignimg3/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg3.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg4.html" data-fancybox>
+<a href="img/webdesignimg4/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg4.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg5.html" data-fancybox>
+<a href="img/webdesignimg5/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg5.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg6.html" data-fancybox>
+<a href="img/webdesignimg6/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg6.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg7.html" data-fancybox>
+<a href="img/webdesignimg7/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg7.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg8.html" data-fancybox>
+<a href="img/webdesignimg8/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg8.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg9.html" data-fancybox>
+<a href="img/webdesignimg9/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg9.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg10.html" data-fancybox>
+<a href="img/webdesignimg10/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg10.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg11.html" data-fancybox>
+<a href="img/webdesignimg11/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg11.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg12.html" data-fancybox>
+<a href="img/webdesignimg12/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg12.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg13.html" data-fancybox>
+<a href="img/webdesignimg13/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg13.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg14.html" data-fancybox>
+<a href="img/webdesignimg14/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg14.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg15.html" data-fancybox>
+<a href="img/webdesignimg15/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg15.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg16.html" data-fancybox>
+<a href="img/webdesignimg16/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg16.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg17.html" data-fancybox>
+<a href="img/webdesignimg17/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg17.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg18.html" data-fancybox>
+<a href="img/webdesignimg18/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg18.jpg">
 </figure>
 </a>
-<a href="img/webdesignimg20.html" data-fancybox>
+<a href="img/webdesignimg20/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/webdesignimg20.jpg">
 </figure>
@@ -5629,67 +5629,67 @@ Month
 </div>
 <div id="logodesign" class="tab-pane fade">
 <div class="port-slider logo-sli logo-ss">
-<a href="img/logodesignimg1.html" data-fancybox>
+<a href="img/logodesignimg1/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/logodesignimg1.jpg">
 </figure>
 </a>
-<a href="img/logodesignimg2.html" data-fancybox>
+<a href="img/logodesignimg2/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/logodesignimg2.jpg">
 </figure>
 </a>
-<a href="img/logodesignimg3.html" data-fancybox>
+<a href="img/logodesignimg3/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/logodesignimg3.jpg">
 </figure>
 </a>
-<a href="img/logodesignimg4.html" data-fancybox>
+<a href="img/logodesignimg4/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/logodesignimg4.jpg">
 </figure>
 </a>
-<a href="img/logodesignimg5.html" data-fancybox>
+<a href="img/logodesignimg5/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/logodesignimg5.jpg">
 </figure>
 </a>
-<a href="img/logodesignimg7.html" data-fancybox>
+<a href="img/logodesignimg7/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/logodesignimg7.jpg">
 </figure>
 </a>
-<a href="img/logodesignimg8.html" data-fancybox>
+<a href="img/logodesignimg8/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/logodesignimg8.jpg">
 </figure>
 </a>
-<a href="img/logodesignimg9.html" data-fancybox>
+<a href="img/logodesignimg9/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/logodesignimg9.jpg">
 </figure>
 </a>
-<a href="img/logodesignimg10.html" data-fancybox>
+<a href="img/logodesignimg10/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/logodesignimg10.jpg">
 </figure>
 </a>
-<a href="img/logodesignimg11.html" data-fancybox>
+<a href="img/logodesignimg11/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/logodesignimg11.jpg">
 </figure>
 </a>
-<a href="img/logodesignimg12.html" data-fancybox>
+<a href="img/logodesignimg12/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/logodesignimg12.jpg">
 </figure>
 </a>
-<a href="img/logodesignimg13.html" data-fancybox>
+<a href="img/logodesignimg13/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/logodesignimg13.jpg">
 </figure>
 </a>
-<a href="img/logodesignimg14.html" data-fancybox>
+<a href="img/logodesignimg14/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/logodesignimg14.jpg">
 </figure>
@@ -5698,47 +5698,47 @@ Month
 </div>
 <div id="branddesign" class="tab-pane fade">
 <div class="port-slider logo-sli logo-ss">
-<a href="img/branding-folio/1.html" data-fancybox>
+<a href="img/branding-folio/1/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/1.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/2.html" data-fancybox>
+<a href="img/branding-folio/2/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/2.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/3.html" data-fancybox>
+<a href="img/branding-folio/3/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/3.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/4.html" data-fancybox>
+<a href="img/branding-folio/4/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/4.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/5.html" data-fancybox>
+<a href="img/branding-folio/5/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/5.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/6.html" data-fancybox>
+<a href="img/branding-folio/6/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/6.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/7.html" data-fancybox>
+<a href="img/branding-folio/7/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/7.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/8.html" data-fancybox>
+<a href="img/branding-folio/8/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/8.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/9.html" data-fancybox>
+<a href="img/branding-folio/9/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/9.jpg">
 </figure>
@@ -5757,7 +5757,7 @@ Month
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/2.png">
 </figure>
 </a>
-<a href="img/digital-folio/3.html" data-fancybox>
+<a href="img/digital-folio/3/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/3.png">
 </figure>
@@ -5772,7 +5772,7 @@ Month
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/5.png">
 </figure>
 </a>
-<a href="img/digital-folio/6.html" data-fancybox>
+<a href="img/digital-folio/6/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/6.png">
 </figure>
@@ -5787,7 +5787,7 @@ Month
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/8.png">
 </figure>
 </a>
-<a href="img/digital-folio/9.html" data-fancybox>
+<a href="img/digital-folio/9/" data-fancybox>
 <figure>
 <img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/9.png">
 </figure>
@@ -5796,7 +5796,7 @@ Month
 </div>
 </div>
 <div class="view-btn wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s">
-<a class="lgt-btn hvr-bounce-to-right" href="portfolio.html">Full Portfolio<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<a class="lgt-btn hvr-bounce-to-right" href="portfolio/">Full Portfolio<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 </div>
 </div>
 </div>
@@ -5817,44 +5817,44 @@ Month
 <div class="row">
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/b2b.png">
-<a href="dental-web-design-development.html"><h4>Dental Web <br>Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.svg" data-url="img/b2b.png">
+<h4>Dental Web <br>Design </h4>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/clothing.png">
-<a href="health-care-web-design-development.html"><h4>Health Care Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo/" data-url="img/clothing.png">
+<a href="health-care-web-design-development/"><h4>Health Care Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/construction.png">
-<a href="Construction-web-design-development.html"><h4>Construction Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo/" data-url="img/construction.png">
+<a href="Construction-web-design-development/"><h4>Construction Web Design </h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4   col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/Business.png">
-<a href="corporate-web-design-development.html"><h4>Corporate Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/Business.png">
+<h4>Corporate Web Design </h4>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/fashion.png">
-<a href="fashion-web-design-development.html"><h4>Fashion Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo/" data-url="img/fashion.png">
+<a href="fashion-web-design-development/"><h4>Fashion Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/sports.png">
-<a href="fitness-web-design-development.html"><h4>Fitness Web <br> Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo/" data-url="img/sports.png">
+<a href="fitness-web-design-development/"><h4>Fitness Web <br> Design </h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/Legal.png">
-<a href="law-firm-web-design-development.html"><h4>Law Firm Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo/" data-url="img/Legal.png">
+<a href="law-firm-web-design-development/"><h4>Law Firm Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/Nonprofit.png">
-<a href="shopify-web-design-development.html"><h4>Shopify Website Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo/" data-url="img/Nonprofit.png">
+<a href="shopify-web-design-development/"><h4>Shopify Website Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/real-estate.png">
-<a href="real-estate-web-design-development.html"><h4>Real Estate Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo/" data-url="img/real-estate.png">
+<a href="real-estate-web-design-development/"><h4>Real Estate Web Design </h4></a>
 </div>
 </div>
 </div>
@@ -5865,44 +5865,44 @@ Month
 <div class="row">
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/restaurant.png">
-<a href="restaurant-web-design-development.html"><h4>Restaurant Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo/" data-url="img/restaurant.png">
+<a href="restaurant-web-design-development/"><h4>Restaurant Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/roof.png">
-<a href="Roofing-web-design-development.html"><h4>Roofing Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo/" data-url="img/roof.png">
+<a href="Roofing-web-design-development/"><h4>Roofing Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/therapist.png">
-<a href="seo-web-design-development.html"><h4>SEO Web <br> Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo/" data-url="img/therapist.png">
+<a href="seo-web-design-development/"><h4>SEO Web <br> Design </h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/web-app.png">
-<a href="web-app-design-development.html"><h4>Web Application Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo/" data-url="img/web-app.png">
+<a href="web-app-design-development/"><h4>Web Application Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/wordpress.png">
-<a href="Wordpress-web-design-development.html"><h4>Wordpress Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo/" data-url="img/wordpress.png">
+<a href="Wordpress-web-design-development/"><h4>Wordpress Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/clothes.svg" data-url="img/clothes.svg">
-<a href="clothing-web-design-development.html"><h4>Clothing Web Design</h4></a>
+<a href="clothing-web-design-development/"><h4>Clothing Web Design</h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/b2b.svg" data-url="img/b2b.svg">
-<a href="b2b-web-design-development.html"><h4>B2B Web <br> Design</h4></a>
+<a href="b2b-web-design-development/"><h4>B2B Web <br> Design</h4></a>
 </div>
 <div class="ind-box text-center therapist-box">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/therapist.svg" data-url="img/therapist.svg">
-<a href="therapist-web-design-development.html"><h4>Therapist Web Design</h4></a>
+<a href="therapist-web-design-development/"><h4>Therapist Web Design</h4></a>
 </div>
 <div class="ind-box text-center nonprofit-box">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/heart.svg" data-url="img/heart.svg">
-<a href="Nonprofit-web-design-development.html"><h4>NonProfit Web Design</h4></a>
+<a href="Nonprofit-web-design-development/"><h4>NonProfit Web Design</h4></a>
 </div>
 </div>
 </div>
@@ -5962,7 +5962,7 @@ Month
 <h3>Neha Mishra<br> </h3>
 
 <div class="testimonial-trust">
-<a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
+<a href="https://www.bark.com/en/us/company/trust-reputation-hub/o1epN/" target="_blank"><img src="img/bark-icon.png"></a>
 </div>
 </div>
 </div>
@@ -5973,7 +5973,7 @@ Month
 <h3>Abhi Rwt<br> </h3>
 
 <div class="testimonial-trust">
-<a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
+<a href="https://www.bark.com/en/us/company/trust-reputation-hub/o1epN/" target="_blank"><img src="img/bark-icon.png"></a>
 </div>
 </div>
 </div>
@@ -6017,7 +6017,7 @@ Month
 <div class="row text-center">
 <div class="col-md-8 col-sm-8 col-xs-12 center-col">
 <h3 class="section-head wow bounceIn" data-wow-delay="0.6s" data-wow-duration="2s">Let's discuss your next project
-<a href="contact.html">CONNECT NOW</a></h3>
+<a href="contact/">CONNECT NOW</a></h3>
 </div>
 </div>
 </div>
@@ -6127,13 +6127,13 @@ Month
 </div>
 </div>
 <ul class="social social-new-1 wow zoomIn" data-wow-delay="2s" data-wow-duration="2s">
-<li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.facebook.com/profile.php?id=100092980839774" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 
 <li><a href="https://www.linkedin.com/company/TrustReputationHub/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.youtube.com/channel/UCyCKKAHOzVyrG4dYtEFJJqw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+<li><a href="" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
+<li><a href="https://www.bark.com/en/us/company/trust-reputation-hub/o1epN/" target="_blank"><img src="img/bark-icon.png"></a> </li>
 
 <li><a href="https://www.sitejabber.com/reviews/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/sitejabber-icon.png"></a> </li>
 </ul>

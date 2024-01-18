@@ -4,7 +4,7 @@
 <html>
 
 <!-- Mirrored from www.TrustReputationHub.com/branding-strategy by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Jan 2024 22:32:44 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <?php include_once('includes/head.php')?>
 <body>
 <?php include_once('includes/header.php')?></body>
@@ -312,52 +312,52 @@ Industry
 <div class="port-slider logo-sli logo-ss">
 <a href="img/branding-folio/1.html" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/branding-folio/1.jpg">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/branding-folio/1.jpg">
 </figure>
 </a>
 <a href="img/branding-folio/2.html" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/branding-folio/2.jpg">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/branding-folio/2.jpg">
 </figure>
 </a>
 <a href="img/branding-folio/3.html" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/branding-folio/3.jpg">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/branding-folio/3.jpg">
 </figure>
 </a>
 <a href="img/branding-folio/4.html" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/branding-folio/4.jpg">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/branding-folio/4.jpg">
 </figure>
 </a>
 <a href="img/branding-folio/5.html" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/branding-folio/5.jpg">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/branding-folio/5.jpg">
 </figure>
 </a>
 <a href="img/branding-folio/6.html" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/branding-folio/6.jpg">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/branding-folio/6.jpg">
 </figure>
 </a>
 <a href="img/branding-folio/7.html" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/7.jpg">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/7.jpg">
 </figure>
 </a>
 <a href="img/8.html" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/8.jpg">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/8.jpg">
 </figure>
 </a>
 <a href="img/8.html" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/8.jpg">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/8.jpg">
 </figure>
 </a>
 <a href="img/9.html" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/9.jpg">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/9.jpg">
 </figure>
 </a>
 
@@ -862,43 +862,43 @@ We're experienced in various <span>technologies</span></h3>
 <div class="row">
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/b2b.png">
-<a href="dental-web-design-development.html"><h4>Dental Web <br>Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/b2b.png">
+<h4>Dental Web <br>Design </h4>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/clothing.png">
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/clothing.png">
 <a href="health-care-web-design-development.html"><h4>Health Care Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/construction.png">
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/construction.png">
 <a href="Construction-web-design-development.html"><h4>Construction Web Design </h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4   col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/Business.png">
-<a href="corporate-web-design-development.html"><h4>Corporate Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/Business.png">
+<h4>Corporate Web Design </h4>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/fashion.png">
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/fashion.png">
 <a href="fashion-web-design-development.html"><h4>Fashion Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/sports.png">
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/sports.png">
 <a href="fitness-web-design-development.html"><h4>Fitness Web <br> Design </h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/Legal.png">
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/Legal.png">
 <a href="law-firm-web-design-development.html"><h4>Law Firm Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/Nonprofit.png">
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/Nonprofit.png">
 <a href="shopify-web-design-development.html"><h4>Shopify Website Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/real-estate.png">
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/real-estate.png">
 <a href="real-estate-web-design-development.html"><h4>Real Estate Web Design </h4></a>
 </div>
 </div>
@@ -910,25 +910,25 @@ We're experienced in various <span>technologies</span></h3>
 <div class="row">
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/restaurant.png">
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/restaurant.png">
 <a href="restaurant-web-design-development.html"><h4>Restaurant Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/roof.png">
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/roof.png">
 <a href="Roofing-web-design-development.html"><h4>Roofing Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/therapist.png">
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/therapist.png">
 <a href="seo-web-design-development.html"><h4>SEO Web <br> Design </h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/web-app.png">
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/web-app.png">
 <a href="web-app-design-development.html"><h4>Web Application Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/wordpress.png">
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/wordpress.png">
 <a href="Wordpress-web-design-development.html"><h4>Wordpress Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
@@ -1007,7 +1007,7 @@ We're experienced in various <span>technologies</span></h3>
 <h3>Neha Mishra<br> </h3>
 
 <div class="testimonial-trust">
-<a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
+<a href="https://www.bark.com/en/us/company/trust-reputation-hub/o1epN/" target="_blank"><img src="img/bark-icon.png"></a>
 </div>
 </div>
 </div>
@@ -1018,7 +1018,7 @@ We're experienced in various <span>technologies</span></h3>
 <h3>Abhi Rwt<br> </h3>
 
 <div class="testimonial-trust">
-<a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
+<a href="https://www.bark.com/en/us/company/trust-reputation-hub/o1epN/" target="_blank"><img src="img/bark-icon.png"></a>
 </div>
 </div>
 </div>
@@ -1171,13 +1171,13 @@ We're experienced in various <span>technologies</span></h3>
 </div>
 </div>
 <ul class="social social-new-1 wow zoomIn" data-wow-delay="2s" data-wow-duration="2s">
-<li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.facebook.com/profile.php?id=100092980839774" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 
 <li><a href="https://www.linkedin.com/company/TrustReputationHub/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.youtube.com/channel/UCyCKKAHOzVyrG4dYtEFJJqw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+<li><a href="" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
+<li><a href="https://www.bark.com/en/us/company/trust-reputation-hub/o1epN/" target="_blank"><img src="img/bark-icon.png"></a> </li>
 
 <li><a href="https://www.sitejabber.com/reviews/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/sitejabber-icon.png"></a> </li>
 </ul>

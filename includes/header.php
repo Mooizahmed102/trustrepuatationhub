@@ -7,7 +7,7 @@
 </div>
 <div class="col-sm-6">
 <a class="pull-right red-phone" href="tel:0000000000000" onclick="if (!window.__cfRLUnblockHandlers) return false; gtag('config', 'AW-448286750/utYzCPe97YsCEJ6g4dUB', {'phone_conversion_number': '0000000000000' });" data-cf-modified-cbe9344821a13e79676eea82-><i class="fa fa-calendar" aria-hidden="true"></i>For Support: 0000000000000</a>
-<a class="pull-right red-phone" href="tel:0000000000000" onclick="if (!window.__cfRLUnblockHandlers) return false; gtag('config', 'AW-448286750/utYzCPe97YsCEJ6g4dUB', {'phone_conversion_number': '866-935-5414' });" data-cf-modified-cbe9344821a13e79676eea82-><i aria-hidden="true" class="fa fa-phone"></i>For Sales:00000000</a>
+
 </div>
 </div>
 </div>
@@ -141,7 +141,7 @@
 <div class="social-after">
 <h3 class="menu-head">Social Community</h3>
 <ul class="social">
-<li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.facebook.com/profile.php?id=100092980839774" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 <li><a href="https://www.linkedin.com/company/TrustReputationHub/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 <li><a href="" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 </ul>
@@ -228,7 +228,7 @@
 <div class="social-content">
 <h3 class="menu-head">Social Community</h3>
 <ul class="social">
-<li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.facebook.com/profile.php?id=100092980839774" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 <li><a href="https://www.linkedin.com/company/TrustReputationHub/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 <li><a href="" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 </ul>

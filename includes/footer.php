@@ -10,7 +10,7 @@
 </div>
 <div class="ftr-logos">
 <img loading="lazy" alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" data-url="img/ftr1.png">
-<a href="https://www.dmca.com/Protection/Status.aspx?ID=0c0535f8-aa02-4aa8-b3ef-c5b6ad472757&amp;refurl=https://www.TrustReputationHub.com/" target="_blank" title="DMCA.com Protection Status" class="dmca-badge"> <img src="../images.dmca.com/Badges/dmca_protected_sml_120l.png" alt="DMCA.com Protection Status"></a>
+<a href="https://www.dmca.com/Protection/Status.aspx?ID=0c0535f8-aa02-4aa8-b3ef-c5b6ad472757&amp;refurl=https://www.TrustReputationHub.com/" target="_blank" title="DMCA.com Protection Status" class="dmca-badge"> <img src="../img/dmca_protected_sml_120l.png" alt="DMCA.com Protection Status"></a>
 <a href="https://www.dmca.com/compliance/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/dmca-compliant-white-bg.png"></a>
 <div class="payment-method-img webdesign-2022">
 <a href="https://techreviewer.co/companies/TrustReputationHub" target="_blank"><img loading="lazy" data-url="img/tr-1.png" alt="img" class="img-responsive"></a>
@@ -31,9 +31,9 @@
 <li>
 <a href="ecommerce/">eCommerce Website</a>
 </li>
-<li>
+<!-- <li>
 <a href="custom-web-design/">Custom Website Solution</a>
-</li>
+</li> -->
 <li>
 <a href="hosting-domain/">Hosting & Domain</a>
 </li>
@@ -59,21 +59,21 @@
 <a href="portfolio/">Portfolio</a>
 </li>
 </li>
-<li>
+<!-- <li>
 <a href="faq/">FAQs</a>
-</li>
+</li> -->
 <li>
 <a href="contact/">Contact</a>
 </li>
-<li>
+<!-- <li>
 <a href="news/">Newsroom</a>
-</li>
-<li>
+</li> -->
+<!-- <li>
 <a href="podcast/">Podcast</a>
-</li>
-<li>
+</li> -->
+<!-- <li>
 <a href="blog/">Blog</a>
-</li>
+</li> -->
 <li>
 <a href="case-studies/">Case studies</a>
 </li>
@@ -81,17 +81,17 @@
 </div>
 <div class="col-md-3 col-sm-6 col-xs-12">
 <ul class="ftr-list contact-det">
-<li>
+<!-- <li>
 <i aria-hidden="true" class="fa fa-mobile"></i><a href="tel:0000000000000">For Sales:00000000</a>
-</li>
+</li> -->
 <li>
 <i aria-hidden="true" class="fa fa-mobile"></i><a href="tel:0000000000000">For Support: 0000000000000</a>
 </li>
 <li>
-<i aria-hidden="true" class="fa fa-envelope"></i><a href="cdn-cgi/l/email-protection/#365e535a5a4676575b53445f5557584153545559525344451855595b"><span class="__cf_email__" data-cfemail="82ebece4edc2e3efe7f0ebe1e3ecf5e7e0e1ede6e7f0f1ace1edef">[email&#160;protected]</span></a>
+<i aria-hidden="true" class="fa fa-envelope"></i><a href="mailto:info@Trustreputationhub.com"><span class="__cf_email__" data-cfemail="82ebece4edc2e3efe7f0ebe1e3ecf5e7e0e1ede6e7f0f1ace1edef">info@Trustreputationhub.com</span></a>
 </li>
 <li>
-<i aria-hidden="true" class="fa fa-map-marker"></i><a href="#."> 2142 W Washington Blvd, Los Angeles, CA 90018, United States</a>
+<i aria-hidden="true" class="fa fa-map-marker"></i><a href="#."> 211 E 7th St STE 500, Austin, TX 78701, United States</a>
 </li>
 </ul>
 <div class="footer-head payment-margin">
@@ -122,6 +122,19 @@
 </div>
 </div>
 </footer>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/65a078770ff6374032bf14c4/1hjtdd55e';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 <script src="js/jquery.min.js" type="text/javascript"></script>
 <script src="js/slick.js" type="text/javascript"></script>
 <script src="js/bootstrap.min.js" type="text/javascript"></script>

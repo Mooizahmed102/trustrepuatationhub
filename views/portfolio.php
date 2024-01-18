@@ -2,7 +2,7 @@
 <html>
 
 <!-- Mirrored from www.TrustReputationHub.com/portfolio by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Jan 2024 22:34:50 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <?php include_once('includes/head.php')?>
 <body>
 <?php include_once('includes/header.php')?></body>
@@ -168,7 +168,7 @@
    }
 </style>
 <section class="inner-banner portfolio-banner">
-<img alt="Image" class="img-responsive" src="img/porfolio-banner.html">
+<img alt="Image" class="img-responsive" src="img/porfolio-banner.jpg">
 <div class="banner-text">
 <div class="container">
 <div class="row ">
@@ -216,64 +216,64 @@
 <div class="row">
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/accounting/1.html" data-fancybox>
-<img src="img/portfolio/accounting/1.html" class>
+<a href="img/1.jpg" data-fancybox>
+<img src="img/1.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/accounting/2.html" data-fancybox>
-<img src="img/portfolio/accounting/2.html" class>
+<a href="img/2.jpg" data-fancybox>
+<img src="img/2.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/accounting/3.html" data-fancybox>
-<img src="img/portfolio/accounting/3.html" class>
+<a href="img/3.jpg" data-fancybox>
+<img src="img/3.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/accounting/4.html" data-fancybox>
-<img src="img/portfolio/accounting/4.html" class>
+<a href="img/4.jpg" data-fancybox>
+<img src="img/4.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/accounting/5.html" data-fancybox>
-<img src="img/portfolio/accounting/5.html" class>
+<a href="img/5.jpg" data-fancybox>
+<img src="img/5.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/accounting/6.html" data-fancybox>
-<img src="img/portfolio/accounting/6.html" class>
+<a href="img/6.jpg" data-fancybox>
+<img src="img/6.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/accounting/7.html" data-fancybox>
-<img src="img/portfolio/accounting/7.html" class>
+<a href="img/7.jpg" data-fancybox>
+<img src="img/7.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/accounting/8.html" data-fancybox>
-<img src="img/portfolio/accounting/8.html" class>
+<a href="img/8.jpg" data-fancybox>
+<img src="img/8.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/accounting/9.html" data-fancybox>
-<img src="img/portfolio/accounting/9.html" class>
+<a href="img/9.jpg" data-fancybox>
+<img src="img/9.jpg" class>
 </a>
 </div>
 </div>
@@ -283,64 +283,64 @@
 <div class="row">
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/cbd/1.html" data-fancybox>
-<img src="img/portfolio/cbd/1.html" class>
+<a href="img/cbd/1.jpg" data-fancybox>
+<img src="img/cbd/1.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/cbd/2.html" data-fancybox>
-<img src="img/portfolio/cbd/2.html" class>
+<a href="img/cbd/2.jpg" data-fancybox>
+<img src="img/cbd/2.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/cbd/3.html" data-fancybox>
-<img src="img/portfolio/cbd/3.html" class>
+<a href="img/cbd/3.jpg" data-fancybox>
+<img src="img/cbd/3.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/cbd/4.html" data-fancybox>
-<img src="img/portfolio/cbd/4.html" class>
+<a href="img/cbd/4.jpg" data-fancybox>
+<img src="img/cbd/4.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/cbd/5.html" data-fancybox>
-<img src="img/portfolio/cbd/5.html" class>
+<a href="img/cbd/5.jpg" data-fancybox>
+<img src="img/cbd/5.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/cbd/6.html" data-fancybox>
-<img src="img/portfolio/cbd/6.html" class>
+<a href="img/cbd/6.jpg" data-fancybox>
+<img src="img/cbd/6.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/cbd/7.html" data-fancybox>
-<img src="img/portfolio/cbd/7.html" class>
+<a href="img/cbd/7.jpg" data-fancybox>
+<img src="img/cbd/7.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/cbd/8.html" data-fancybox>
-<img src="img/portfolio/cbd/8.html" class>
+<a href="img/cbd/8.jpg" data-fancybox>
+<img src="img/cbd/8.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/cbd/9.html" data-fancybox>
-<img src="img/portfolio/cbd/9.html" class>
+<a href="img/cbd/9.jpg" data-fancybox>
+<img src="img/cbd/9.jpg" class>
 </a>
 </div>
 </div>
@@ -350,64 +350,64 @@
 <div class="row">
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/community-non-profit/1.html" data-fancybox>
-<img src="img/portfolio/community-non-profit/1.html" class>
+<a href="img/community-non-profit/1.jpg" data-fancybox>
+<img src="img/community-non-profit/1.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/community-non-profit/2.html" data-fancybox>
-<img src="img/portfolio/community-non-profit/2.html" class>
+<a href="img/community-non-profit/2.jpg" data-fancybox>
+<img src="img/community-non-profit/2.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/community-non-profit/3.html" data-fancybox>
-<img src="img/portfolio/community-non-profit/3.html" class>
+<a href="img/community-non-profit/3.jpg" data-fancybox>
+<img src="img/community-non-profit/3.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/community-non-profit/4.html" data-fancybox>
-<img src="img/portfolio/community-non-profit/4.html" class>
+<a href="img/community-non-profit/4.jpg" data-fancybox>
+<img src="img/community-non-profit/4.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/community-non-profit/5.html" data-fancybox>
-<img src="img/portfolio/community-non-profit/5.html" class>
+<a href="img/community-non-profit/5.jpg" data-fancybox>
+<img src="img/community-non-profit/5.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/community-non-profit/6.html" data-fancybox>
-<img src="img/portfolio/community-non-profit/6.html" class>
+<a href="img/community-non-profit/6.jpg" data-fancybox>
+<img src="img/community-non-profit/6.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/community-non-profit/7.html" data-fancybox>
-<img src="img/portfolio/community-non-profit/7.html" class>
+<a href="img/community-non-profit/7.jpg" data-fancybox>
+<img src="img/community-non-profit/7.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/community-non-profit/8.html" data-fancybox>
-<img src="img/portfolio/community-non-profit/8.html" class>
+<a href="img/community-non-profit/8.jpg" data-fancybox>
+<img src="img/community-non-profit/8.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/community-non-profit/9.html" data-fancybox>
-<img src="img/portfolio/community-non-profit/9.html" class>
+<a href="img/community-non-profit/9.jpg" data-fancybox>
+<img src="img/community-non-profit/9.jpg" class>
 </a>
 </div>
 </div>
@@ -417,64 +417,64 @@
 <div class="row">
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/dental-medical/1.html" data-fancybox>
-<img src="img/portfolio/dental-medical/1.html" class>
+<a href="img/dental-medical/1.jpg" data-fancybox>
+<img src="img/dental-medical/1.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/dental-medical/2.html" data-fancybox>
-<img src="img/portfolio/dental-medical/2.html" class>
+<a href="img/dental-medical/2.jpg" data-fancybox>
+<img src="img/dental-medical/2.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/dental-medical/3.html" data-fancybox>
-<img src="img/portfolio/dental-medical/3.html" class>
+<a href="img/dental-medical/3.jpg" data-fancybox>
+<img src="img/dental-medical/3.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/dental-medical/4.html" data-fancybox>
-<img src="img/portfolio/dental-medical/4.html" class>
+<a href="img/dental-medical/4.jpg" data-fancybox>
+<img src="img/dental-medical/4.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/dental-medical/5.html" data-fancybox>
-<img src="img/portfolio/dental-medical/5.html" class>
+<a href="img/dental-medical/5.jpg" data-fancybox>
+<img src="img/dental-medical/5.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/dental-medical/6.html" data-fancybox>
-<img src="img/portfolio/dental-medical/6.html" class>
+<a href="img/dental-medical/6.jpg" data-fancybox>
+<img src="img/dental-medical/6.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/dental-medical/7.html" data-fancybox>
-<img src="img/portfolio/dental-medical/7.html" class>
+<a href="img/dental-medical/7.jpg" data-fancybox>
+<img src="img/dental-medical/7.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/dental-medical/8.html" data-fancybox>
-<img src="img/portfolio/dental-medical/8.html" class>
+<a href="img/dental-medical/8.jpg" data-fancybox>
+<img src="img/dental-medical/8.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/dental-medical/9.html" data-fancybox>
-<img src="img/portfolio/dental-medical/9.html" class>
+<a href="img/dental-medical/9.jpg" data-fancybox>
+<img src="img/dental-medical/9.jpg" class>
 </a>
 </div>
 </div>
@@ -484,85 +484,85 @@
 <div class="row">
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/education/1.html" data-fancybox>
-<img src="img/portfolio/education/1.html" class>
+<a href="img/education/1.jpg" data-fancybox>
+<img src="img/education/1.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/education/2.html" data-fancybox>
-<img src="img/portfolio/education/2.html" class>
+<a href="img/education/2.jpg" data-fancybox>
+<img src="img/education/2.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/education/3.html" data-fancybox>
-<img src="img/portfolio/education/3.html" class>
+<a href="img/education/3.jpg" data-fancybox>
+<img src="img/education/3.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/education/4.html" data-fancybox>
-<img src="img/portfolio/education/4.html" class>
+<a href="img/education/4.jpg" data-fancybox>
+<img src="img/education/4.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/education/5.html" data-fancybox>
-<img src="img/portfolio/education/5.html" class>
+<a href="img/education/5.jpg" data-fancybox>
+<img src="img/education/5.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/education/6.html" data-fancybox>
-<img src="img/portfolio/education/6.html" class>
+<a href="img/education/6.jpg" data-fancybox>
+<img src="img/education/6.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/education/7.html" data-fancybox>
-<img src="img/portfolio/education/7.html" class>
+<a href="img/education/7.jpg" data-fancybox>
+<img src="img/education/7.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/education/8.html" data-fancybox>
-<img src="img/portfolio/education/8.html" class>
+<a href="img/education/8.jpg" data-fancybox>
+<img src="img/education/8.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/education/9.html" data-fancybox>
-<img src="img/portfolio/education/9.html" class>
+<a href="img/education/9.jpg" data-fancybox>
+<img src="img/education/9.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/education/10.html" data-fancybox>
-<img src="img/portfolio/education/10.html" class>
+<a href="img/education/10.jpg" data-fancybox>
+<img src="img/education/10.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/education/11.html" data-fancybox>
-<img src="img/portfolio/education/11.html" class>
+<a href="img/education/11.jpg" data-fancybox>
+<img src="img/education/11.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/education/12.html" data-fancybox>
-<img src="img/portfolio/education/12.html" class>
+<a href="img/education/12.jpg" data-fancybox>
+<img src="img/education/12.jpg" class>
 </a>
 </div>
 </div>
@@ -572,85 +572,85 @@
 <div class="row">
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/food-drink/1.html" data-fancybox>
-<img src="img/portfolio/food-drink/1.html" class>
+<a href="img/food-drink/1.jpg" data-fancybox>
+<img src="img/food-drink/1.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/food-drink/2.html" data-fancybox>
-<img src="img/portfolio/food-drink/2.html" class>
+<a href="img/food-drink/2.jpg" data-fancybox>
+<img src="img/food-drink/2.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/food-drink/3.html" data-fancybox>
-<img src="img/portfolio/food-drink/3.html" class>
+<a href="img/food-drink/3.jpg" data-fancybox>
+<img src="img/food-drink/3.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/food-drink/4.html" data-fancybox>
-<img src="img/portfolio/food-drink/4.html" class>
+<a href="img/food-drink/4.jpg" data-fancybox>
+<img src="img/food-drink/4.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/food-drink/5.html" data-fancybox>
-<img src="img/portfolio/food-drink/5.html" class>
+<a href="img/food-drink/5.jpg" data-fancybox>
+<img src="img/food-drink/5.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/food-drink/6.html" data-fancybox>
-<img src="img/portfolio/food-drink/6.html" class>
+<a href="img/food-drink/6.jpg" data-fancybox>
+<img src="img/food-drink/6.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/food-drink/7.html" data-fancybox>
-<img src="img/portfolio/food-drink/7.html" class>
+<a href="img/food-drink/7.jpg" data-fancybox>
+<img src="img/food-drink/7.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/food-drink/8.html" data-fancybox>
-<img src="img/portfolio/food-drink/8.html" class>
+<a href="img/food-drink/8.jpg" data-fancybox>
+<img src="img/food-drink/8.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/food-drink/9.html" data-fancybox>
-<img src="img/portfolio/food-drink/9.html" class>
+<a href="img/food-drink/9.jpg" data-fancybox>
+<img src="img/food-drink/9.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/food-drink/10.html" data-fancybox>
-<img src="img/portfolio/food-drink/10.html" class>
+<a href="img/food-drink/10.jpg" data-fancybox>
+<img src="img/food-drink/10.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/food-drink/11.html" data-fancybox>
-<img src="img/portfolio/food-drink/11.html" class>
+<a href="img/food-drink/11.jpg" data-fancybox>
+<img src="img/food-drink/11.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/food-drink/12.html" data-fancybox>
-<img src="img/portfolio/food-drink/12.html" class>
+<a href="img/food-drink/12.jpg" data-fancybox>
+<img src="img/food-drink/12.jpg" class>
 </a>
 </div>
 </div>
@@ -660,106 +660,106 @@
 <div class="row">
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/1.html" data-fancybox>
-<img src="img/portfolio/health-fitness/1.html" class>
+<a href="img/health-fitness/1.jpg" data-fancybox>
+<img src="img/health-fitness/1.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/2.html" data-fancybox>
-<img src="img/portfolio/health-fitness/2.html" class>
+<a href="img/health-fitness/2.jpg" data-fancybox>
+<img src="img/health-fitness/2.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/3.html" data-fancybox>
-<img src="img/portfolio/health-fitness/3.html" class>
+<a href="img/health-fitness/3.jpg" data-fancybox>
+<img src="img/health-fitness/3.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/4.html" data-fancybox>
-<img src="img/portfolio/health-fitness/4.html" class>
+<a href="img/health-fitness/4.jpg" data-fancybox>
+<img src="img/health-fitness/4.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/5.html" data-fancybox>
-<img src="img/portfolio/health-fitness/5.html" class>
+<a href="img/health-fitness/5.jpg" data-fancybox>
+<img src="img/health-fitness/5.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/6.html" data-fancybox>
-<img src="img/portfolio/health-fitness/6.html" class>
+<a href="img/health-fitness/6.jpg" data-fancybox>
+<img src="img/health-fitness/6.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/7.html" data-fancybox>
-<img src="img/portfolio/health-fitness/7.html" class>
+<a href="img/health-fitness/7.jpg" data-fancybox>
+<img src="img/health-fitness/7.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/8.html" data-fancybox>
-<img src="img/portfolio/health-fitness/8.html" class>
+<a href="img/health-fitness/8.jpg" data-fancybox>
+<img src="img/health-fitness/8.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/9.html" data-fancybox>
-<img src="img/portfolio/health-fitness/9.html" class>
+<a href="img/health-fitness/9.jpg" data-fancybox>
+<img src="img/health-fitness/9.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/10.html" data-fancybox>
-<img src="img/portfolio/health-fitness/10.html" class>
+<a href="img/health-fitness/10.jpg" data-fancybox>
+<img src="img/health-fitness/10.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/11.html" data-fancybox>
-<img src="img/portfolio/health-fitness/11.html" class>
+<a href="img/health-fitness/11.jpg" data-fancybox>
+<img src="img/health-fitness/11.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/12.html" data-fancybox>
-<img src="img/portfolio/health-fitness/12.html" class>
+<a href="img/health-fitness/12.jpg" data-fancybox>
+<img src="img/health-fitness/12.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/13.html" data-fancybox>
-<img src="img/portfolio/health-fitness/13.html" class>
+<a href="img/health-fitness/13.jpg" data-fancybox>
+<img src="img/health-fitness/13.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/14.html" data-fancybox>
-<img src="img/portfolio/health-fitness/14.html" class>
+<a href="img/health-fitness/14.jpg" data-fancybox>
+<img src="img/health-fitness/14.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/health-fitness/15.html" data-fancybox>
-<img src="img/portfolio/health-fitness/15.html" class>
+<a href="img/health-fitness/15.jpg" data-fancybox>
+<img src="img/health-fitness/15.jpg" class>
 </a>
 </div>
 </div>
@@ -769,64 +769,64 @@
 <div class="row">
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/hvac-Plumbing-Roofing/1.html" data-fancybox>
-<img src="img/portfolio/hvac-Plumbing-Roofing/1.html" class>
+<a href="img/hvac-Plumbing-Roofing/1.jpg" data-fancybox>
+<img src="img/hvac-Plumbing-Roofing/1.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/hvac-Plumbing-Roofing/2.html" data-fancybox>
-<img src="img/portfolio/hvac-Plumbing-Roofing/2.html" class>
+<a href="img/hvac-Plumbing-Roofing/2.jpg" data-fancybox>
+<img src="img/hvac-Plumbing-Roofing/2.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/hvac-Plumbing-Roofing/3.html" data-fancybox>
-<img src="img/portfolio/hvac-Plumbing-Roofing/3.html" class>
+<a href="img/hvac-Plumbing-Roofing/3.jpg" data-fancybox>
+<img src="img/hvac-Plumbing-Roofing/3.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/hvac-Plumbing-Roofing/4.html" data-fancybox>
-<img src="img/portfolio/hvac-Plumbing-Roofing/4.html" class>
+<a href="img/hvac-Plumbing-Roofing/4.jpg" data-fancybox>
+<img src="img/hvac-Plumbing-Roofing/4.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/hvac-Plumbing-Roofing/5.html" data-fancybox>
-<img src="img/portfolio/hvac-Plumbing-Roofing/5.html" class>
+<a href="img/hvac-Plumbing-Roofing/5.jpg" data-fancybox>
+<img src="img/hvac-Plumbing-Roofing/5.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/hvac-Plumbing-Roofing/6.html" data-fancybox>
-<img src="img/portfolio/hvac-Plumbing-Roofing/6.html" class>
+<a href="img/hvac-Plumbing-Roofing/6.jpg" data-fancybox>
+<img src="img/hvac-Plumbing-Roofing/6.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/hvac-Plumbing-Roofing/7.html" data-fancybox>
-<img src="img/portfolio/hvac-Plumbing-Roofing/7.html" class>
+<a href="img/hvac-Plumbing-Roofing/7.jpg" data-fancybox>
+<img src="img/hvac-Plumbing-Roofing/7.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/hvac-Plumbing-Roofing/8.html" data-fancybox>
-<img src="img/portfolio/hvac-Plumbing-Roofing/8.html" class>
+<a href="img/hvac-Plumbing-Roofing/8.jpg" data-fancybox>
+<img src="img/hvac-Plumbing-Roofing/8.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/hvac-Plumbing-Roofing/9.html" data-fancybox>
-<img src="img/portfolio/hvac-Plumbing-Roofing/9.html" class>
+<a href="img/hvac-Plumbing-Roofing/9.jpg" data-fancybox>
+<img src="img/hvac-Plumbing-Roofing/9.jpg" class>
 </a>
 </div>
 </div>
@@ -836,85 +836,85 @@
 <div class="row">
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/it-consulting/1.html" data-fancybox>
-<img src="img/portfolio/it-consulting/1.html" class>
+<a href="img/it-consulting/1.jpg" data-fancybox>
+<img src="img/it-consulting/1.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/it-consulting/2.html" data-fancybox>
-<img src="img/portfolio/it-consulting/2.html" class>
+<a href="img/it-consulting/2.jpg" data-fancybox>
+<img src="img/it-consulting/2.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/it-consulting/3.html" data-fancybox>
-<img src="img/portfolio/it-consulting/3.html" class>
+<a href="img/it-consulting/3.jpg" data-fancybox>
+<img src="img/it-consulting/3.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/it-consulting/4.html" data-fancybox>
-<img src="img/portfolio/it-consulting/4.html" class>
+<a href="img/it-consulting/4.jpg" data-fancybox>
+<img src="img/it-consulting/4.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/it-consulting/5.html" data-fancybox>
-<img src="img/portfolio/it-consulting/5.html" class>
+<a href="img/it-consulting/5.jpg" data-fancybox>
+<img src="img/it-consulting/5.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/it-consulting/6.html" data-fancybox>
-<img src="img/portfolio/it-consulting/6.html" class>
+<a href="img/it-consulting/6.jpg" data-fancybox>
+<img src="img/it-consulting/6.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/it-consulting/7.html" data-fancybox>
-<img src="img/portfolio/it-consulting/7.html" class>
+<a href="img/it-consulting/7.jpg" data-fancybox>
+<img src="img/it-consulting/7.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/it-consulting/8.html" data-fancybox>
-<img src="img/portfolio/it-consulting/8.html" class>
+<a href="img/it-consulting/8.jpg" data-fancybox>
+<img src="img/it-consulting/8.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/it-consulting/9.html" data-fancybox>
-<img src="img/portfolio/it-consulting/9.html" class>
+<a href="img/it-consulting/9.jpg" data-fancybox>
+<img src="img/it-consulting/9.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/it-consulting/10.html" data-fancybox>
-<img src="img/portfolio/it-consulting/10.html" class>
+<a href="img/it-consulting/10.jpg" data-fancybox>
+<img src="img/it-consulting/10.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/it-consulting/11.html" data-fancybox>
-<img src="img/portfolio/it-consulting/11.html" class>
+<a href="img/it-consulting/11.jpg" data-fancybox>
+<img src="img/it-consulting/11.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/it-consulting/12.html" data-fancybox>
-<img src="img/portfolio/it-consulting/12.html" class>
+<a href="img/it-consulting/12.jpg" data-fancybox>
+<img src="img/it-consulting/12.jpg" class>
 </a>
 </div>
 </div>
@@ -924,85 +924,85 @@
 <div class="row">
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/logistics-shipping/1.html" data-fancybox>
-<img src="img/portfolio/logistics-shipping/1.html" class>
+<a href="img/logistics-shipping/1.jpg" data-fancybox>
+<img src="img/logistics-shipping/1.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/logistics-shipping/2.html" data-fancybox>
-<img src="img/portfolio/logistics-shipping/2.html" class>
+<a href="img/logistics-shipping/2.jpg" data-fancybox>
+<img src="img/logistics-shipping/2.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/logistics-shipping/3.html" data-fancybox>
-<img src="img/portfolio/logistics-shipping/3.html" class>
+<a href="img/logistics-shipping/3.jpg" data-fancybox>
+<img src="img/logistics-shipping/3.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/logistics-shipping/4.html" data-fancybox>
-<img src="img/portfolio/logistics-shipping/4.html" class>
+<a href="img/logistics-shipping/4.jpg" data-fancybox>
+<img src="img/logistics-shipping/4.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/logistics-shipping/5.html" data-fancybox>
-<img src="img/portfolio/logistics-shipping/5.html" class>
+<a href="img/logistics-shipping/5.jpg" data-fancybox>
+<img src="img/logistics-shipping/5.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/logistics-shipping/6.html" data-fancybox>
-<img src="img/portfolio/logistics-shipping/6.html" class>
+<a href="img/logistics-shipping/6.jpg" data-fancybox>
+<img src="img/logistics-shipping/6.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/logistics-shipping/7.html" data-fancybox>
-<img src="img/portfolio/logistics-shipping/7.html" class>
+<a href="img/logistics-shipping/7.jpg" data-fancybox>
+<img src="img/logistics-shipping/7.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/logistics-shipping/8.html" data-fancybox>
-<img src="img/portfolio/logistics-shipping/8.html" class>
+<a href="img/logistics-shipping/8.jpg" data-fancybox>
+<img src="img/logistics-shipping/8.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/logistics-shipping/9.html" data-fancybox>
-<img src="img/portfolio/logistics-shipping/9.html" class>
+<a href="img/logistics-shipping/9.jpg" data-fancybox>
+<img src="img/logistics-shipping/9.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/logistics-shipping/10.html" data-fancybox>
-<img src="img/portfolio/logistics-shipping/10.html" class>
+<a href="img/logistics-shipping/10.jpg" data-fancybox>
+<img src="img/logistics-shipping/10.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/logistics-shipping/11.html" data-fancybox>
-<img src="img/portfolio/logistics-shipping/11.html" class>
+<a href="img/logistics-shipping/11.jpg" data-fancybox>
+<img src="img/logistics-shipping/11.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/logistics-shipping/12.html" data-fancybox>
-<img src="img/portfolio/logistics-shipping/12.html" class>
+<a href="img/logistics-shipping/12.jpg" data-fancybox>
+<img src="img/logistics-shipping/12.jpg" class>
 </a>
 </div>
 </div>
@@ -1012,64 +1012,64 @@
 <div class="row">
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/photography/1.html" data-fancybox>
-<img src="img/portfolio/photography/1.html" class>
+<a href="img/photography/1.jpg" data-fancybox>
+<img src="img/photography/1.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/photography/2.html" data-fancybox>
-<img src="img/portfolio/photography/2.html" class>
+<a href="img/photography/2.jpg" data-fancybox>
+<img src="img/photography/2.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/photography/3.html" data-fancybox>
-<img src="img/portfolio/photography/3.html" class>
+<a href="img/photography/3.jpg" data-fancybox>
+<img src="img/photography/3.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/photography/4.html" data-fancybox>
-<img src="img/portfolio/photography/4.html" class>
+<a href="img/photography/4.jpg" data-fancybox>
+<img src="img/photography/4.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/photography/5.html" data-fancybox>
-<img src="img/portfolio/photography/5.html" class>
+<a href="img/photography/5.jpg" data-fancybox>
+<img src="img/photography/5.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/photography/6.html" data-fancybox>
-<img src="img/portfolio/photography/6.html" class>
+<a href="img/photography/6.jpg" data-fancybox>
+<img src="img/photography/6.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/photography/7.html" data-fancybox>
-<img src="img/portfolio/photography/7.html" class>
+<a href="img/photography/7.jpg" data-fancybox>
+<img src="img/photography/7.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/photography/8.html" data-fancybox>
-<img src="img/portfolio/photography/8.html" class>
+<a href="img/photography/8.jpg" data-fancybox>
+<img src="img/photography/8.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/photography/9.html" data-fancybox>
-<img src="img/portfolio/photography/9.html" class>
+<a href="img/photography/9.jpg" data-fancybox>
+<img src="img/photography/9.jpg" class>
 </a>
 </div>
 </div>
@@ -1079,85 +1079,85 @@
 <div class="row">
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/real-estate/1.html" data-fancybox>
-<img src="img/portfolio/real-estate/1.html" class>
+<a href="img/real-estate/1.jpg" data-fancybox>
+<img src="img/real-estate/1.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/real-estate/2.html" data-fancybox>
-<img src="img/portfolio/real-estate/2.html" class>
+<a href="img/real-estate/2.jpg" data-fancybox>
+<img src="img/real-estate/2.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/real-estate/3.html" data-fancybox>
-<img src="img/portfolio/real-estate/3.html" class>
+<a href="img/real-estate/3.jpg" data-fancybox>
+<img src="img/real-estate/3.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/real-estate/4.html" data-fancybox>
-<img src="img/portfolio/real-estate/4.html" class>
+<a href="img/real-estate/4.jpg" data-fancybox>
+<img src="img/real-estate/4.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/real-estate/5.html" data-fancybox>
-<img src="img/portfolio/real-estate/5.html" class>
+<a href="img/real-estate/5.jpg" data-fancybox>
+<img src="img/real-estate/5.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/real-estate/6.html" data-fancybox>
-<img src="img/portfolio/real-estate/6.html" class>
+<a href="img/real-estate/6.jpg" data-fancybox>
+<img src="img/real-estate/6.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/real-estate/7.html" data-fancybox>
-<img src="img/portfolio/real-estate/7.html" class>
+<a href="img/real-estate/7.jpg" data-fancybox>
+<img src="img/real-estate/7.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/real-estate/8.html" data-fancybox>
-<img src="img/portfolio/real-estate/8.html" class>
+<a href="img/real-estate/8.jpg" data-fancybox>
+<img src="img/real-estate/8.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/real-estate/9.html" data-fancybox>
-<img src="img/portfolio/real-estate/9.html" class>
+<a href="img/real-estate/9.jpg" data-fancybox>
+<img src="img/real-estate/9.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/real-estate/10.html" data-fancybox>
-<img src="img/portfolio/real-estate/10.html" class>
+<a href="img/real-estate/10.jpg" data-fancybox>
+<img src="img/real-estate/10.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/real-estate/11.html" data-fancybox>
-<img src="img/portfolio/real-estate/11.html" class>
+<a href="img/real-estate/11.jpg" data-fancybox>
+<img src="img/real-estate/11.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/portfolio/real-estate/12.html" data-fancybox>
-<img src="img/portfolio/real-estate/12.html" class>
+<a href="img/real-estate/12.jpg" data-fancybox>
+<img src="img/real-estate/12.jpg" class>
 </a>
 </div>
 </div>
@@ -1169,64 +1169,64 @@
 <div class="row">
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg1.html">
-<img src="img/logodesignimg1.html">
+<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg1.jpg">
+<img src="img/logodesignimg1.jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg2.html">
-<img src="img/logodesignimg2.html">
+<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg2.jpg">
+<img src="img/logodesignimg2.jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg3.html">
-<img src="img/logodesignimg3.html">
+<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg3.jpg">
+<img src="img/logodesignimg3.jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg4.html">
-<img src="img/logodesignimg4.html">
+<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg4.jpg">
+<img src="img/logodesignimg4.jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg5.html">
-<img src="img/logodesignimg5.html">
+<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg5.jpg">
+<img src="img/logodesignimg5.jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg6.html">
-<img src="img/logodesignimg6.html">
+<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg6.jpg">
+<img src="img/logodesignimg6.jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg7.html">
-<img src="img/logodesignimg7.html">
+<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg7.jpg">
+<img src="img/logodesignimg7.jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg8.html">
-<img src="img/logodesignimg8.html">
+<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg8.jpg">
+<img src="img/logodesignimg8.jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg9.html">
-<img src="img/logodesignimg9.html">
+<a class="fancybox" data-fancybox="gallery" href="img/logodesignimg9.jpg">
+<img src="img/logodesignimg9.jpg">
 </a>
 </div>
 </div>
@@ -1238,15 +1238,15 @@
 <div class="row">
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/1.html">
-<img src="img/branding-folio/1.html">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/1.jpg">
+<img src="img/branding-folio/1.jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/2.html">
-<img src="img/branding-folio/2.html">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/2.jpg">
+<img src="img/branding-folio/2.jpg">
 </a>
 </div>
 </div>
@@ -1477,26 +1477,26 @@
 <h3>Ready to speak with our marketing expert? <br> Give us a ring!</h3>
 <div class="call-to-action-margin">
 <div class="flexRow det-box">
-<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon1.html">
+<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon1.png">
 <h3>1.6M <span>Hours of Expertise</span></h3>
 </div>
 <div class="flexRow det-box">
-<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon2.html">
+<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon2.png">
 <h3>200+ <span>Digital Marketing Masters On-Staff</span></h3>
 </div>
 <div class="flexRow det-box">
-<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon3.html">
+<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon3.png">
 <h3>1,128<span> Websites Launched</span></h3>
 </div>
 </div>
 <ul class="social social-new-1 wow zoomIn" data-wow-delay="2s" data-wow-duration="2s">
-<li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.facebook.com/profile.php?id=100092980839774" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 
 <li><a href="https://www.linkedin.com/company/TrustReputationHub/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.youtube.com/channel/UCyCKKAHOzVyrG4dYtEFJJqw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+<li><a href="" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
+<li><a href="https://www.bark.com/en/us/company/trust-reputation-hub/o1epN/" target="_blank"><img src="img/bark-icon.png"></a> </li>
 
 <li><a href="https://www.sitejabber.com/reviews/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/sitejabber-icon.png"></a> </li>
 </ul>

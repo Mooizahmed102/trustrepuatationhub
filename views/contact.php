@@ -4,7 +4,7 @@
 <html>
 
 <!-- Mirrored from www.TrustReputationHub.com/contact by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Jan 2024 22:36:07 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <?php include_once('includes/head.php')?>
 <body>
 <?php include_once('includes/header.php')?></body>
@@ -45,7 +45,7 @@
 </div>
 <div class="contact-box">
 <h4><i class="fa fa-envelope-o" aria-hidden="true"></i> Email Us</h4>
-<p><a href="cdn-cgi/l/email-protection.html#9fecfef3faecdffef2faedf6fcfef1e8fafdfcf0fbfaedecb1fcf0f2"><span class="__cf_email__" data-cfemail="186b79747d6b5879757d6a717b79766f7d7a7b777c7d6a6b367b7775">[email&#160;protected]</span></a></p>
+<p><a href="mailto:info@Trustreputationhub.com">info@Trustreputationhub.com</a></p>
 </div>
 
 </div>
@@ -126,7 +126,7 @@
 <div class="row text-center">
 <div class="col-md-8 col-sm-8 col-xs-12 center-col">
 <h3 class="section-head wow bounceIn" data-wow-delay="0.6s" data-wow-duration="2s">Let's discuss your next project
-<a href="contact.html">CONNECT NOW</a></h3>
+<a href="contact/">CONNECT NOW</a></h3>
 </div>
 </div>
 </div>
@@ -223,26 +223,26 @@
 <h3>Ready to speak with our marketing expert? <br> Give us a ring!</h3>
 <div class="call-to-action-margin">
 <div class="flexRow det-box">
-<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon1.html">
+<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon1.png">
 <h3>1.6M <span>Hours of Expertise</span></h3>
 </div>
 <div class="flexRow det-box">
-<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon2.html">
+<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon2.png">
 <h3>200+ <span>Digital Marketing Masters On-Staff</span></h3>
 </div>
 <div class="flexRow det-box">
-<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon3.html">
+<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon3.png">
 <h3>1,128<span> Websites Launched</span></h3>
 </div>
 </div>
 <ul class="social social-new-1 wow zoomIn" data-wow-delay="2s" data-wow-duration="2s">
-<li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.facebook.com/profile.php?id=100092980839774" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 
 <li><a href="https://www.linkedin.com/company/TrustReputationHub/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.youtube.com/channel/UCyCKKAHOzVyrG4dYtEFJJqw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+<li><a href="" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
+<li><a href="https://www.bark.com/en/us/company/trust-reputation-hub/o1epN/" target="_blank"><img src="img/bark-icon.png"></a> </li>
 
 <li><a href="https://www.sitejabber.com/reviews/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/sitejabber-icon.png"></a> </li>
 </ul>

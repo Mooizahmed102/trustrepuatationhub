@@ -8,7 +8,7 @@
 <html>
 
 <!-- Mirrored from www.TrustReputationHub.com/ecommerce by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Jan 2024 22:33:31 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <?php include_once('includes/head.php')?>
 <body>
 <?php include_once('includes/header.php')?></body>
@@ -926,7 +926,7 @@ We're experienced in various <span>technologies</span></h3>
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/b2b.html">
-<a href="dental-web-design-development.html"><h4>Dental Web <br>Design </h4></a>
+<h4>Dental Web <br>Design </h4>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/clothing.html">
@@ -940,7 +940,7 @@ We're experienced in various <span>technologies</span></h3>
 <div class="col-md-4 col-sm-4   col-xs-12 ">
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/Business.html">
-<a href="corporate-web-design-development.html"><h4>Corporate Web Design </h4></a>
+<h4>Corporate Web Design </h4>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/fashion.html">
@@ -1020,7 +1020,7 @@ We're experienced in various <span>technologies</span></h3>
 <div class="col-md-5 col-sm-5 col-xs-12 ">
 <div class="test-slider">
 <div class="test-box">
-<img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.html">
+<img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
 <p>My Website came out great. Emma was very Helpful during the process. I would use this company again.</p>
 <div class="flexRow">
 <h3>Impala Club <br> </h3>
@@ -1031,7 +1031,7 @@ We're experienced in various <span>technologies</span></h3>
 </div>
 </div>
 <div class="test-box">
-<img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.html">
+<img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
 <p>I feel obliged to write a review for Emmanuelle Trust Reputation Hub since they have provided me services above my expectations and on time. I was previously scammed by other service providers. I would highly recommend Trust Reputation Hub for all the people looking for setting up their ecommerce businesses. Thanks again.</p>
 <div class="flexRow">
 <h3>Enjoli Collins <br> </h3>
@@ -1042,7 +1042,7 @@ We're experienced in various <span>technologies</span></h3>
 </div>
 </div>
 <div class="test-box">
-<img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.html">
+<img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
 <p>I had an issue with my business email. I contacted Emma she was so disposed to assist me to resolve this issue. Trust Reputation Hub has some great staff. Emma is very professional and confident. I will recommend anyone who has a project to trust Trust Reputation Hub with it. Thanks! Joe</p>
 <div class="flexRow">
 <h3>Joe <br> </h3>
@@ -1053,7 +1053,7 @@ We're experienced in various <span>technologies</span></h3>
 </div>
 </div>
 <div class="test-box">
-<img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.html">
+<img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
 <p>TRH did a great job on my music site. David & Emma handled any issues that came up. The site looks great and I would use them again. They were on top of things and communications were outstanding.</p>
 <div class="flexRow">
 <h3>Marco<br> </h3>
@@ -1064,24 +1064,24 @@ We're experienced in various <span>technologies</span></h3>
 </div>
 </div>
 <div class="test-box">
-<img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.html">
+<img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
 <p>Trust Reputation Hub is one of the best agencies for website development and designing. I am very much grateful to the professionals of TRH for directing me through the best web service. Every staff member is well qualified, trained, and supportive throughout the procedure. </p>
 <div class="flexRow">
 <h3>Neha Mishra<br> </h3>
 
 <div class="testimonial-trust">
-<a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
+<a href="https://www.bark.com/en/us/company/trust-reputation-hub/o1epN/" target="_blank"><img src="img/bark-icon.png"></a>
 </div>
 </div>
 </div>
 <div class="test-box">
-<img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.html">
+<img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
 <p>As our original site demanded a lot of manual effort, we asked Trust Reputation Hub to make a more user-friendly website. TRH understood and implemented everything I requested. They never pushed back on any of my requirements – instead, they managed to accomplish all of them. We're very satisfied.</p>
 <div class="flexRow">
 <h3>Abhi Rwt<br> </h3>
 
 <div class="testimonial-trust">
-<a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
+<a href="https://www.bark.com/en/us/company/trust-reputation-hub/o1epN/" target="_blank"><img src="img/bark-icon.png"></a>
 </div>
 </div>
 </div>
@@ -1222,26 +1222,26 @@ We're experienced in various <span>technologies</span></h3>
 <h3>Ready to speak with our marketing expert? <br> Give us a ring!</h3>
 <div class="call-to-action-margin">
 <div class="flexRow det-box">
-<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon1.html">
+<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon1.png">
 <h3>1.6M <span>Hours of Expertise</span></h3>
 </div>
 <div class="flexRow det-box">
-<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon2.html">
+<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon2.png">
 <h3>200+ <span>Digital Marketing Masters On-Staff</span></h3>
 </div>
 <div class="flexRow det-box">
-<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon3.html">
+<img loading="lazy" alt="Image" class="img-responsive" data-url="img/contact-icon3.png">
 <h3>1,128<span> Websites Launched</span></h3>
 </div>
 </div>
 <ul class="social social-new-1 wow zoomIn" data-wow-delay="2s" data-wow-duration="2s">
-<li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.facebook.com/profile.php?id=100092980839774" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 
 <li><a href="https://www.linkedin.com/company/TrustReputationHub/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.youtube.com/channel/UCyCKKAHOzVyrG4dYtEFJJqw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+<li><a href="" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
+<li><a href="https://www.bark.com/en/us/company/trust-reputation-hub/o1epN/" target="_blank"><img src="img/bark-icon.png"></a> </li>
 
 <li><a href="https://www.sitejabber.com/reviews/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/sitejabber-icon.png"></a> </li>
 </ul>

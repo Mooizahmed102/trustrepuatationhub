@@ -7,7 +7,7 @@
 <html>
 
 <!-- Mirrored from www.TrustReputationHub.com/case-studies by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Jan 2024 22:34:29 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <?php include_once('includes/head.php')?>
 <body>
 <?php include_once('includes/header.php')?></body>
@@ -19,7 +19,7 @@
 
 
 <section class="inner-banner">
-<img alt="Image" class="img-responsive" src="img/case-banner.html">
+<img alt="Image" class="img-responsive" src="img/case-banner.jpg">
 <div class="banner-text">
 <div class="container">
 <div class="row ">
@@ -36,118 +36,118 @@
 <div class="col-sm-12 p0">
 <div class="col-sm-4">
 <div class="case-studies-bx">
-<img src="img/case-studies/1.html">
-<div class="case-btn-st">
-<a href="casestudies/case-studies1.html">View Case Study</a>
-</div>
+<img src="img/1.png">
+<!-- <div class="case-btn-st">
+<a href="casestudies/case-studies1/">View Case Study</a>
+</div> -->
 </div>
 </div>
 <div class="col-sm-4">
 <div class="case-studies-bx">
-<img src="img/case-studies/2.html">
-<div class="case-btn-st">
+<img src="img/2.png">
+<!-- <div class="case-btn-st">
 <a href="casestudies/case-studies2.html">View Case Study</a>
-</div>
+</div> -->
 </div>
 </div>
 <div class="col-sm-4">
 <div class="case-studies-bx">
-<img src="img/case-studies/3.html">
-<div class="case-btn-st">
+<img src="img/3.png">
+<!-- <div class="case-btn-st">
 <a href="casestudies/case-studies3.html">View Case Study</a>
-</div>
+</div> -->
 </div>
 </div>
 <div class="clearfix"></div>
 <div class="col-sm-4">
 <div class="case-studies-bx">
-<img src="img/case-studies/4.html">
-<div class="case-btn-st">
+<img src="img/4.png">
+<!-- <div class="case-btn-st">
 <a href="casestudies/case-studies4.html">View Case Study</a>
-</div>
+</div> -->
 </div>
 </div>
 <div class="col-sm-4">
 <div class="case-studies-bx">
-<img src="img/case-studies/5.html">
-<div class="case-btn-st">
+<img src="img/5.png">
+<!-- <div class="case-btn-st">
 <a href="casestudies/case-studies5.html">View Case Study</a>
-</div>
+</div> -->
 </div>
 </div>
 <div class="col-sm-4">
 <div class="case-studies-bx">
-<img src="img/case-studies/6.html">
-<div class="case-btn-st">
+<img src="img/6.png">
+<!-- <div class="case-btn-st">
 <a href="casestudies/case-studies6.html">View Case Study</a>
-</div>
+</div> -->
 </div>
 </div>
 <div class="clearfix"></div>
 <div class="col-sm-4">
 <div class="case-studies-bx">
-<img src="img/case-studies/7.html">
-<div class="case-btn-st">
+<img src="img/7.png">
+<!-- <div class="case-btn-st">
 <a href="casestudies/case-studies7.html">View Case Study</a>
-</div>
+</div> -->
 </div>
 </div>
 <div class="col-sm-4">
 <div class="case-studies-bx">
-<img src="img/case-studies/8.html">
-<div class="case-btn-st">
+<img src="img/8.png">
+<!-- <div class="case-btn-st">
 <a href="casestudies/case-studies8.html">View Case Study</a>
-</div>
+</div> -->
 </div>
 </div>
 <div class="col-sm-4">
 <div class="case-studies-bx">
-<img src="img/case-studies/9.html">
-<div class="case-btn-st">
+<img src="img/9.png">
+<!-- <div class="case-btn-st">
 <a href="casestudies/case-studies9.html">View Case Study</a>
-</div>
+</div> -->
 </div>
 </div>
 <div class="clearfix"></div>
 <div class="col-sm-4">
 <div class="case-studies-bx">
-<img src="img/case-studies/10.html">
-<div class="case-btn-st">
+<img src="img/10.png">
+<!-- <div class="case-btn-st">
 <a href="casestudies/case-studies10.html">View Case Study</a>
-</div>
+</div> -->
 </div>
 </div>
 <div class="col-sm-4">
 <div class="case-studies-bx">
-<img src="img/case-studies/11.html">
-<div class="case-btn-st">
+<img src="img/11.png">
+<!-- <div class="case-btn-st">
 <a href="casestudies/case-studies11.html">View Case Study</a>
-</div>
+</div> -->
 </div>
 </div>
 <div class="col-sm-4">
 <div class="case-studies-bx">
-<img src="img/case-studies/12.html">
-<div class="case-btn-st">
+<img src="img/12.png">
+<!-- <div class="case-btn-st">
 <a href="casestudies/case-studies12.html">View Case Study</a>
-</div>
+</div> -->
 </div>
 </div>
 <div class="clearfix"></div>
 <div class="col-sm-4">
 <div class="case-studies-bx">
-<img src="img/case-studies/13.html">
-<div class="case-btn-st">
+<img src="img/13.png">
+<!-- <div class="case-btn-st">
 <a href="casestudies/case-studies13.html">View Case Study</a>
-</div>
+</div> -->
 </div>
 </div>
 <div class="col-sm-4">
 <div class="case-studies-bx">
-<img src="img/case-studies/14.html">
-<div class="case-btn-st">
+<img src="img/14.png">
+<!-- <div class="case-btn-st">
 <a href="casestudies/case-studies14.html">View Case Study</a>
-</div>
+</div> -->
 </div>
 </div>
 </div>
@@ -273,13 +273,13 @@
 </div>
 </div>
 <ul class="social social-new-1 wow zoomIn" data-wow-delay="2s" data-wow-duration="2s">
-<li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.facebook.com/profile.php?id=100092980839774" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 
 <li><a href="https://www.linkedin.com/company/TrustReputationHub/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.youtube.com/channel/UCyCKKAHOzVyrG4dYtEFJJqw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+<li><a href="" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.bark.com/en/us/company/TrustReputationHub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
+<li><a href="https://www.bark.com/en/us/company/trust-reputation-hub/o1epN/" target="_blank"><img src="img/bark-icon.png"></a> </li>
 
 <li><a href="https://www.sitejabber.com/reviews/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/sitejabber-icon.png"></a> </li>
 </ul>
