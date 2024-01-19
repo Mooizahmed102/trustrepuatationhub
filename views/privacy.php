@@ -627,15 +627,7 @@
 </div>
 </footer>
 
-<a href="https://wa.me/+16502760787" target="_blank" class="whatsapp"><i class="fa fa-whatsapp"></i></a>
-</div>
-<style>
 
-.whatsapp{width:50px;height:51px;color:#fff;display:block;text-align:center;border-radius:100%;font-size:34px;position:fixed;bottom:100px;right:20px;z-index:9999;box-shadow:6px 9px 30px 1px rgba(37,0,22,0.71);padding:1px 0;animation:scrollDownAnimation .5s ease infinite alternate;-webkit-animation:scrollDownAnimation .5s ease infinite alternate;background:#00a155;background:-moz-linear-gradient(left,#ea018e 0%,#9b2c92 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ea018e',endColorstr='#9b2c92',GradientType=1)}
-
-.whatsapp:hover{color:#fff}
-
-.whatsapp .fa-whatsapp{position:absolute;left:10px;top:8px}
 
 @keyframes scrollDownAnimation {
 

@@ -32,16 +32,16 @@
 <div class="col-md-6 col-sm-6 col-xs-12">
 <div class="banner-ss">
 <figure>
-<img alt="Image" class="img-responsive" src="img/digital-marketing1.html">
+<img alt="Image" class="img-responsive" src="img/digital-marketing1.jpg">
 </figure>
 <figure>
-<img alt="Image" class="img-responsive" src="img/digital-marketing2.html">
+<img alt="Image" class="img-responsive" src="img/digital-marketing2.jpg">
 </figure>
 <figure>
-<img alt="Image" class="img-responsive" src="img/digital-marketing3.html">
+<img alt="Image" class="img-responsive" src="img/digital-marketing3.jpg">
 </figure>
 <figure>
-<img alt="Image" class="img-responsive" src="img/digital-marketing4.html">
+<img alt="Image" class="img-responsive" src="img/digital-marketing4.jpg">
 </figure>
 <figure>
 <img alt="Image" class="img-responsive" src="img/digital-marketing5.jpg">
@@ -56,7 +56,7 @@
 <div class="row flexRow">
 <div class="col-md-6 col-sm-6 col-xs-12">
 <div class="banner-img">
-<img src="img/service-detail-25.html" class="img-responsive" alt="service-detail-25.png">
+<img src="img/service-detail-25.png" class="img-responsive" alt="service-detail-25.png">
 </div>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12">
@@ -79,7 +79,7 @@
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12">
 <div class="banner-img">
-<img src="img/service-detail-26.html" class="img-responsive" alt="service-detail-26">
+<img src="img/service-detail-26.png" class="img-responsive" alt="service-detail-26">
 </div>
 </div>
 </div>
@@ -141,19 +141,19 @@ Pay for Performance SEO </h3>
 </div>
 <div class="col-md-4 col-xs-12">
 <div class="ind-box text-center hvr-grow mb-3">
-<img alt="Image" class="img-responsive" src="img/brand-market3.html">
+<img alt="Image" class="img-responsive" src="img/brand-market3.png">
 <h4>Timely Updates</h4>
 </div>
 </div>
 <div class="col-md-4 col-xs-12">
 <div class="ind-box text-center hvr-grow mb-3">
-<img alt="Image" class="img-responsive" src="img/brand-market4.html">
+<img alt="Image" class="img-responsive" src="img/brand-market4.png">
 <h4>Managed Budget</h4>
 </div>
 </div>
 <div class="col-md-4 col-xs-12">
 <div class="ind-box text-center hvr-grow mb-3">
-<img alt="Image" class="img-responsive" src="img/brand-market5.html">
+<img alt="Image" class="img-responsive" src="img/brand-market5.png">
 <h4>Conversion Tactics</h4>
 </div>
 </div>
@@ -198,7 +198,7 @@ Pay for Performance SEO </h3>
 </div>
 <div id="menu1" class="tab-pane fade">
 <div class="item-box">
-<figure><img src="img/digital-services/servcie-work-2.html" alt="servcie-work-1"></figure>
+<figure><img src="img/digital-services/servcie-work-2.png" alt="servcie-work-1"></figure>
 <p>Our paid marketing approach helps brands get to the top of SERPs with targeted conversions and lead generation.</p>
 </div>
 </div>
