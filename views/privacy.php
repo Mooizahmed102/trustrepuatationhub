@@ -12,7 +12,7 @@
 <meta name="description" content=" ">
 
 <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link href="/css/fonts/slick.eot" rel="stylesheet">
 <link href="/css/fonts/slick.svg" rel="stylesheet">
 <link href="/css/fonts/slick.ttf" rel="stylesheet">
@@ -43,7 +43,7 @@
 <a href="mailto:info@Trustreputationhub.com"><i class="fa fa-envelope" aria-hidden="true"></i><span class="__cf_email__" data-cfemail="4f262129200f2e222a3d262c2e21382a2d2c202b2a3d3c612c2022">info@Trustreputationhub.com</span> </a>
 </div>
 <div class="col-sm-6">
-<a class="pull-right red-phone" href="tel:000000000" onclick="if (!window.__cfRLUnblockHandlers) return false; gtag('config', 'AW-448286750/utYzCPe97YsCEJ6g4dUB', {'phone_conversion_number': '000000000' });" data-cf-modified-a12ad79b65165c5e8b4ecb3c-><i class="fa fa-calendar" aria-hidden="true"></i>For Support: 000000000</a>
+<a class="pull-right red-phone" href="tel:(855) 364-3354" onclick="if (!window.__cfRLUnblockHandlers) return false; gtag('config', 'AW-448286750/utYzCPe97YsCEJ6g4dUB', {'phone_conversion_number': '(855) 364-3354' });" data-cf-modified-a12ad79b65165c5e8b4ecb3c-><i class="fa fa-calendar" aria-hidden="true"></i>For Support: (855) 364-3354</a>
 
 </div>
 </div>
@@ -589,7 +589,7 @@
 <i aria-hidden="true" class="fa fa-mobile"></i><a href="tel:866-921-5690">For Sales: 866-921-5690</a>
 </li>
 <li>
-<i aria-hidden="true" class="fa fa-mobile"></i><a href="tel:000000000">For Support: 000000000</a>
+<i aria-hidden="true" class="fa fa-mobile"></i><a href="tel:(855) 364-3354">For Support: (855) 364-3354</a>
 </li>
 <li>
 <i aria-hidden="true" class="fa fa-envelope"></i><a href="/cdn-cgi/l/email-protection#6008050c0c1020010d05120903010e170502030f040512134e030f0d"><span class="__cf_email__" data-cfemail="036a6d656c43626e66716a60626d746661606c676671702d606c6e">info@Trustreputationhub.com</span></a>
@@ -615,10 +615,10 @@
 <div class="col-md-6 col-sm-6 col-xs-12">
 <ul class="pull-right list-inline">
 <li>
-<a href="privacy.php">Privacy Policy </a> |
+<a href="privacy/">Privacy Policy </a> |
 </li>
 <li>
-<a href="terms.php">Terms and Conditions</a>
+<a href="terms/">Terms and Conditions</a>
 </li>
 </ul>
 </div>

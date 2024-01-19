@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  
 <meta name="ahrefs-site-verification" content="e304793dbe10772016cf383b33d1ff991660dfdaccac5f4c2da77c1a173c4af2">
 <link href="/css/all.css" rel="stylesheet">
 <link href="/css/style.min.min.css" rel="stylesheet">
@@ -10,7 +11,7 @@
 <meta name="description" content=" ">
 <!-- <script src="https://www.trustreputationhub.com/css/font.js" type="4dae08aa440d895879b40807-text/javascript"></script> -->
 <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link href="/css/fonts/slick.eot" rel="stylesheet">
 <link href="/css/fonts/slick.svg" rel="stylesheet">
 <link href="/css/fonts/slick.ttf" rel="stylesheet">
@@ -97,7 +98,7 @@ $('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-195000985-6
 <a href="/cdn-cgi/l/email-protection#abc2c5cdc4ebcac6ced9c2c8cac5dccec9c8c4cfced9d885c8c4c6"><i class="fa fa-envelope" aria-hidden="true"></i><span class="__cf_email__" data-cfemail="0a63646c654a6b676f7863696b647d6f6869656e6f787924696567">info@Trustreputationhub.com</span> </a>
 </div>
 <div class="col-sm-6">
-<a class="pull-right red-phone" href="tel:000000000" onclick="if (!window.__cfRLUnblockHandlers) return false; gtag('config', 'AW-448286750/utYzCPe97YsCEJ6g4dUB', {'phone_conversion_number': '000000000' });" data-cf-modified-4dae08aa440d895879b40807-><i class="fa fa-calendar" aria-hidden="true"></i>For Support: 000000000</a>
+<a class="pull-right red-phone" href="tel:(855) 364-3354" onclick="if (!window.__cfRLUnblockHandlers) return false; gtag('config', 'AW-448286750/utYzCPe97YsCEJ6g4dUB', {'phone_conversion_number': '(855) 364-3354' });" data-cf-modified-4dae08aa440d895879b40807-><i class="fa fa-calendar" aria-hidden="true"></i>For Support: (855) 364-3354</a>
 <a class="pull-right red-phone" href="tel:866-921-5690" onclick="if (!window.__cfRLUnblockHandlers) return false; gtag('config', 'AW-448286750/utYzCPe97YsCEJ6g4dUB', {'phone_conversion_number': '866-935-5414' });" data-cf-modified-4dae08aa440d895879b40807-><i aria-hidden="true" class="fa fa-phone"></i>For Sales: 866-921-5690</a>
 </div>
 </div>
@@ -676,7 +677,7 @@ Trust Reputation Hub reserves the right to modify these Terms and Conditions at 
 <i aria-hidden="true" class="fa fa-mobile"></i><a href="tel:866-921-5690">For Sales: 866-921-5690</a>
 </li>
 <li>
-<i aria-hidden="true" class="fa fa-mobile"></i><a href="tel:000000000">For Support: 000000000</a>
+<i aria-hidden="true" class="fa fa-mobile"></i><a href="tel:(855) 364-3354">For Support: (855) 364-3354</a>
 </li>
 <li>
 <i aria-hidden="true" class="fa fa-envelope"></i><a href="/cdn-cgi/l/email-protection#9ef6fbf2f2eedefff3fbecf7fdfff0e9fbfcfdf1fafbecedb0fdf1f3"><span class="__cf_email__" data-cfemail="81e8efe7eec1e0ece4f3e8e2e0eff6e4e3e2eee5e4f3f2afe2eeec">info@Trustreputationhub.com</span></a>
@@ -702,10 +703,10 @@ Trust Reputation Hub reserves the right to modify these Terms and Conditions at 
 <div class="col-md-6 col-sm-6 col-xs-12">
 <ul class="pull-right list-inline">
 <li>
-<a href="privacy.php">Privacy Policy </a> |
+<a href="privacy/">Privacy Policy </a> |
 </li>
 <li>
-<a href="terms.php">Terms and Conditions</a>
+<a href="terms/">Terms and Conditions</a>
 </li>
 </ul>
 </div>

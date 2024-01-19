@@ -39,7 +39,7 @@
 
 <div class="contact-box">
 <h4><i class="fa fa-phone" aria-hidden="true"></i> Call Us 24/7</h4>
-<p><a href="tel:0000000000000">0000000000000</a></p>
+<p><a href="tel:(855) 364-3354">(855) 364-3354</a></p>
 </div>
 <div class="contact-box">
 <h4><i class="fa fa-envelope-o" aria-hidden="true"></i> Email Us</h4>
@@ -216,7 +216,7 @@
 <div class="contact-icon-new">
 <img loading="lazy" src="img/phone-ringing.png" class="img-responsive" alt="img">
 </div>
-<a class="contact-phone" href="tel:0000000000000">0000000000000</a>
+<a class="contact-phone" href="tel:(855) 364-3354">(855) 364-3354</a>
 <h3>Ready to speak with our marketing expert? <br> Give us a ring!</h3>
 <div class="call-to-action-margin">
 <div class="flexRow det-box">
