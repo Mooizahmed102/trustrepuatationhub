@@ -300,9 +300,9 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
-<button type="submit">Select Plan</button>
+<button type="submit" >Select Plan</button>
 <a class=" " href="view-detail/website-design-starter/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
@@ -366,7 +366,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong> </li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/website-design-professional/">View Details</a>
@@ -442,7 +442,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Online Payment Integration <strong>($149)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/website-design-business/">View Details</a>
@@ -525,7 +525,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Live Chat/Bot Chat Integration <strong>($249)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/website-design-corporate/">View Details</a>
@@ -619,7 +619,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>30 Seconds Explainer Video &nbsp; <strong>($349)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/website-design-enterprise/">View Details</a>
@@ -719,7 +719,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Complete Brand Identity &nbsp;<strong>($199)</strong></li>
 <li> <i class="fa fa-check" aria-hidden="true"></i>Professional Content/Copywriting – $1000 (Up to 20 Pages) – (Per Page $50)</li>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/website-design-enterprise-plus/">View Details</a>
@@ -793,7 +793,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Live Chat/Bot Chat Integration&nbsp; <strong>($249)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/ecommerce-starter/">View Details</a>
@@ -884,7 +884,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Multi-Currency Support - <strong>($249)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/ecommerce-professional/">View Details</a>
@@ -984,7 +984,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>30 Seconds Explainer Video - <strong>($349)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/ecommerce-business/">View Details</a>
@@ -1106,7 +1106,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Search Engine Optimization (3 Months - 50 Keywords) - $1,350</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/ecommerce-enterprise/">View Details</a>
@@ -1209,7 +1209,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/motion-graphic-starter/">View Details</a>
@@ -1263,7 +1263,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/motion-graphic-classic/">View Details</a>
@@ -1317,7 +1317,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/motion-graphic-advance/">View Details</a>
@@ -1373,7 +1373,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/motion-graphic-pro-advance/">View Details</a>
@@ -1427,7 +1427,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/motion-graphic-premium/">View Details</a>
@@ -1487,7 +1487,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/logo-animation-2d/">View Details</a>
@@ -1543,7 +1543,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/logo-animation-2d-advance/">View Details</a>
@@ -1599,7 +1599,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/logo-animation-3d/">View Details</a>
@@ -1657,7 +1657,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/logo-animation-3d-advance/">View Details</a>
@@ -1715,7 +1715,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/basic-2d-animation/">View Details</a>
@@ -1769,7 +1769,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/standard-2d-animation/">View Details</a>
@@ -1823,7 +1823,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-2d-animation/">View Details</a>
@@ -1879,7 +1879,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-pro-2d-animation/">View Details</a>
@@ -1933,7 +1933,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/premium-2d-animation/">View Details</a>
@@ -1994,7 +1994,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/basic-3d-animation/">View Details</a>
@@ -2051,7 +2051,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/standard-3d-animation/">View Details</a>
@@ -2108,7 +2108,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-3d-animation/">View Details</a>
@@ -2167,7 +2167,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/premium-3d-animation/">View Details</a>
@@ -2225,7 +2225,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-whiteboard/">View Details</a>
@@ -2279,7 +2279,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-whiteboard/">View Details</a>
@@ -2333,7 +2333,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-whiteboard/">View Details</a>
@@ -2389,7 +2389,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-pro-whiteboard/">View Details</a>
@@ -2443,7 +2443,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/premium-whiteboard/">View Details</a>
@@ -2501,7 +2501,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/character-2d-standard/">View Details</a>
@@ -2555,7 +2555,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/character-2d-advance/">View Details</a>
@@ -2609,7 +2609,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/character-3d-standard/">View Details</a>
@@ -2665,7 +2665,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/character-3d-advance/">View Details</a>
@@ -2722,7 +2722,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-screenplay-animation/">View Details</a>
@@ -2776,7 +2776,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-screenplay-animation/">View Details</a>
@@ -2829,7 +2829,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/premium-screenplay-animation/">View Details</a>
@@ -2884,7 +2884,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-typography/">View Details</a>
@@ -2938,7 +2938,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-typography/">View Details</a>
@@ -2991,7 +2991,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-typography/">View Details</a>
@@ -3047,7 +3047,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-music-video/">View Details</a>
@@ -3101,7 +3101,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-music-video/">View Details</a>
@@ -3155,7 +3155,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-music-video/">View Details</a>
@@ -3211,7 +3211,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/premium-music-video/">View Details</a>
@@ -3268,7 +3268,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-video-editing/">View Details</a>
@@ -3321,7 +3321,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-video-editing/">View Details</a>
@@ -3374,7 +3374,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/premium-video-editing/">View Details</a>
@@ -3429,7 +3429,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-cutout-animation/">View Details</a>
@@ -3483,7 +3483,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-cutout-animation/">View Details</a>
@@ -3536,7 +3536,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-cutout-animation/">View Details</a>
@@ -3591,7 +3591,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-chalkboard-animation/">View Details</a>
@@ -3645,7 +3645,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-chalkboard-animation/">View Details</a>
@@ -3698,7 +3698,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-chalkboard-animation/">View Details</a>
@@ -3754,7 +3754,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-isometric-animation/">View Details</a>
@@ -3808,7 +3808,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-isometric-animation/">View Details</a>
@@ -3862,7 +3862,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-isometric-animation/">View Details</a>
@@ -3918,7 +3918,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/premium-isometric-animation/">View Details</a>
@@ -3980,7 +3980,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>.fun, .host, .online, .site, .Press, .Store, Space. Pw. tech. website. Agency. Center. .Digital, .Live, .Studio, .business, .Company, .ltd, .solutions .center</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/hosting-starter/">View Details</a>
@@ -4034,7 +4034,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>.fun, .host, .online, .site, .Press, .Store, Space. Pw. tech. website. Agency. Center. .Digital, .Live, .Studio, .business, .Company, .ltd, .solutions .center</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/hosting-corporate/">View Details</a>
@@ -4088,7 +4088,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>.fun, .host, .online, .site, .Press, .Store, Space. Pw. tech. website. Agency. Center. .Digital, .Live, .Studio, .business, .Company, .ltd, .solutions .center</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/hosting-complete/">View Details</a>
@@ -4133,7 +4133,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Quick Turnaround (24-48 hrs)</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/maintenance-starter/">View Details</a>
@@ -4181,7 +4181,7 @@
 </ul>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/maintenance-advance/">View Details</a>
@@ -4235,7 +4235,7 @@
 </ul>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/maintenance-premium/">View Details</a>
@@ -4262,7 +4262,7 @@
 </sub>
 </h3>
 
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 
@@ -4330,7 +4330,7 @@
 </sub>
 </h3>
 
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 
@@ -4396,7 +4396,7 @@
 </sub>
 </h3>
 
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 
@@ -4498,7 +4498,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Free NDA (optional)</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/starter-logo/">View Details</a>
@@ -4540,7 +4540,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Free NDA (optional)</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/professional-logo/">View Details</a>
@@ -4589,7 +4589,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Free NDA (optional)</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/business-logo/">View Details</a>
@@ -4661,9 +4661,9 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i> Local Business Listings</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
-<button type="submit">Select Plan</button>
+<button type="submit" >Select Plan</button>
 <a href="view-detail/seo-startup-plan/">View Details</a>
 <input type="hidden" name="logo_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
@@ -4724,7 +4724,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i> Local Business Listings</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/seo-scaling-plan/">View Details</a>
@@ -4790,7 +4790,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i> Local Business Listings</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/seo-venture-plan/">View Details</a>
@@ -4845,7 +4845,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href>View Details</a>
@@ -4892,7 +4892,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -4938,7 +4938,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -4993,7 +4993,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href>View Details</a>
@@ -5043,7 +5043,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -5100,7 +5100,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -5166,7 +5166,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href>View Details</a>
@@ -5226,7 +5226,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -5290,7 +5290,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -5357,7 +5357,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href>View Details</a>
@@ -5420,7 +5420,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -5484,7 +5484,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -5504,7 +5504,7 @@ Month
 </div>
 </div>
 <div class="view-btn wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s">
-<a class="lgt-btn1 hvr-bounce-to-right" href="#">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<a class="lgt-btn1 hvr-bounce-to-right" href="javascript:;">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 <a class="lgt-btn2 hvr-bounce-to-right" href="quote/">Order Now<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 </div>
 </section>
@@ -5698,98 +5698,98 @@ Month
 </div>
 <div id="branddesign" class="tab-pane fade">
 <div class="port-slider logo-sli logo-ss">
-<a href="img/branding-folio/1/" data-fancybox>
+<a href="img/1/" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/1.jpg">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/1.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/2/" data-fancybox>
+<a href="img/2/" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/2.jpg">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/2.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/3/" data-fancybox>
+<a href="img/3/" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/3.jpg">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/3.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/4/" data-fancybox>
+<a href="img/4/" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/4.jpg">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/4.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/5/" data-fancybox>
+<a href="img/5/" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/5.jpg">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/5.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/6/" data-fancybox>
+<a href="img/6/" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/6.jpg">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/6.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/7/" data-fancybox>
+<a href="img/7/" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/7.jpg">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/7.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/8/" data-fancybox>
+<a href="img/8/" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/8.jpg">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/8.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/9/" data-fancybox>
+<a href="img/9/" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/branding-folio/9.jpg">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/9.jpg">
 </figure>
 </a>
 </div>
 </div>
 <div id="digtalmarketing" class="tab-pane fade">
 <div class="port-slider logo-sli logo-ss">
-<a href="img/digital-folio/1.png" data-fancybox>
+<a href="img/1.png" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/1.png">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/1.png">
 </figure>
 </a>
-<a href="img/digital-folio/2.png" data-fancybox>
+<a href="img/2.png" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/2.png">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/2.png">
 </figure>
 </a>
-<a href="img/digital-folio/3/" data-fancybox>
+<a href="img/3/" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/3.png">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/3.png">
 </figure>
 </a>
-<a href="img/digital-folio/4.png" data-fancybox>
+<a href="img/4.png" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/4.png">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/4.png">
 </figure>
 </a>
-<a href="img/digital-folio/5.png" data-fancybox>
+<a href="img/5.png" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/5.png">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/5.png">
 </figure>
 </a>
-<a href="img/digital-folio/6/" data-fancybox>
+<a href="img/6/" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/6.png">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/6.png">
 </figure>
 </a>
-<a href="img/digital-folio/7.png" data-fancybox>
+<a href="img/7.png" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/7.png">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/7.png">
 </figure>
 </a>
-<a href="img/digital-folio/8.png" data-fancybox>
+<a href="img/8.png" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/8.png">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/8.png">
 </figure>
 </a>
-<a href="img/digital-folio/9/" data-fancybox>
+<a href="img/9/" data-fancybox>
 <figure>
-<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/digital-folio/9.png">
+<img class="lazy" alt="Image" class="img-responsive" data-src="img/watermark-logo.svg" data-url="img/9.png">
 </figure>
 </a>
 </div>
@@ -5818,7 +5818,7 @@ Month
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.svg" data-url="img/b2b.png">
-<h4>Dental Web <br>Design </h4>
+<a href="dental-web-design-development/"><h4>Dental Web <br>Design </h4></a>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo/" data-url="img/clothing.png">

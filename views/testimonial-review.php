@@ -187,8 +187,8 @@ margin-top: 10px;
 </div>
 <div class="col-sm-6">
 <div class="video-testi-img-bx">
-<a href="img/testi-video-2.html" data-fancybox>
-<img loading="lazy" src="img/vid-test-2.html">
+<a href="img/testi-video-2.mp4" data-fancybox>
+<img loading="lazy" src="img/vid-test-2.jpg">
 <div class="video-hvr">
 <i class="fa fa-play-circle" aria-hidden="true"></i>
 </div>
@@ -199,8 +199,8 @@ margin-top: 10px;
 <div class="col-sm-12 p0 video-col-testi-div video-col-testi-div2">
 <div class="col-sm-6">
 <div class="video-testi-img-bx">
-<a href="img/testi-video.html" data-fancybox>
-<img loading="lazy" src="img/vid-test-1.html">
+<a href="img/testi-video.mp4" data-fancybox>
+<img loading="lazy" src="img/vid-test-1.jpg">
 <div class="video-hvr">
 <i class="fa fa-play-circle" aria-hidden="true"></i>
 </div>

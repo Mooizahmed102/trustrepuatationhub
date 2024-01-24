@@ -517,7 +517,7 @@ Industry</h4>
 <li> <i class="fa fa-check" aria-hidden="true"></i>Live Chat/Bot Chat Integration&nbsp; <strong>($249)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/ecommerce-starter.html">View Details</a>
@@ -608,7 +608,7 @@ Industry</h4>
 <li> <i class="fa fa-check" aria-hidden="true"></i>Multi-Currency Support - <strong>($249)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/ecommerce-professional.html">View Details</a>
@@ -708,7 +708,7 @@ Industry</h4>
 <li> <i class="fa fa-check" aria-hidden="true"></i>30 Seconds Explainer Video - <strong>($349)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/ecommerce-business.html">View Details</a>
@@ -830,7 +830,7 @@ Industry</h4>
 <li> <i class="fa fa-check" aria-hidden="true"></i>Search Engine Optimization (3 Months - 50 Keywords) - $1,350</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/ecommerce-enterprise.html">View Details</a>

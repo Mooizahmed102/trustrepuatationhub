@@ -370,7 +370,7 @@ Industry
 <li> <i class="fa fa-check" aria-hidden="true"></i>.fun, .host, .online, .site, .Press, .Store, Space. Pw. tech. website. Agency. Center. .Digital, .Live, .Studio, .business, .Company, .ltd, .solutions .center</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="">View Details</a>
@@ -424,7 +424,7 @@ Industry
 <li> <i class="fa fa-check" aria-hidden="true"></i>.fun, .host, .online, .site, .Press, .Store, Space. Pw. tech. website. Agency. Center. .Digital, .Live, .Studio, .business, .Company, .ltd, .solutions .center</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/hosting-corporate.html">View Details</a>
@@ -478,7 +478,7 @@ Industry
 <li> <i class="fa fa-check" aria-hidden="true"></i>.fun, .host, .online, .site, .Press, .Store, Space. Pw. tech. website. Agency. Center. .Digital, .Live, .Studio, .business, .Company, .ltd, .solutions .center</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/hosting-complete.html">View Details</a>

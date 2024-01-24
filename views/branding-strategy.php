@@ -53,7 +53,7 @@
 <div class="row flexRow">
 <div class="col-md-6 col-sm-6 col-xs-12">
 <div class="banner-img">
-<img src="img/service-detail-5.jpg" class="img-responsive" alt="service-detail-5">
+<img src="img/service-detail-5.png" class="img-responsive" alt="service-detail-5">
 </div>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12">
@@ -432,7 +432,7 @@ Industry
 </div>
 <hr>
 
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/website-design-starter.html">View Details</a>
@@ -480,7 +480,7 @@ Industry
 </div>
 <hr>
 
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/website-design-professional.html">View Details</a>
@@ -529,7 +529,7 @@ Industry
 </div>
 <hr>
 
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/website-design-business.html">View Details</a>
@@ -579,7 +579,7 @@ Industry
 </div>
 <hr>
 
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/ecommerce-starter.html">View Details</a>
@@ -627,7 +627,7 @@ Industry
 </div>
 <hr>
 
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/ecommerce-starter.html">View Details</a>
@@ -673,7 +673,7 @@ Industry
 </div>
 <hr>
 
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/ecommerce-starter.html">View Details</a>
@@ -720,7 +720,7 @@ Industry
 </div>
 <hr>
 
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/ecommerce-starter.html">View Details</a>
@@ -768,7 +768,7 @@ Industry
 </div>
 <hr>
 
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/ecommerce-starter.html">View Details</a>
@@ -902,7 +902,7 @@ We're experienced in various <span>technologies</span></h3>
 <a href="real-estate-web-design-development.html"><h4>Real Estate Web Design </h4></a>
 </div>
 </div>
-</div>
+</div>  
 </div>
 
 

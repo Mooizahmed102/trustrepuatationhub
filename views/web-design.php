@@ -520,7 +520,7 @@ Industry</h4>
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/website-design-starter.html">View Details</a>
@@ -586,7 +586,7 @@ Industry</h4>
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong> </li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/website-design-professional.html">View Details</a>
@@ -662,7 +662,7 @@ Industry</h4>
 <li> <i class="fa fa-check" aria-hidden="true"></i>Online Payment Integration <strong>($149)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/website-design-business.html">View Details</a>
@@ -745,7 +745,7 @@ Industry</h4>
 <li> <i class="fa fa-check" aria-hidden="true"></i>Live Chat/Bot Chat Integration <strong>($249)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/website-design-corporate.html">View Details</a>
@@ -839,7 +839,7 @@ Industry</h4>
 <li> <i class="fa fa-check" aria-hidden="true"></i>30 Seconds Explainer Video &nbsp; <strong>($349)</strong></li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/website-design-enterprise.html">View Details</a>
@@ -939,7 +939,7 @@ Industry</h4>
 <li> <i class="fa fa-check" aria-hidden="true"></i>Complete Brand Identity &nbsp;<strong>($199)</strong></li>
 <li> <i class="fa fa-check" aria-hidden="true"></i>Professional Content/Copywriting – $1000 (Up to 20 Pages) – (Per Page $50)</li>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/website-design-enterprise-plus.html">View Details</a>

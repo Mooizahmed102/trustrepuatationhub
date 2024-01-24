@@ -304,7 +304,7 @@ Industry</h4>
 <li> <i class="fa fa-check" aria-hidden="true"></i>Quick Turnaround (24-48 hrs)</li>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/maintenance-starter.html">View Details</a>
@@ -349,7 +349,7 @@ Industry</h4>
 </ul>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/maintenance-advance.html">View Details</a>
@@ -397,7 +397,7 @@ Industry</h4>
 </ul>
 </ul>
 </div>
-<form method="POST" action="https://www.TrustReputationHub.com/plan-form">
+<form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="view-detail/maintenance-premium.html">View Details</a>
