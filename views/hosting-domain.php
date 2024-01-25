@@ -187,31 +187,31 @@ Brand Stories With Visual Narratives
 <div class="tab-content">
 <div id="home" class="tab-pane fade in active">
 <div class="item-box">
-<figure><img src="img/domain-service/servcie-work-1.png" alt="servcie-work-1"></figure>
+<figure><img src="img/servcie-work-1.png" alt="servcie-work-1"></figure>
 <p>Positive SSL displayed on the website helps enhance the confidence of visitors.</p>
 </div>
 </div>
 <div id="menu1" class="tab-pane fade">
 <div class="item-box">
-<figure><img src="img/domain-service/servcie-work-2.png" alt="servcie-work-1"></figure>
+<figure><img src="img/servcie-work-2.png" alt="servcie-work-1"></figure>
 <p>With our partners, the consumer data and the website remain protected. We work with our partners to ensure the consumer data and website remain protected by eliminating malware and possible viruses. </p>
 </div>
 </div>
 <div id="menu2" class="tab-pane fade">
 <div class="item-box">
-<figure><img src="img/domain-service/servcie-work-3.png" alt="servcie-work-1"></figure>
+<figure><img src="img/servcie-work-3.png" alt="servcie-work-1"></figure>
 <p>Our professional emails comprise productivity tools to assist in getting things done faster and help you connect and organize.</p>
 </div>
 </div>
 <div id="menu3" class="tab-pane fade">
 <div class="item-box">
-<figure><img src="img/domain-service/servcie-work-4.png" alt="servcie-work-1"></figure>
+<figure><img src="img/servcie-work-4.png" alt="servcie-work-1"></figure>
 <p>All it takes is a simple click to backup and restore all your files daily. We know that you have put in an effort, and it is essential not to lose it.</p>
 </div>
 </div>
 <div id="menu4" class="tab-pane fade">
 <div class="item-box">
-<figure><img src="img/domain-service/servcie-work-5.png" alt="servcie-work-1"></figure>
+<figure><img src="img/servcie-work-5.png" alt="servcie-work-1"></figure>
 <p>We utilize easy-to-follow analytics and insights within the SEO tools to boost search rankings and website traffic.</p>
 </div>
 </div>
@@ -498,8 +498,8 @@ Industry
 </div>
 </div>
 <div class="view-btn wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s">
-<a class="lgt-btn1 hvr-bounce-to-right" href="#">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
-<a class="lgt-btn2 hvr-bounce-to-right" href="quote.html">Order Now<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<a class="lgt-btn1 hvr-bounce-to-right" href="javascript:;">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<a class="lgt-btn2 hvr-bounce-to-right" href="quote/">Order Now<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 </div>
 </section>
  
@@ -514,23 +514,23 @@ We're experienced in various <span>technologies</span></h3>
 <div class="tech-logo-box">
 <marquee width="100%" direction="right" scrollamount="5">
 <img src="img/tech-logos/1.jpg">
-<img src="img/tech-logos/2.html">
+<img src="img/tech-logos/2.jpg">
 <img src="img/tech-logos/3.jpg">
-<img src="img/tech-logos/4.html">
-<img src="img/tech-logos/5.html">
-<img src="img/tech-logos/6.html">
-<img src="img/tech-logos/7.html">
+<img src="img/tech-logos/4.jpg">
+<img src="img/tech-logos/5.jpg">
+<img src="img/tech-logos/6.jpg">
+<img src="img/tech-logos/7.jpg">
 <img src="img/tech-logos/8.jpg">
 <img src="img/tech-logos/9.jpg">
 <img src="img/tech-logos/10.jpg">
 <img src="img/tech-logos/11.jpg">
 <img src="img/tech-logos/1.jpg">
-<img src="img/tech-logos/2.html">
+<img src="img/tech-logos/2.jpg">
 <img src="img/tech-logos/3.jpg">
-<img src="img/tech-logos/4.html">
-<img src="img/tech-logos/5.html">
-<img src="img/tech-logos/6.html">
-<img src="img/tech-logos/7.html">
+<img src="img/tech-logos/4.jpg">
+<img src="img/tech-logos/5.jpg">
+<img src="img/tech-logos/6.jpg">
+<img src="img/tech-logos/7.jpg">
 <img src="img/tech-logos/8.jpg">
 <img src="img/tech-logos/9.jpg">
 <img src="img/tech-logos/10.jpg">
@@ -540,23 +540,23 @@ We're experienced in various <span>technologies</span></h3>
 <div class="tech-logo-box">
 <marquee width="100%" direction="left" scrollamount="5">
 <img src="img/tech-logos/12.jpg">
-<img src="img/tech-logos/13.html">
-<img src="img/tech-logos/14.html">
+<img src="img/tech-logos/13.jpg">
+<img src="img/tech-logos/14.jpg">
 <img src="img/tech-logos/15.jpg">
-<img src="img/tech-logos/16.html">
+<img src="img/tech-logos/16.jpg">
 <img src="img/tech-logos/17.jpg">
-<img src="img/tech-logos/19.html">
+<img src="img/tech-logos/19.jpg">
 <img src="img/tech-logos/20.jpg">
-<img src="img/tech-logos/21.html">
+<img src="img/tech-logos/21.jpg">
 <img src="img/tech-logos/12.jpg">
-<img src="img/tech-logos/13.html">
-<img src="img/tech-logos/14.html">
+<img src="img/tech-logos/13.jpg">
+<img src="img/tech-logos/14.jpg">
 <img src="img/tech-logos/15.jpg">
-<img src="img/tech-logos/16.html">
+<img src="img/tech-logos/16.jpg">
 <img src="img/tech-logos/17.jpg">
-<img src="img/tech-logos/19.html">
+<img src="img/tech-logos/19.jpg">
 <img src="img/tech-logos/20.jpg">
-<img src="img/tech-logos/21.html">
+<img src="img/tech-logos/21.jpg">
 </marquee>
 </div>
 </div>
@@ -574,44 +574,44 @@ We're experienced in various <span>technologies</span></h3>
 <div class="row">
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/b2b.html">
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/b2b.png">
 <h4>Dental Web <br>Design </h4>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/clothing.html">
-<a href="health-care-web-design-development.html"><h4>Health Care Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/clothing.png">
+<a href="health-care-web-design-development/"><h4>Health Care Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/construction.html">
-<a href="Construction-web-design-development.html"><h4>Construction Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/construction.png">
+<a href="Construction-web-design-development/"><h4>Construction Web Design </h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4   col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/Business.html">
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/Business.png">
 <h4>Corporate Web Design </h4>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/fashion.html">
-<a href="fashion-web-design-development.html"><h4>Fashion Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/fashion.png">
+<a href="fashion-web-design-development/"><h4>Fashion Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/sports.html">
-<a href="fitness-web-design-development.html"><h4>Fitness Web <br> Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/sports.png">
+<a href="fitness-web-design-development/"><h4>Fitness Web <br> Design </h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/Legal.html">
-<a href="law-firm-web-design-development.html"><h4>Law Firm Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/Legal.png">
+<a href="law-firm-web-design-development/"><h4>Law Firm Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/Nonprofit.html">
-<a href="shopify-web-design-development.html"><h4>Shopify Website Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/Nonprofit.png">
+<a href="shopify-web-design-development/"><h4>Shopify Website Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/real-estate.html">
-<a href="real-estate-web-design-development.html"><h4>Real Estate Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/real-estate.png">
+<a href="real-estate-web-design-development/"><h4>Real Estate Web Design </h4></a>
 </div>
 </div>
 </div>
@@ -622,44 +622,44 @@ We're experienced in various <span>technologies</span></h3>
 <div class="row">
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/restaurant.html">
-<a href="restaurant-web-design-development.html"><h4>Restaurant Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/restaurant.png">
+<a href="restaurant-web-design-development.png"><h4>Restaurant Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/roof.html">
-<a href="Roofing-web-design-development.html"><h4>Roofing Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/roof.png">
+<a href="Roofing-web-design-development.png"><h4>Roofing Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/therapist.html">
-<a href="seo-web-design-development.html"><h4>SEO Web <br> Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/therapist.png">
+<a href="seo-web-design-development.png"><h4>SEO Web <br> Design </h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/web-app.html">
-<a href="web-app-design-development.html"><h4>Web Application Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/web-app.png">
+<a href="web-app-design-development/"><h4>Web Application Design </h4></a>
 </div>
 <div class="ind-box text-center">
-<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/wordpress.html">
-<a href="Wordpress-web-design-development.html"><h4>Wordpress Web Design </h4></a>
+<img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/wordpress.png">
+<a href="Wordpress-web-design-development/"><h4>Wordpress Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/clothes.svg" data-url="img/clothes.svg">
-<a href="clothing-web-design-development.html"><h4>Clothing Web Design</h4></a>
+<a href="clothing-web-design-development/"><h4>Clothing Web Design</h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/b2b.svg" data-url="img/b2b.svg">
-<a href="b2b-web-design-development.html"><h4>B2B Web <br> Design</h4></a>
+<a href="b2b-web-design-development/"><h4>B2B Web <br> Design</h4></a>
 </div>
 <div class="ind-box text-center therapist-box">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/therapist.svg" data-url="img/therapist.svg">
-<a href="therapist-web-design-development.html"><h4>Therapist Web Design</h4></a>
+<a href="therapist-web-design-development/"><h4>Therapist Web Design</h4></a>
 </div>
 <div class="ind-box text-center nonprofit-box">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/heart.svg" data-url="img/heart.svg">
-<a href="Nonprofit-web-design-development.html"><h4>NonProfit Web Design</h4></a>
+<a href="Nonprofit-web-design-development/"><h4>NonProfit Web Design</h4></a>
 </div>
 </div>
 </div>
@@ -748,19 +748,19 @@ We're experienced in various <span>technologies</span></h3>
 </div>
 <div class="row">
 <div class="col-md-3 col-sm-6 col-xs-12 nopadding">
-<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw1.html"></div>
+<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw1.png"></div>
 <div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw5.png"></div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-12 nopadding">
 <div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw2.png"></div>
-<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw6.html"></div>
+<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw6.png"></div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-12 nopadding">
-<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw3.html"></div>
-<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw7.html"></div>
+<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw3.png"></div>
+<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw7.png"></div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-12 nopadding">
-<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw4.html"></div>
+<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw4.png"></div>
 <div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw8.png"></div>
 </div>
 </div>
@@ -773,7 +773,7 @@ We're experienced in various <span>technologies</span></h3>
 <div class="row text-center">
 <div class="col-md-8 col-sm-8 col-xs-12 center-col">
 <h3 class="section-head wow bounceIn" data-wow-delay="0.6s" data-wow-duration="2s">Let's discuss your next project
-<a href="contact.html">CONNECT NOW</a></h3>
+<a href="contact/">CONNECT NOW</a></h3>
 </div>
 </div>
 </div>

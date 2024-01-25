@@ -4945,7 +4945,7 @@
 </div>
 </div>
 </div>
-<div class="view-btn wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s"> <a class="lgt-btn1 hvr-bounce-to-right" href="#">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a> <a class="lgt-btn2 hvr-bounce-to-right" href="quote.html">Order Now<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a> </div>
+<div class="view-btn wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s"> <a class="lgt-btn1 hvr-bounce-to-right" href="javascript:;">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a> <a class="lgt-btn2 hvr-bounce-to-right" href="quote/">Order Now<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a> </div>
 </section>
 
 <section class="contact-section">
@@ -4953,7 +4953,7 @@
 <div class="row text-center">
 <div class="col-md-8 col-sm-8 col-xs-12 center-col">
 <h3 class="section-head wow bounceIn" data-wow-delay="0.6s" data-wow-duration="2s">Let's discuss your next project
-<a href="contact.html">CONNECT NOW</a></h3>
+<a href="contact/">CONNECT NOW</a></h3>
 </div>
 </div>
 </div>

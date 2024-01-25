@@ -6,360 +6,9 @@
 
   <!DOCTYPE html>
 <html>
-<head>
-<meta name="ahrefs-site-verification" content="e304793dbe10772016cf383b33d1ff991660dfdaccac5f4c2da77c1a173c4af2">
-<link href="/css/all.css" rel="stylesheet">
-<link href="/css/style.min.min.css" rel="stylesheet">
-<title> #1 Dental Website Design Agency | American Web Coders </title>
-<meta name="description" content=" AWC offers the best dental web design services. Hire dental web design agency in los angeles,California. Quote us now.">
-<script src="https://www.TrustReputationHub.com/css/font.js" type="781e9c6860e69996f87674f7-text/javascript"></script>
-<link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
-
-<link href="/css/fonts/slick.eot" rel="stylesheet">
-<link href="/css/fonts/slick.svg" rel="stylesheet">
-<link href="/css/fonts/slick.ttf" rel="stylesheet">
-<link href="/css/fonts/slick.woff" rel="stylesheet">
-<meta name="facebook-domain-verification" content="6ynx9wkbfydfnuqnk12nmtrxog7ael" />
-<link rel="alternate" href="https://www.TrustReputationHub.com/" hreflang="x-default" />
-<meta name="author" content="TrustReputationHub ">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="ROBOTS" content="INDEX, FOLLOW">
-<link rel="shortcut icon" href="img/favicon.png">
-<meta name="ip2loc" content>
-<meta name="ip2loc" content="111.88.55.39">
-<meta name="page_url" content="www.TrustReputationHub.com/dental-web-design-development">
-<meta name="google-site-verification" content="jEhGaeNSj_2EY3_39WffHgE1Opf79zKaFCh6vw_1i-8" />
-<meta name="dmca-site-verification" content="MEk0WTBEajhHTXNKZkxlS3pkRitCQ0RuNHZYN2ViRElkMitLS2ZEOGJIQT01" />
-
-<base href="https://www.TrustReputationHub.com/">
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11168492733" type="781e9c6860e69996f87674f7-text/javascript"></script>
-<script type="781e9c6860e69996f87674f7-text/javascript">
-    window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-         gtag('config', 'AW-11168492733');
-</script>
-<script type="781e9c6860e69996f87674f7-text/javascript">
-   gtag('config', 'AW-11168492733/trzyCJqTuakYEL3Zxs0p', {
-            'phone_conversion_number': '(866) 921-5690'
-          });
-</script>
-<script type="781e9c6860e69996f87674f7-text/javascript">
-  gtag('config', 'AW-11168492733/aG4-CIKRzrYYEL3Zxs0p', {
-    'phone_conversion_number': '866-921-5690'
-  });
-</script>
-
-<script type="781e9c6860e69996f87674f7-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TK45HSW');</script>
-
-
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TK45HSW"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-<script type="781e9c6860e69996f87674f7-text/javascript">(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"283013469", enableAutoSpaTracking: true};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
- 
-<link rel="canonical" href="https://www.TrustReputationHub.com/dental-web-design-development">
-
-<script type="781e9c6860e69996f87674f7-text/javascript">
-window.onload = setTimeout(function() {
-$('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-195000985-6"></' + 'script>').appendTo(document.body);
-
-},15000)</script>
-<script type="781e9c6860e69996f87674f7-text/javascript">
-  window.onload = setTimeout(function() {
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-195000985-6');
-  },15000)
-</script>
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9TBHNK6ZDT" type="781e9c6860e69996f87674f7-text/javascript"></script>
-<script type="781e9c6860e69996f87674f7-text/javascript">
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9TBHNK6ZDT');
-</script>
-<script type="781e9c6860e69996f87674f7-text/javascript">var pm_tag = 'AdFR2';var pm_pid = "15317-24c907ea";</script><script src="//free.rnv.life/js/pub.min.js" async type="781e9c6860e69996f87674f7-text/javascript"></script>
-<script src="https://cdn.projectcamp.io/cookies.js" type="781e9c6860e69996f87674f7-text/javascript"></script>
-</head>
+<?php include_once("includes/head.php") ?>
 <body>
-<header class="fixed-header">
-<div class="top-bar">
-<div class="container bd-btm wow fadeInDown" data-wow-delay="0.2s" data-wow-duration="2s">
-<div class="row">
-<div class="col-sm-6">
-<a href="/cdn-cgi/l/email-protection#f39a9d959cb3929e96819a90929d849691909c97968180dd909c9e"><i class="fa fa-envelope" aria-hidden="true"></i><span class="__cf_email__" data-cfemail="c5acaba3aa85a4a8a0b7aca6a4abb2a0a7a6aaa1a0b7b6eba6aaa8">[email&#160;protected]</span> </a>
-</div>
-<div class="col-sm-6">
-<a class="pull-right red-phone" href="tel:866-468-6629" onclick="if (!window.__cfRLUnblockHandlers) return false; gtag('config', 'AW-448286750/utYzCPe97YsCEJ6g4dUB', {'phone_conversion_number': '866-468-6629' });" data-cf-modified-781e9c6860e69996f87674f7-><i class="fa fa-calendar" aria-hidden="true"></i>For Support: 866-468-6629</a>
-<a class="pull-right red-phone" href="tel:866-921-5690" onclick="if (!window.__cfRLUnblockHandlers) return false; gtag('config', 'AW-448286750/utYzCPe97YsCEJ6g4dUB', {'phone_conversion_number': '866-935-5414' });" data-cf-modified-781e9c6860e69996f87674f7-><i aria-hidden="true" class="fa fa-phone"></i>For Sales: 866-921-5690</a>
-</div>
-</div>
-</div>
-</div>
-
-<div class="main-navigate header-fixed">
-<div class="container">
-<div class="row flexRow">
-<div class="col-xs-12 hidden-lg hidden-md hidden-sm">
-<div class="mobile-nav">
-<div class="navbar-header">
-<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-<span class="sr-only">Toggle navigation</span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-</div>
-<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-<ul class="nav navbar-nav">
-<li><a href="/">Home</a></li>
-<li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="caret"></span></a>
-<ul class="dropdown-menu">
-<li><a href="branding-strategy">Branding</a></li>
-<li><a href="web-design">Website Design</a></li>
-<li><a href="ecommerce">Ecommerce Website</a></li>
-<li><a href="hosting-domain">Hosting and Domain</a></li>
-<li><a href="website-maintainance">Website Maintenance</a></li>
-<li><a href="digital-marketing">Digital Marketing</a></li>
-</ul>
-</li>
-<li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
-<ul class="dropdown-menu">
-<li><a href="about">Company</a></li>
-<li><a href="career">Careers</a></li>
-<li><a href="process">Our Process</a></li>
-<li><a href="partners">Partners</a></li>
-
-<li><a href="awards">Awards</a></li>
-<li><a href="/case-studies">case studies</a></li>
-</ul>
-</li>
-<li><a href="portfolio">Work</a></li>
-<li><a href="plans">Plans</a></li>
-<li><a href="testimonial-review.php">Testimonials</a></li>
-<li><a href="contact">Contact</a></li>
-</ul>
-</div>
-</div>
-</div>
-
-<div class="col-md-2 col-sm-2 col-xs-12 nopadding">
-<div class="logo wow zoomIn" data-wow-delay="0.2s" data-wow-duration="2s">
-<a class="hvr-wobble-vertical" href="/"><img loading="lazy" alt class="img-responsive" src="img/logo-png.png"></a>
-</div>
-</div>
-<div class="col-md-8 col-sm-8 col-xs-12 hidden-xs">
-<div class="navigation wow fadeInDown" data-wow-delay="0.4s" data-wow-duration="2s">
-<ul class="navbar-set hidden-xs list-inline">
-<li class="active">
-<a href="/">Home</a>
-</li>
-<li class="megamenu">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Services</a>
-<div class="megamenu-dropdown">
-<div class="menu-section">
-<div class="container">
-<div class="row flexRow">
-<div class="col-md-3 col-sm-3 col-xs-12 hidden-sm">
-<figure>
-<img loading="lazy" alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/menu-img-21.png">
-</figure>
-</div>
-<div class="col-md-6 col-sm-8 col-xs-12">
-<div class="menu-content">
-<h3 class="menu-head">SERVICES</h3>
-<div class="row">
-<div class="col-md-6 col-sm-6 col-xs-12">
-<a class="menu-box flexRow" href="branding-strategy">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m1.png">
-<article>
-<h3>Branding & Strategy</h3>
-<p>Offering brand strategy and rebranding to improve brand wellness</p>
-</article>
-</a>
-<a class="menu-box flexRow" href="web-design">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m2.png">
-<article>
-<h3>Website Design</h3>
-<p>Helping businesses build websites that communicate clearly</p>
-</article>
-</a>
-<a class="menu-box flexRow" href="ecommerce">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m3.png">
-<article>
-<h3>eCommerce Website</h3>
-<p>Strategically designing your website to drive your brand</p>
-</article>
-</a>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-12">
-<a class="menu-box flexRow" href="hosting-domain">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m4.png">
-<article>
-<h3>Hosting & Domain</h3>
-<p>Managing your website empire and growing your clientele</p>
-</article>
-</a>
-<a class="menu-box flexRow" href="website-maintainance">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m5.png">
-<article>
-<h3>Website Maintenance</h3>
-<p>Regular maintenance and support for better SEO results</p>
-</article>
-</a>
-<a class="menu-box flexRow" href="digital-marketing">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m5.png">
-<article>
-<h3>Digital Marketing</h3>
-<p>Helping brands achieve clear, concise, and transparent results</p>
-</article>
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3 col-sm-3 col-xs-12">
-<div class="social-content">
-<div class="social-after">
-<h3 class="menu-head">Social Community</h3>
-<ul class="social">
-<li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-<li><a href="https://www.linkedin.com/company/american-web-coders/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-<li><a href="https://www.youtube.com/channel/UCNjaos6I-2uPC5uTwG9OtGw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-</ul>
-<h3 class="menu-head">CONNECT TODAY</h3>
-<p>Find out more about our work. Feel free to get in touch with us!</p>
-<div class="btns flexRow">
-<a class="lgt-btn white-btn hvr-bounce-to-right text-center" href="portfolio">Work</a>
-<a class="lgt-btn hvr-bounce-to-right text-center" href="contact">Contact</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</li>
-<li class="megamenu">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">About</a>
-<div class="megamenu-dropdown">
-<div class="menu-section">
-<div class="container">
-<div class="row flexRow">
-<div class="col-md-3 col-sm-3 col-xs-12 hidden-sm">
-<figure>
-<img loading="lazy" alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/menu-image-new1.png">
-</figure>
-</div>
-<div class="col-md-6 col-sm-8 col-xs-12">
-<div class="menu-content">
-<h3 class="menu-head">ABOUT</h3>
-<div class="row">
-<div class="col-md-6 col-sm-6 col-xs-12">
-<a class="menu-box flexRow" href="about">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m1.png">
-<article>
-<h3>Company</h3>
-<p>Get to know more about us, who we are, and what we do</p>
-</article>
-</a>
-<a class="menu-box flexRow" href="process">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m2.png">
-<article>
-<h3>Our Process</h3>
-<p>We learn about the unique customer value your business creates</p>
-</article>
-</a>
-
-<a class="menu-box flexRow" href="career">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m4.png">
-<article>
-<h3>Careers</h3>
-<p>We're looking to hire full-time, experienced resources </p>
-</article>
-</a>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-12">
-<a class="menu-box flexRow" href="partners">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m5.png">
-<article>
-<h3>Clients</h3>
-<p>We have a diverse and satisfied clientele and business partners</p>
-</article>
-</a>
-<a class="menu-box flexRow" href="/case-studies">
-<img loading="lazy" alt="Image" class="img-responsive testi-img" src="img/case-study-ico.png">
-<article>
-<h3>Case Studies</h3>
-<p>Take a sneak peek at our successful projects</p>
-</article>
-</a>
-<a class="menu-box flexRow" href="awards">
-<img loading="lazy" alt="Image" class="img-responsive testi-img" src="img/m000.png">
-<article>
-<h3>Awards</h3>
-<p>We've been recognized as a leading digital marketing agency from some of the top industry review sites</p>
-</article>
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3 col-sm-3 col-xs-12">
-<div class="social-content">
-<h3 class="menu-head">Social Community</h3>
-<ul class="social">
-<li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-<li><a href="https://www.linkedin.com/company/american-web-coders/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-<li><a href="https://www.youtube.com/channel/UCNjaos6I-2uPC5uTwG9OtGw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-</ul>
-<h3 class="menu-head">Connect With Us</h3>
-<p>Find more about our work or feel free to get in touch with us.</p>
-<div class="btns flexRow">
-<a class="lgt-btn white-btn hvr-bounce-to-right text-center" href="portfolio">Work</a>
-<a class="lgt-btn hvr-bounce-to-right text-center" href="contact">Contact</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</li>
-<li><a href="portfolio">Work</a></li>
-<li><a href="plans">Plans</a></li>
-<li>
-<a href="testimonial-review.php">Testimonials</a>
-</li>
-<li>
-<a href="contact">Contact</a>
-</li>
-</ul>
-</div>
-</div>
-<div class="col-md-2 col-sm-2 col-xs-12">
-<div class="quote-btn wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="2s">
-<a class="blue-btn hvr-bounce-to-right" href="quote">Get a Quote <i aria-hidden="true" class=" fa fa-angle-right"></i></a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</header>
+<?php include_once("includes/header.php") ?>
 
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="781e9c6860e69996f87674f7-|49" defer></script></body>
 </html>
@@ -371,7 +20,7 @@ $('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-195000985-6
 <div class="row flexStart">
 <div class="col-md-6 col-sm-6 col-xs-12">
 <div class=" wow fadeInLeft" data-wow-delay="0.6s" data-wow-duration="2s">
-<h1 class="section-head"> TRANSFORM TARGET AUDIENCE INTO CUSTOMERS WITH AMERICAN WEB CODERS, THE #1 <span>DENTAL WEBSITE DEVELOPMENT AGENCY</span></h1>
+<h1 class="section-head"> TRANSFORM TARGET AUDIENCE INTO CUSTOMERS WITH Trust Reputation Hub, THE #1 <span>DENTAL WEBSITE DEVELOPMENT AGENCY</span></h1>
 <p>We are the pioneers of dentist service websites, with a record of catering to 3900+ dental practices. Our approach evolves, advances, and progresses your dental practice business in the digital world. We are specialized in engaging clients with appealing features. So, what are you waiting for? Leverage our expertise to grow your sales and revenues!</p>
 <a class="lgt-btn hvr-bounce-to-right" href="#">Get a Quote
 <i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a> <a class="lgt-btn white-btn hvr-bounce-to-right" href="#">See offers <i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
@@ -1251,7 +900,7 @@ Why Choose Us </h2>
 <input type="hidden" name="starter" value="Business Plus">
 <input type="hidden" name="price" value="for $1,599">
 <input type="hidden" name="service_id" value="5669">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=a870d724-5147-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=a870d724-5147-11eb-bfc6-52540009454a">
 </form>
 </div>
 </div>
@@ -1345,7 +994,7 @@ Why Choose Us </h2>
 <input type="hidden" name="starter" value="Enterprise Website plan">
 <input type="hidden" name="price" value="for $2,799">
 <input type="hidden" name="service_id" value="5669">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=eb6e9aca-5147-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=eb6e9aca-5147-11eb-bfc6-52540009454a">
 </form>
 </div>
 </div>
@@ -1831,7 +1480,7 @@ Why Choose Us </h2>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="Ecommerce Enterprise Plan">
 <input type="hidden" name="price" value="for $4499">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=249831fe-5149-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=249831fe-5149-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5672" class="service_id">
 </form>
 </div>
@@ -4706,7 +4355,7 @@ Why Choose Us </h2>
 <input type="hidden" name="starter" value="Starter Domain Plan">
 <input type="hidden" name="price" value="for $499">
 <input type="hidden" name="service_id" value="5712" class="service_id">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=735fd6f6-5147-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=735fd6f6-5147-11eb-bfc6-52540009454a">
 </form>
 </div>
 </div>
@@ -4760,7 +4409,7 @@ Why Choose Us </h2>
 <input type="hidden" name="starter" value="Corporate Domain Plan">
 <input type="hidden" name="price" value="for $799">
 <input type="hidden" name="service_id" value="5712" class="service_id">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=087d53ee-5148-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=087d53ee-5148-11eb-bfc6-52540009454a">
 </form>
 </div>
 </div>
@@ -4814,7 +4463,7 @@ Why Choose Us </h2>
 <input type="hidden" name="starter" value="Complete Domain Plan">
 <input type="hidden" name="price" value="for $1999">
 <input type="hidden" name="service_id" value="5712" class="service_id">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=34d8381b-5148-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=34d8381b-5148-11eb-bfc6-52540009454a">
 </form>
 </div>
 </div>
@@ -4859,7 +4508,7 @@ Why Choose Us </h2>
 <input type="hidden" name="starter" value="Starter Website Maintenance">
 <input type="hidden" name="price" value="for $49">
 <input type="hidden" name="service_id" value="6013" class="service_id">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=ed1c757c-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=ed1c757c-5146-11eb-bfc6-52540009454a">
 </form>
 </div>
 </div>
@@ -4907,7 +4556,7 @@ Why Choose Us </h2>
 <input type="hidden" name="starter" value="Website Maintenance Advanced ">
 <input type="hidden" name="price" value="for $69">
 <input type="hidden" name="service_id" value="6013" class="service_id">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=3c4fae94-5147-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=3c4fae94-5147-11eb-bfc6-52540009454a">
 </form>
 </div>
 </div>
@@ -4961,7 +4610,7 @@ Why Choose Us </h2>
 <input type="hidden" name="starter" value="Website Maintenance Premium ">
 <input type="hidden" name="price" value="for $149">
 <input type="hidden" name="service_id" value="6013" class="service_id">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=3c4fae94-5147-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=3c4fae94-5147-11eb-bfc6-52540009454a">
 </form>
 </div>
 </div>
@@ -4987,7 +4636,7 @@ Why Choose Us </h2>
 <input type="hidden" name="website_design" value="Marketing Packages">
 <input type="hidden" name="starter" value="Starter">
 <input type="hidden" name="price" value="for $950">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=3c4fae94-5147-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=3c4fae94-5147-11eb-bfc6-52540009454a">
 </form>
 <div class="scroll-wrapper scroll-wrapper-1">
 <ul class="pkg-list">
@@ -5189,7 +4838,7 @@ Why Choose Us </h2>
 <input type="hidden" name="website_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Starter">
 <input type="hidden" name="price" value="for $99">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=c08a24e3-5145-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=c08a24e3-5145-11eb-bfc6-52540009454a">
 </form>
 <div class="scroll-wrapper scroll-wrapper-1">
 <ul class="pkg-list">
@@ -5222,7 +4871,7 @@ Why Choose Us </h2>
 <input type="hidden" name="logo_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $99">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </div>
 </div>
@@ -5265,7 +4914,7 @@ Why Choose Us </h2>
 <input type="hidden" name="starter" value="Professional Logo">
 <input type="hidden" name="price" value="for $199">
 <input type="hidden" name="service_id" value="5640" class="service_id">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=49ac676e-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=49ac676e-5146-11eb-bfc6-52540009454a">
 </form>
 </div>
 </div>
@@ -5314,7 +4963,7 @@ Why Choose Us </h2>
 <input type="hidden" name="website_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $299">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </form>
 </div>
@@ -5336,7 +4985,7 @@ Why Choose Us </h2>
 <input type="hidden" name="website_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Starter">
 <input type="hidden" name="price" value="for $350.00">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=c08a24e3-5145-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=c08a24e3-5145-11eb-bfc6-52540009454a">
 </form>
 <div class="scroll-wrapper scroll-wrapper-1">
 <ul class="pkg-list">
@@ -5385,7 +5034,7 @@ Why Choose Us </h2>
 <input type="hidden" name="logo_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $350.00">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </div>
 </div>
@@ -5449,7 +5098,7 @@ Why Choose Us </h2>
 <input type="hidden" name="website_design" value="Scaling Plan">
 <input type="hidden" name="starter" value="Scaling Plan">
 <input type="hidden" name="price" value="for $700">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </form>
 </div>
@@ -5515,7 +5164,7 @@ Why Choose Us </h2>
 <input type="hidden" name="website_design" value="Venture Plan">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $1200">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </form>
 </div>
@@ -5537,7 +5186,7 @@ Why Choose Us </h2>
 <input type="hidden" name="website_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Starter">
 <input type="hidden" name="price" value="for $350.00">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=c08a24e3-5145-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=c08a24e3-5145-11eb-bfc6-52540009454a">
 </form>
 <div class="scroll-wrapper scroll-wrapper-1">
 <ul class="pkg-list">
@@ -5569,7 +5218,7 @@ Why Choose Us </h2>
 <input type="hidden" name="logo_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $299.00">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </div>
 </div>
@@ -5617,7 +5266,7 @@ Why Choose Us </h2>
 <input type="hidden" name="website_design" value="Scaling Plan">
 <input type="hidden" name="starter" value="Scaling Plan">
 <input type="hidden" name="price" value="for $499">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </form>
 </div>
@@ -5663,7 +5312,7 @@ Why Choose Us </h2>
 <input type="hidden" name="website_design" value="Venture Plan">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $1499">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </form>
 </div>
@@ -5685,7 +5334,7 @@ Month
 <input type="hidden" name="website_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Starter">
 <input type="hidden" name="price" value="for $350.00">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=c08a24e3-5145-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=c08a24e3-5145-11eb-bfc6-52540009454a">
 </form>
 <div class="scroll-wrapper scroll-wrapper-1">
 <ul class="pkg-list">
@@ -5717,7 +5366,7 @@ Month
 <input type="hidden" name="logo_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $299.00">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </div>
 </div>
@@ -5768,7 +5417,7 @@ Month
 <input type="hidden" name="website_design" value="Scaling Plan">
 <input type="hidden" name="starter" value="Scaling Plan">
 <input type="hidden" name="price" value="for $499">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </form>
 </div>
@@ -5825,7 +5474,7 @@ Month
 <input type="hidden" name="website_design" value="Venture Plan">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $1399">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </form>
 </div>
@@ -5847,7 +5496,7 @@ Month
 <input type="hidden" name="website_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Starter">
 <input type="hidden" name="price" value="for $350.00">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=c08a24e3-5145-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=c08a24e3-5145-11eb-bfc6-52540009454a">
 </form>
 <div class="scroll-wrapper scroll-wrapper-1">
 <ul class="pkg-list">
@@ -5890,7 +5539,7 @@ Month
 <input type="hidden" name="logo_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $299.00">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </div>
 </div>
@@ -5951,7 +5600,7 @@ Month
 <input type="hidden" name="website_design" value="Scaling Plan">
 <input type="hidden" name="starter" value="Scaling Plan">
 <input type="hidden" name="price" value="for $839">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </form>
 </div>
@@ -6015,7 +5664,7 @@ Month
 <input type="hidden" name="website_design" value="Venture Plan">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $1399">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </form>
 </div>
@@ -6037,7 +5686,7 @@ Month
 <input type="hidden" name="website_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Starter">
 <input type="hidden" name="price" value="for $999.00">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=c08a24e3-5145-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=c08a24e3-5145-11eb-bfc6-52540009454a">
 </form>
 <div class="scroll-wrapper scroll-wrapper-1">
 <ul class="pkg-list">
@@ -6081,7 +5730,7 @@ Month
 <input type="hidden" name="logo_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $999.00">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </div>
 </div>
@@ -6145,7 +5794,7 @@ Month
 <input type="hidden" name="website_design" value="Scaling Plan">
 <input type="hidden" name="starter" value="Scaling Plan">
 <input type="hidden" name="price" value="for $999">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </form>
 </div>
@@ -6209,7 +5858,7 @@ Month
 <input type="hidden" name="website_design" value="Venture Plan">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $1999">
-<input type="hidden" name="terminal" value="TrustReputationHub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
+<input type="hidden" name="terminal" value="trustreputationhub.com?id=6b7265f7-5146-11eb-bfc6-52540009454a">
 <input type="hidden" name="service_id" value="5640" class="service_id">
 </form>
 </div>
@@ -6221,7 +5870,7 @@ Month
 </div>
 </div>
 <div class="view-btn wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s">
-<a class="lgt-btn1 hvr-bounce-to-right" href="#">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<a class="lgt-btn1 hvr-bounce-to-right" href="javascript:;">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 <a class="lgt-btn2 hvr-bounce-to-right" href="/quote.php">Order Now<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 </div>
 </section>  
@@ -6355,7 +6004,7 @@ We're Equipped With The Apt <span>Tools & Expertise!</span></h3>
 </div>
 <div class="test-box">
 <img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
-<p>I am thrilled with my remarkable website design. I hired American Web Coders to create a website that stands out in the crowd and helps us outdo our rivals. It amplified our sales and brought us 69% new traffic, of which 39% are now our dental patients. Kudos to their team for the efforts!</p>
+<p>I am thrilled with my remarkable website design. I hired Trust Reputation Hub to create a website that stands out in the crowd and helps us outdo our rivals. It amplified our sales and brought us 69% new traffic, of which 39% are now our dental patients. Kudos to their team for the efforts!</p>
 <div class="flexRow">
 <h3>CHUCK BENJAMIN<br> <span></span></h3>
 <img loading="lazy" alt="Image" class="img-responsive" data-url="img/Emma Rivera.png">
@@ -6363,7 +6012,7 @@ We're Equipped With The Apt <span>Tools & Expertise!</span></h3>
 </div>
 <div class="test-box">
 <img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
-<p>American Web Coders helped us with their Shopify web development services. The store is feature-packed and is designed considering elements such as responsiveness and interactivity. We are satisfied with the results and will surely recommend others to hire AWC.</p>
+<p>Trust Reputation Hub helped us with their Shopify web development services. The store is feature-packed and is designed considering elements such as responsiveness and interactivity. We are satisfied with the results and will surely recommend others to hire AWC.</p>
 <div class="flexRow">
 <h3>EMILY POWELL<br> <span></span></h3>
 <img loading="lazy" alt="Image" class="img-responsive" data-url="img/Joe.png">
@@ -6519,173 +6168,24 @@ We're Equipped With The Apt <span>Tools & Expertise!</span></h3>
 </div>
 </div>
 <ul class="social social-new-1 wow zoomIn" data-wow-delay="2s" data-wow-duration="2s">
-<li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a href="https://www.facebook.com/trustreputationhub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.linkedin.com/company/TrustReputationHub/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+<li><a href="https://www.linkedin.com/company/trustreputationhub/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 
 <li><a href="https://www.youtube.com/channel/UCyCKKAHOzVyrG4dYtEFJJqw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.bark.com/en/us/company/american-web-coders/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
+<li><a href="https://www.bark.com/en/us/company/trust-reputation-hub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
 
-<li><a href="https://www.sitejabber.com/reviews/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/sitejabber-icon.png"></a> </li>
+<li><a href="https://www.sitejabber.com/reviews/trustreputationhub.com" target="_blank" class="dmca-badge"> <img src="img/sitejabber-icon.png"></a> </li>
 </ul>
 </div>
 </div>
 </div>
 </div>
 </section> 
-<footer id="footer" class="purple-bg">
-<div class="container">
-<div class="footer-bottom wow fadeInDown" data-wow-delay="0.6s" data-wow-duration="2s">
-<div class="row">
-<div class="col-md-4 col-sm-6 col-xs-12">
-<div class="footer-1">
-<img loading="lazy" src="img/logo-png.png" class="img-responsive" alt="img">
+<?php include_once("includes/footer.php") ?>
 
-<p>A full-service digital marketing agency helping you achieve high-impact outcomes.</p>
-</div>
-<div class="ftr-logos">
-<img loading="lazy" alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" data-url="img/ftr1.png">
-<a href="https://www.dmca.com/Protection/Status.aspx?ID=0c0535f8-aa02-4aa8-b3ef-c5b6ad472757&refurl=https://www.TrustReputationHub.com/" target="_blank" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/dmca_protected_sml_120l.png" alt="DMCA.com Protection Status"></a>
-<a href="https://www.dmca.com/compliance/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/dmca-compliant-white-bg.png"></a>
-<div class="payment-method-img webdesign-2022">
-<a href="https://techreviewer.co/companies/american-web-coders" target="_blank"><img loading="lazy" data-url="img/tr-1.png" alt="img" class="img-responsive"></a>
-</div>
-</div>
-</div>
-<div class="col-md-3 col-sm-6 col-xs-12">
-<div class="footer-head">
-<h3>Services</h3>
-</div>
-<ul class="ftr-list">
-<li>
-<a href="branding-strategy">Branding & Strategy</a>
-</li>
-<li>
-<a href="web-design">Website Design</a>
-</li>
-<li>
-<a href="ecommerce">eCommerce Website</a>
-</li>
-<li>
-<a href="custom-web-design">Custom Website Solution</a>
-</li>
-<li>
-<a href="hosting-domain">Hosting & Domain</a>
-</li>
-<li>
-<a href="website-maintainance">Website Maintenance</a>
-</li>
-<li>
-<a href="digital-marketing">Digital Marketing</a>
-</li>
-</ul>
-</div>
-<div class="col-md-2
 
-            col-sm-6 col-xs-12">
-<div class="footer-head">
-<h3>Resources</h3>
-</div>
-<ul class="ftr-list">
-<li>
-<a href="awards">Awards</a>
-</li>
-<li>
-<a href="portfolio">Portfolio</a>
-</li>
-</li>
-<li>
-<a href="faq">FAQs</a>
-</li>
-<li>
-<a href="contact">Contact</a>
-</li>
-<li>
-<a href="news.php">Newsroom</a>
-</li>
-<li>
-<a href="podcast.php">Podcast</a>
-</li>
-<li>
-<a href="/blog">Blog</a>
-</li>
-<li>
-<a href="/case-studies">Case studies</a>
-</li>
-</ul>
-</div>
-<div class="col-md-3 col-sm-6 col-xs-12">
-<ul class="ftr-list contact-det">
-<li>
-<i aria-hidden="true" class="fa fa-mobile"></i><a href="tel:866-921-5690">For Sales: 866-921-5690</a>
-</li>
-<li>
-<i aria-hidden="true" class="fa fa-mobile"></i><a href="tel:866-468-6629">For Support: 866-468-6629</a>
-</li>
-<li>
-<i aria-hidden="true" class="fa fa-envelope"></i><a href="/cdn-cgi/l/email-protection#88e0ede4e4f8c8e9e5edfae1ebe9e6ffedeaebe7ecedfafba6ebe7e5"><span class="__cf_email__" data-cfemail="b9d0d7dfd6f9d8d4dccbd0dad8d7cedcdbdad6dddccbca97dad6d4">[email&#160;protected]</span></a>
-</li>
-<li>
-<i aria-hidden="true" class="fa fa-map-marker"></i><a href="#."> 2142 W Washington Blvd, Los Angeles, CA 90018, United States</a>
-</li>
-</ul>
-<div class="footer-head payment-margin">
-<h3>Payment Methods:</h3>
-</div>
-<div class="payment-method-img">
-<img loading="lazy" data-url="img/payment-method.png" alt="img" class="img-responsive">
-</div>
-</div>
-</div>
-</div>
-<div class="copy-right wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="2s">
-<div class="row flexRow">
-<div class="col-md-6 col-sm-6 col-xs-12">
-<p>All Rights Reserved 2012-25 - American Web Coders</p>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-12">
-<ul class="pull-right list-inline">
-<li>
-<a href="privacy.php">Privacy Policy </a> |
-</li>
-<li>
-<a href="terms.php">Terms and Conditions</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</footer>
-
-<a href="https://wa.me/+16502760787" target="_blank" class="whatsapp"><i class="fa fa-whatsapp"></i></a>
-</div>
-<style>
-
-.whatsapp{width:50px;height:51px;color:#fff;display:block;text-align:center;border-radius:100%;font-size:34px;position:fixed;bottom:100px;right:20px;z-index:9999;box-shadow:6px 9px 30px 1px rgba(37,0,22,0.71);padding:1px 0;animation:scrollDownAnimation .5s ease infinite alternate;-webkit-animation:scrollDownAnimation .5s ease infinite alternate;background:#00a155;background:-moz-linear-gradient(left,#ea018e 0%,#9b2c92 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ea018e',endColorstr='#9b2c92',GradientType=1)}
-
-.whatsapp:hover{color:#fff}
-
-.whatsapp .fa-whatsapp{position:absolute;left:10px;top:8px}
-
-@keyframes scrollDownAnimation {
-
-from{transform:translateY(0)}
-
-to{transform:translateY(-10px)}
-
-}
-
-@-webkit-keyframes scrollDownAnimation {
-
-from{transform:translateY(0)}
-
-to{transform:translateY(-10px)}
-
-}
-
-</style>
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery.min.js" type="781e9c6860e69996f87674f7-text/javascript"></script>
 <script src="js/slick.js" type="781e9c6860e69996f87674f7-text/javascript"></script>
 <script src="js/bootstrap.min.js" type="781e9c6860e69996f87674f7-text/javascript"></script>

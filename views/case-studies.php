@@ -163,7 +163,7 @@
 <div class="row text-center">
 <div class="col-md-8 col-sm-8 col-xs-12 center-col">
 <h3 class="section-head wow bounceIn" data-wow-delay="0.6s" data-wow-duration="2s">Let's discuss your next project
-<a href="contact.html">CONNECT NOW</a></h3>
+<a href="contact/">CONNECT NOW</a></h3>
 </div>
 </div>
 </div>

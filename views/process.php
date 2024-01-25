@@ -18,7 +18,7 @@
 </html>
 
  <section class="inner-banner">
-<img alt="Image" class="img-responsive" src="img/process-banner.html">
+<img alt="Image" class="img-responsive" src="img/process-banner.jpg">
 <div class="banner-text">
 <div class="container">
 <div class="row ">
@@ -74,31 +74,31 @@ Problem Solvers</h3>
 <div class="tab-content">
 <div id="home" class="tab-pane fade in active">
 <div class="item-box">
-<figure><img src="img/process-new-icon/servcie-work-1.html" alt="servcie-work-1"></figure>
+<figure><img src="img/servcie-work-1.png" alt="servcie-work-1"></figure>
 <p>The first step in designing a successful website is to gather information. Several things need to be taken into consideration when creating the look and feel of your site.</p>
 </div>
 </div>
 <div id="menu1" class="tab-pane fade">
 <div class="item-box">
-<figure><img src="img/process-new-icon/servcie-work-2.html" alt="servcie-work-1"></figure>
+<figure><img src="img/servcie-work-2.png" alt="servcie-work-1"></figure>
 <p>It is time to craft a plan for your website using the information gathered from phase one. This is the point where a site map is developed.</p>
 </div>
 </div>
 <div id="menu2" class="tab-pane fade">
 <div class="item-box">
-<figure><img src="img/process-new-icon/servcie-work-3.html" alt="servcie-work-1"></figure>
+<figure><img src="img/servcie-work-3.png" alt="servcie-work-1"></figure>
 <p>It's time to determine the look and feel of your site. Your web designer will create one or more prototype designs for your website. This is typically a .jpg image of the final design.</p>
 </div>
 </div>
 <div id="menu3" class="tab-pane fade">
 <div class="item-box">
-<figure><img src="img/process-new-icon/servcie-work-4.html" alt="servcie-work-1"></figure>
+<figure><img src="img/servcie-work-4.png" alt="servcie-work-1"></figure>
 <p>The developmental stage is the point where the website itself is created. At this time, your web designer will take all the individual graphic elements from the prototype and use them to make an actual, functional site.</p>
 </div>
 </div>
 <div id="menu4" class="tab-pane fade">
 <div class="item-box">
-<figure><img src="img/process-new-icon/servcie-work-5.html" alt="servcie-work-1"></figure>
+<figure><img src="img/servcie-work-5.png" alt="servcie-work-1"></figure>
 <p>With the final web design approval, it is time to deliver the site. This marks the official launch of your site, as it is now viewable to the public.</p>
 </div>
 </div>
@@ -117,27 +117,27 @@ Problem Solvers</h3>
 </div>
 <div class="culture-flex">
 <div class="ind-box text-center hvr-grow">
-<img alt="Image" class="img-responsive" src="img/in1.html">
+<img alt="Image" class="img-responsive" src="img/in1.png">
 <h4>Clients Are Partners</h4>
 <p>We treat our clients as partners and stay with them from the initial ideas to the delivery.</p>
 </div>
 <div class="ind-box text-center hvr-grow">
-<img alt="Image" class="img-responsive" src="img/in2.html">
+<img alt="Image" class="img-responsive" src="img/in2.png">
 <h4>Transparency</h4>
 <p>Partnership is impossible without transparency. We cut out any signs of bureaucracy, hidden agendas, and favoritism. We are always ready to share information and follow transparency at all times.</p>
 </div>
 <div class="ind-box text-center hvr-grow">
-<img alt="Image" class="img-responsive" src="img/in3.html">
+<img alt="Image" class="img-responsive" src="img/in3.png">
 <h4>Tech Focused Teams</h4>
 <p>We are a team of consultants, designers, architects, and engineers who enable our customers to be competitive and disruptive in the marketplace.</p>
 </div>
 <div class="ind-box text-center hvr-grow">
-<img alt="Image" class="img-responsive" src="img/in4.html">
+<img alt="Image" class="img-responsive" src="img/in4.png">
 <h4>Focus On Results</h4>
 <p>We get things done regardless of what it takes. We go above and beyond to satisfy our clients and have a "no excuses" work culture.</p>
 </div>
 <div class="ind-box text-center hvr-grow">
-<img alt="Image" class="img-responsive" src="img/in5.html">
+<img alt="Image" class="img-responsive" src="img/in5.png">
 <h4>On-Time and On-Budget</h4>
 <p>From the beginning, we build a project schedule and budget based on what it takes to design the highest quality product.</p>
 </div>
@@ -151,7 +151,7 @@ Problem Solvers</h3>
 <div class="row text-center">
 <div class="col-md-8 col-sm-8 col-xs-12 center-col">
 <h3 class="section-head wow bounceIn" data-wow-delay="0.6s" data-wow-duration="2s">Let's discuss your next project
-<a href="contact.html">CONNECT NOW</a></h3>
+<a href="contact/">CONNECT NOW</a></h3>
 </div>
 </div>
 </div>

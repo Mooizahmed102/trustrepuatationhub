@@ -198,7 +198,7 @@
 <li data-targetit="box-4"><a href="javascript:;">Digital Marketing</a></li>
 </ul>
 <div class="box-1 showfirst">
-<ul class="portfolio-list-new">
+<!-- <ul class="portfolio-list-new">
 <li data-targetit="box-web-cat-1" class="active"><a>Accounting</a></li>
 <li data-targetit="box-web-cat-2"><a>CBD</a></li>
 <li data-targetit="box-web-cat-3"><a>Community & Non Profit</a></li>
@@ -211,7 +211,7 @@
 <li data-targetit="box-web-cat-10"><a>Logistics Shipping</a></li>
 <li data-targetit="box-web-cat-11"><a>Photography</a></li>
 <li data-targetit="box-web-cat-12"><a>Real Estate</a></li>
-</ul>
+</ul> -->
 <div class="box-web-cat-1 showfirst">
 <div class="row">
 <div class="col-md-4 content_relate">
@@ -660,106 +660,106 @@
 <div class="row">
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/1.jpg" data-fancybox>
-<img src="img/health-fitness/1.jpg" class>
+<a href="img/1.jpg" data-fancybox>
+<img src="img/1.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/2.jpg" data-fancybox>
-<img src="img/health-fitness/2.jpg" class>
+<a href="img/2.jpg" data-fancybox>
+<img src="img/2.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/3.jpg" data-fancybox>
-<img src="img/health-fitness/3.jpg" class>
+<a href="img/3.jpg" data-fancybox>
+<img src="img/3.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/4.jpg" data-fancybox>
-<img src="img/health-fitness/4.jpg" class>
+<a href="img/4.jpg" data-fancybox>
+<img src="img/4.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/5.jpg" data-fancybox>
-<img src="img/health-fitness/5.jpg" class>
+<a href="img/5.jpg" data-fancybox>
+<img src="img/5.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/6.jpg" data-fancybox>
-<img src="img/health-fitness/6.jpg" class>
+<a href="img/6.jpg" data-fancybox>
+<img src="img/6.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/7.jpg" data-fancybox>
-<img src="img/health-fitness/7.jpg" class>
+<a href="img/7.jpg" data-fancybox>
+<img src="img/7.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/8.jpg" data-fancybox>
-<img src="img/health-fitness/8.jpg" class>
+<a href="img/8.jpg" data-fancybox>
+<img src="img/8.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/9.jpg" data-fancybox>
-<img src="img/health-fitness/9.jpg" class>
+<a href="img/9.jpg" data-fancybox>
+<img src="img/9.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/10.jpg" data-fancybox>
-<img src="img/health-fitness/10.jpg" class>
+<a href="img/10.jpg" data-fancybox>
+<img src="img/10.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/11.jpg" data-fancybox>
-<img src="img/health-fitness/11.jpg" class>
+<a href="img/11.jpg" data-fancybox>
+<img src="img/11.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/12.jpg" data-fancybox>
-<img src="img/health-fitness/12.jpg" class>
+<a href="img/12.jpg" data-fancybox>
+<img src="img/12.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/13.jpg" data-fancybox>
-<img src="img/health-fitness/13.jpg" class>
+<a href="img/13.jpg" data-fancybox>
+<img src="img/13.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/14.jpg" data-fancybox>
-<img src="img/health-fitness/14.jpg" class>
+<a href="img/14.jpg" data-fancybox>
+<img src="img/14.jpg" class>
 </a>
 </div>
 </div>
 <div class="col-md-4 content_relate">
 <div class="screen">
-<a href="img/health-fitness/15.jpg" data-fancybox>
-<img src="img/health-fitness/15.jpg" class>
+<a href="img/15.jpg" data-fancybox>
+<img src="img/15.jpg" class>
 </a>
 </div>
 </div>
@@ -1238,64 +1238,64 @@
 <div class="row">
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/1.jpg">
-<img src="img/branding-folio/1.jpg">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/1 (12).jpg">
+<img src="img/branding-folio/1 (12).jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/2.jpg">
-<img src="img/branding-folio/2.jpg">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/2 (12).jpg">
+<img src="img/branding-folio/2 (12).jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/3.html">
-<img src="img/branding-folio/3.html">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/3 (12).jpg">
+<img src="img/branding-folio/3 (12).jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/4.html">
-<img src="img/branding-folio/4.html">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/4 (12).jpg">
+<img src="img/branding-folio/4 (12).jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/5.html">
-<img src="img/branding-folio/5.html">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/5 (12).jpg">
+<img src="img/branding-folio/5 (12).jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/6.html">
-<img src="img/branding-folio/6.html">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/6 (12).jpg">
+<img src="img/branding-folio/6 (12).jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/7.html">
-<img src="img/branding-folio/7.html">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/7 (12).jpg">
+<img src="img/branding-folio/7 (12).jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/8.html">
-<img src="img/branding-folio/8.html">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/8 (12).jpg">
+<img src="img/branding-folio/8 (12).jpg">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/9.html">
-<img src="img/branding-folio/9.html">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/9 (12).jpg">
+<img src="img/branding-folio/9 (12).jpg">
 </a>
 </div>
 </div>
@@ -1307,64 +1307,64 @@
 <div class="row">
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/digital-folio/1.png">
-<img src="img/digital-folio/1.png">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/1.png">
+<img src="img/branding-folio/1.png">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/digital-folio/2.png">
-<img src="img/digital-folio/2.png">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/2.png">
+<img src="img/branding-folio/2.png">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/digital-folio/3.html">
-<img src="img/digital-folio/3.html">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/3.png">
+<img src="img/branding-folio/3.png">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/digital-folio/4.png">
-<img src="img/digital-folio/4.png">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/4.png">
+<img src="img/branding-folio/4.png">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/digital-folio/5.png">
-<img src="img/digital-folio/5.png">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/5.png">
+<img src="img/branding-folio/5.png">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/digital-folio/6.html">
-<img src="img/digital-folio/6.html">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/6.png">
+<img src="img/branding-folio/6.png">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/digital-folio/7.png">
-<img src="img/digital-folio/7.png">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/7.png">
+<img src="img/branding-folio/7.png">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/digital-folio/8.png">
-<img src="img/digital-folio/8.png">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/8.png">
+<img src="img/branding-folio/8.png">
 </a>
 </div>
 </div>
 <div class="col-md-4">
 <div class="logo-foilo-box">
-<a class="fancybox" data-fancybox="gallery" href="img/digital-folio/9.html">
-<img src="img/digital-folio/9.html">
+<a class="fancybox" data-fancybox="gallery" href="img/branding-folio/9.png">
+<img src="img/branding-folio/9.png">
 </a>
 </div>
 </div>
@@ -1380,7 +1380,7 @@
 <div class="row text-center">
 <div class="col-md-8 col-sm-8 col-xs-12 center-col">
 <h3 class="section-head wow bounceIn" data-wow-delay="0.6s" data-wow-duration="2s">Let's discuss your next project
-<a href="contact.html">CONNECT NOW</a></h3>
+<a href="contact/">CONNECT NOW</a></h3>
 </div>
 </div>
 </div>

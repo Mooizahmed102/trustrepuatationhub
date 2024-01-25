@@ -37,28 +37,28 @@
 <h3 class="section-head">Why Us?</h3>
 <div class="col-md-6 col-sm-6 col-xs-12 nopadding">
 <div class="point-box flexRow">
-<img alt="Image" class="img-responsive" src="img/p1.html">
+<img alt="Image" class="img-responsive" src="img/p1.png">
 <div class="point-text">
 <h4>INSPIRED WORK</h4>
 <p>We don't just build products. We build products that we'd be proud to show our friends and families. We build products that make a difference.</p>
 </div>
 </div>
 <div class="point-box flexRow">
-<img alt="Image" class="img-responsive" src="img/p2.html">
+<img alt="Image" class="img-responsive" src="img/p2.png">
 <div class="point-text">
 <h4>TALENTED & PASSIONATE PEOPLE</h4>
 <p>We are the sum of our experiences. Together, we create robust digital experiences for our clients. Each team member brings a unique background and perspective to each engagement. </p>
 </div>
 </div>
 <div class="point-box flexRow">
-<img alt="Image" class="img-responsive" src="img/p3.html">
+<img alt="Image" class="img-responsive" src="img/p3.png">
 <div class="point-text">
 <h4>EXPLORATION & LEARNING</h4>
 <p>Our team has built automated wardrobes and drones, large-scale federal websites, and mobile apps. Explore your creative side and learn a thing or two along the way.</p>
 </div>
 </div>
 <div class="point-box flexRow">
-<img alt="Image" class="img-responsive" src="img/p4.html">
+<img alt="Image" class="img-responsive" src="img/p4.png">
 <div class="point-text">
 <h4>WORK/LIFE BALANCE</h4>
 <p>Did we mention we were voted one of SF's Top Places to work?</p>
@@ -67,7 +67,7 @@
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12 nopadding">
 <figure class="why-right">
-<img alt="Image" class="img-responsive" src="img/why-img.html">
+<img alt="Image" class="img-responsive" src="img/why-img.png">
 </figure>
 </div>
 </div>
@@ -101,12 +101,12 @@
 </ul>
 <p>Programming Languages</p>
 <p>HTML5, PHP, JavaScript, JQuery</p>
-<a class="blue-btn hvr-bounce-to-right" href="contact.html">Apply Now</a>
+<a class="blue-btn hvr-bounce-to-right" href="contact/">Apply Now</a>
 </span>
 <a class="myBtn">Read Full JOB Description ></a>
 </div>
 <figure>
-<img alt="Image" class="img-responsive" src="img/career-img.html">
+<img alt="Image" class="img-responsive" src="img/career-img.jpg">
 </figure>
 </div>
 <div class="career-box flexRow">
@@ -139,12 +139,12 @@
 <li><p>Problem-Solving | Reasoning/Creativity</p></li>
 <li><p>Highly Motivated | Self Starter | Effective Leadership and Management</p></li>
 </ul>
-<a class="blue-btn hvr-bounce-to-right" href="contact.html">Apply Now</a>
+<a class="blue-btn hvr-bounce-to-right" href="contact/l">Apply Now</a>
 </span>
 <a class="myBtn">Read Full JOB Description ></a>
 </div>
 <figure>
-<img alt="Image" class="img-responsive" src="img/career-img.html">
+<img alt="Image" class="img-responsive" src="img/career-img.jpg">
 </figure>
 </div>
 <div class="career-box flexRow">
@@ -168,12 +168,12 @@
 <ul>
 <li><p>Working knowledge of the following technologies and software: Sketch, InVision, Visio, HTML, CSS (SCSS), iOS, Android, Design Systems and Adobe Creative Suite.</p></li>
 </ul>
-<a class="blue-btn hvr-bounce-to-right" href="contact.html">Apply Now</a>
+<a class="blue-btn hvr-bounce-to-right" href="contact/">Apply Now</a>
 </span>
 <a class="myBtn">Read Full JOB Description ></a>
 </div>
 <figure>
-<img alt="Image" class="img-responsive" src="img/career-img.html">
+<img alt="Image" class="img-responsive" src="img/career-img.jpg">
 </figure>
 </div>
 </div>
@@ -186,7 +186,7 @@
 <div class="row text-center">
 <div class="col-md-8 col-sm-8 col-xs-12 center-col">
 <h3 class="section-head wow bounceIn" data-wow-delay="0.6s" data-wow-duration="2s">Let's discuss your next project
-<a href="contact.html">CONNECT NOW</a></h3>
+<a href="contact/">CONNECT NOW</a></h3>
 </div>
 </div>
 </div>

@@ -84,7 +84,7 @@ America,
 Facebook Partner</p>
 </div>
 <div class="brand-box fact-box two-col">
-<img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/fact10.html">
+<img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/fact10.png">
 <h3 class="section-head">FY 2020 team by expertise
 </h3>
 <p>40% Backend. 20% Front End, 15% Mobile 15%

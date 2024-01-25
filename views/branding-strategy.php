@@ -23,7 +23,7 @@
 <h1 class="section-head">We're The Leaders<span> In Branding</span></h1>
 <p>We are passionate about creating unique brand experiences for all our clients. Our diverse team works together to promote unique brand experiences with skill and know-how that will leave your customers feeling confident in their purchase from you!</p>
 <a class="lgt-btn hvr-bounce-to-right" href="contact/">Get a Quote
-<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a> <a class="lgt-btn white-btn hvr-bounce-to-right" href="branding-strategy.html#package-div">See offers <i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a> <a class="lgt-btn white-btn hvr-bounce-to-right" href="branding-strategy.png#package-div">See offers <i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 </div>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12">
@@ -78,7 +78,7 @@
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12">
 <div class="banner-img">
-<img src="img/service-detail-6.jpg" class="img-responsive" alt="service-detail-6">
+<img src="img/service-detail-6.png" class="img-responsive" alt="service-detail-6">
 </div>
 </div>
 </div>
@@ -89,7 +89,7 @@
 <div class="row flexRow">
 <div class="col-md-6 col-sm-6 col-xs-12">
 <div class="banner-img">
-<img src="img/service-detail-7.jpg" class="img-responsive" alt="service-detail-7">
+<img src="img/service-detail-7.png" class="img-responsive" alt="service-detail-7">
 </div>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12">
@@ -122,7 +122,7 @@
 </div>
 <div class="col-md-6 col-sm-6 col-xs-12">
 <div class="banner-img">
-<img src="img/service-detail-8.jpg" class="img-responsive" alt="service-detail-8">
+<img src="img/service-detail-8.png" class="img-responsive" alt="service-detail-8">
 </div>
 </div>
 </div>
@@ -139,37 +139,37 @@ Start your brand on the right foot.
 </div>
 <div class="col-md-4 col-xs-12">
 <div class="ind-box text-center hvr-grow mb-3">
-<img alt="Image" class="img-responsive" src="img/brand-strategy1.html">
+<img alt="Image" class="img-responsive" src="img/brand-strategy1.png">
 <h4>Brand Guidelines</h4>
 </div>
 </div>
 <div class="col-md-4 col-xs-12">
 <div class="ind-box text-center hvr-grow mb-3">
-<img alt="Image" class="img-responsive" src="img/brand-strategy2.html">
+<img alt="Image" class="img-responsive" src="img/brand-strategy2.png">
 <h4>Voice & Tone</h4>
 </div>
 </div>
 <div class="col-md-4 col-xs-12">
 <div class="ind-box text-center hvr-grow mb-3">
-<img alt="Image" class="img-responsive" src="img/brand-strategy3.html">
+<img alt="Image" class="img-responsive" src="img/brand-strategy3.png">
 <h4>Topline Messaging</h4>
 </div>
 </div>
 <div class="col-md-4 col-xs-12">
 <div class="ind-box text-center hvr-grow mb-3">
-<img alt="Image" class="img-responsive" src="img/brand-strategy4.html">
+<img alt="Image" class="img-responsive" src="img/brand-strategy4.png">
 <h4>Integrated Digital Experience</h4>
 </div>
 </div>
 <div class="col-md-4 col-xs-12">
 <div class="ind-box text-center hvr-grow mb-3">
-<img alt="Image" class="img-responsive" src="img/brand-strategy5.html">
+<img alt="Image" class="img-responsive" src="img/brand-strategy5.png">
 <h4>Branded Copywriting </h4>
 </div>
 </div>
 <div class="col-md-4 col-xs-12">
 <div class="ind-box text-center hvr-grow mb-3">
-<img alt="Image" class="img-responsive" src="img/brand-strategy6.html">
+<img alt="Image" class="img-responsive" src="img/brand-strategy6.png">
 <h4>Awareness & Campaigns</h4>
 </div>
 </div>
@@ -202,37 +202,37 @@ Start your brand on the right foot.
 <div class="tab-content">
 <div id="home" class="tab-pane fade in active">
 <div class="item-box">
-<figure><img src="img/servcie-work-1.html" alt="servcie-work-1"></figure>
+<figure><img src="img/servcie-work-1.png" alt="servcie-work-1"></figure>
 <p>Our primary objective in conducting market research is to know and understand the target audience. Since brands are all about creating a unique experience for customers, they cannot survive in a vacuum. Businesses often do not realize what brands mean to us and how they influence our choices. Our research approach comprises cognitive insights and people's choices and mental processes.</p>
 </div>
 </div>
 <div id="menu1" class="tab-pane fade">
 <div class="item-box">
-<figure><img src="img/servcie-work-2.html" alt="servcie-work-1"></figure>
+<figure><img src="img/servcie-work-2.png" alt="servcie-work-1"></figure>
 <p>Our clients often ask us about the branding strategies and why we follow them. Proficient strategy practitioners ask such questions regularly. Questions of this nature define the business processes discussed in the boardroom and implemented as a call to action. We offer clients detailed branding strategies to ensure their brands reach the heights of success.</p>
 </div>
 </div>
 <div id="menu2" class="tab-pane fade">
 <div class="item-box">
-<figure><img src="img/branding-folio/servcie-work-3.html" alt="servcie-work-1"></figure>
+<figure><img src="img/branding-folio/servcie-work-3.png" alt="servcie-work-1"></figure>
 <p>Innovation is more of a mindset as it is present in the DNA of any organization. Whether shifting culture or behavior optimization, both are found outside and inside your organization. With our cutting-edge solutions and years of expertise, you can envision what your future looks like and see the opportunities present in front of you.</p>
 </div>
 </div>
 <div id="menu3" class="tab-pane fade">
 <div class="item-box">
-<figure><img src="img/branding-folio/servcie-work-4.html" alt="servcie-work-1"></figure>
+<figure><img src="img/branding-folio/servcie-work-4.png" alt="servcie-work-1"></figure>
 <p>Brand architecture is essential to present and organize your portfolio according to your target audience's likes and dislikes. It is a way to arrange a structured framework considering targeted communication, independent brand equity, and enhanced focus. In most cases, an effective structure is followed under the offerings, products, and services provided by a single entity.</p>
 </div>
 </div>
 <div id="menu4" class="tab-pane fade">
 <div class="item-box">
-<figure><img src="img/branding-folio/servcie-work-5.html" alt="servcie-work-1"></figure>
+<figure><img src="img/branding-folio/servcie-work-5.png" alt="servcie-work-1"></figure>
 <p>Visual identity brings brands to life. With the help of a strong visual identity, you can connect with your audience, draw them in, and promote an intuitive response. Some of the main features of promising visual identities include inclination and insight. Every curve, design, detail, and color helps us define the brand's identity and bring it to life.</p>
 </div>
 </div>
 <div id="menu5" class="tab-pane fade">
 <div class="item-box">
-<figure><img src="img/branding-folio/servcie-work-6.html" alt="servcie-work-1"></figure>
+<figure><img src="img/branding-folio/servcie-work-6.png" alt="servcie-work-1"></figure>
 <p>Your brand has a story, and we're here to help you convey it! We blend creative writing, linguistics, and a strategy-first mindset to help your brand discover its voice, start conversations, and communicate stories that connect with people. We transform every written touchpoint into an opportunity to express your brand identity through language.</p>
 </div>
 </div>
@@ -310,52 +310,52 @@ Industry
 
 <div id="branddesign" class="tab-pane fade in active">
 <div class="port-slider logo-sli logo-ss">
-<a href="img/branding-folio/1.html" data-fancybox>
+<a href="img/branding-folio/1.png" data-fancybox>
 <figure>
 <img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/branding-folio/1.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/2.html" data-fancybox>
+<a href="img/branding-folio/2.png" data-fancybox>
 <figure>
 <img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/branding-folio/2.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/3.html" data-fancybox>
+<a href="img/branding-folio/3.png" data-fancybox>
 <figure>
 <img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/branding-folio/3.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/4.html" data-fancybox>
+<a href="img/branding-folio/4.png" data-fancybox>
 <figure>
 <img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/branding-folio/4.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/5.html" data-fancybox>
+<a href="img/branding-folio/5.png" data-fancybox>
 <figure>
 <img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/branding-folio/5.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/6.html" data-fancybox>
+<a href="img/branding-folio/6.png" data-fancybox>
 <figure>
 <img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/branding-folio/6.jpg">
 </figure>
 </a>
-<a href="img/branding-folio/7.html" data-fancybox>
+<a href="img/branding-folio/7.png" data-fancybox>
 <figure>
 <img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/7.jpg">
 </figure>
 </a>
-<a href="img/8.html" data-fancybox>
+<a href="img/8.png" data-fancybox>
 <figure>
 <img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/8.jpg">
 </figure>
 </a>
-<a href="img/8.html" data-fancybox>
+<a href="img/8.png" data-fancybox>
 <figure>
 <img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/8.jpg">
 </figure>
 </a>
-<a href="img/9.html" data-fancybox>
+<a href="img/9.png" data-fancybox>
 <figure>
 <img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/9.jpg">
 </figure>
@@ -365,7 +365,7 @@ Industry
 </div>
 </div>
 <div class="view-btn wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s">
-<a class="lgt-btn hvr-bounce-to-right" href="portfolio.html">Full Portfolio<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<a class="lgt-btn hvr-bounce-to-right" href="portfolio/">Full Portfolio<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 </div>
 </div>
 </div>
@@ -435,7 +435,7 @@ Industry
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/website-design-starter.html">View Details</a>
+<a class=" " href="view-detail/website-design-starter.png">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -483,7 +483,7 @@ Industry
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-professional.html">View Details</a>
+<a href="view-detail/website-design-professional.png">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Recommended Professional">
@@ -532,7 +532,7 @@ Industry
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-business.html">View Details</a>
+<a href="view-detail/website-design-business.png">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Business">
@@ -582,7 +582,7 @@ Industry
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-starter.html">View Details</a>
+<a href="view-detail/ecommerce-starter.png">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="E-Commerce - Starter Package">
@@ -630,7 +630,7 @@ Industry
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-starter.html">View Details</a>
+<a href="view-detail/ecommerce-starter.png">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="E-Commerce - Starter Package">
@@ -676,7 +676,7 @@ Industry
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-starter.html">View Details</a>
+<a href="view-detail/ecommerce-starter.png">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="E-Commerce - Starter Package">
@@ -723,7 +723,7 @@ Industry
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-starter.html">View Details</a>
+<a href="view-detail/ecommerce-starter.png">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="E-Commerce - Starter Package">
@@ -771,7 +771,7 @@ Industry
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-starter.html">View Details</a>
+<a href="view-detail/ecommerce-starter.png">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="E-Commerce - Starter Package">
@@ -786,8 +786,8 @@ Industry
 </div>
 </div>
 <div class="view-btn wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s">
-<a class="lgt-btn1 hvr-bounce-to-right" href="#">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
-<a class="lgt-btn2 hvr-bounce-to-right" href="quote.html">Order Now<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<a class="lgt-btn1 hvr-bounce-to-right" href="javascript:;">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<a class="lgt-btn2 hvr-bounce-to-right" href="quote/">Order Now<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 </div>
 </section>
  
@@ -802,23 +802,23 @@ We're experienced in various <span>technologies</span></h3>
 <div class="tech-logo-box">
 <marquee width="100%" direction="right" scrollamount="5">
 <img src="img/tech-logos/1.jpg">
-<img src="img/tech-logos/2.html">
+<img src="img/tech-logos/2.jpg">
 <img src="img/tech-logos/3.jpg">
-<img src="img/tech-logos/4.html">
-<img src="img/tech-logos/5.html">
-<img src="img/tech-logos/6.html">
-<img src="img/tech-logos/7.html">
+<img src="img/tech-logos/4.jpg">
+<img src="img/tech-logos/5.jpg">
+<img src="img/tech-logos/6.jpg">
+<img src="img/tech-logos/7.jpg">
 <img src="img/tech-logos/8.jpg">
 <img src="img/tech-logos/9.jpg">
 <img src="img/tech-logos/10.jpg">
 <img src="img/tech-logos/11.jpg">
 <img src="img/tech-logos/1.jpg">
-<img src="img/tech-logos/2.html">
+<img src="img/tech-logos/2.jpg">
 <img src="img/tech-logos/3.jpg">
-<img src="img/tech-logos/4.html">
-<img src="img/tech-logos/5.html">
-<img src="img/tech-logos/6.html">
-<img src="img/tech-logos/7.html">
+<img src="img/tech-logos/4.jpg">
+<img src="img/tech-logos/5.jpg">
+<img src="img/tech-logos/6.jpg">
+<img src="img/tech-logos/7.jpg">
 <img src="img/tech-logos/8.jpg">
 <img src="img/tech-logos/9.jpg">
 <img src="img/tech-logos/10.jpg">
@@ -828,23 +828,23 @@ We're experienced in various <span>technologies</span></h3>
 <div class="tech-logo-box">
 <marquee width="100%" direction="left" scrollamount="5">
 <img src="img/tech-logos/12.jpg">
-<img src="img/tech-logos/13.html">
-<img src="img/tech-logos/14.html">
+<img src="img/tech-logos/13.jpg">
+<img src="img/tech-logos/14.jpg">
 <img src="img/tech-logos/15.jpg">
-<img src="img/tech-logos/16.html">
+<img src="img/tech-logos/16.jpg">
 <img src="img/tech-logos/17.jpg">
-<img src="img/tech-logos/19.html">
+<img src="img/tech-logos/19.jpg">
 <img src="img/tech-logos/20.jpg">
-<img src="img/tech-logos/21.html">
+<img src="img/tech-logos/21.jpg">
 <img src="img/tech-logos/12.jpg">
-<img src="img/tech-logos/13.html">
-<img src="img/tech-logos/14.html">
+<img src="img/tech-logos/13.jpg">
+<img src="img/tech-logos/14.jpg">
 <img src="img/tech-logos/15.jpg">
-<img src="img/tech-logos/16.html">
+<img src="img/tech-logos/16.jpg">
 <img src="img/tech-logos/17.jpg">
-<img src="img/tech-logos/19.html">
+<img src="img/tech-logos/19.jpg">
 <img src="img/tech-logos/20.jpg">
-<img src="img/tech-logos/21.html">
+<img src="img/tech-logos/21.jpg">
 </marquee>
 </div>
 </div>
@@ -867,11 +867,11 @@ We're experienced in various <span>technologies</span></h3>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/clothing.png">
-<a href="health-care-web-design-development.html"><h4>Health Care Web Design </h4></a>
+<a href="health-care-web-design-development.png"><h4>Health Care Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/construction.png">
-<a href="Construction-web-design-development.html"><h4>Construction Web Design </h4></a>
+<a href="Construction-web-design-development.png"><h4>Construction Web Design </h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4   col-xs-12 ">
@@ -881,25 +881,25 @@ We're experienced in various <span>technologies</span></h3>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/fashion.png">
-<a href="fashion-web-design-development.html"><h4>Fashion Web Design </h4></a>
+<a href="fashion-web-design-development.png"><h4>Fashion Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/sports.png">
-<a href="fitness-web-design-development.html"><h4>Fitness Web <br> Design </h4></a>
+<a href="fitness-web-design-development.png"><h4>Fitness Web <br> Design </h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/Legal.png">
-<a href="law-firm-web-design-development.html"><h4>Law Firm Web Design </h4></a>
+<a href="law-firm-web-design-development.png"><h4>Law Firm Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/Nonprofit.png">
-<a href="shopify-web-design-development.html"><h4>Shopify Website Design </h4></a>
+<a href="shopify-web-design-development.png"><h4>Shopify Website Design </h4></a>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/real-estate.png">
-<a href="real-estate-web-design-development.html"><h4>Real Estate Web Design </h4></a>
+<a href="real-estate-web-design-development.png"><h4>Real Estate Web Design </h4></a>
 </div>
 </div>
 </div>  
@@ -911,43 +911,43 @@ We're experienced in various <span>technologies</span></h3>
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/restaurant.png">
-<a href="restaurant-web-design-development.html"><h4>Restaurant Web Design </h4></a>
+<a href="restaurant-web-design-development.png"><h4>Restaurant Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/roof.png">
-<a href="Roofing-web-design-development.html"><h4>Roofing Web Design </h4></a>
+<a href="Roofing-web-design-development.png"><h4>Roofing Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/therapist.png">
-<a href="seo-web-design-development.html"><h4>SEO Web <br> Design </h4></a>
+<a href="seo-web-design-development.png"><h4>SEO Web <br> Design </h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/web-app.png">
-<a href="web-app-design-development.html"><h4>Web Application Design </h4></a>
+<a href="web-app-design-development.png"><h4>Web Application Design </h4></a>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/wordpress.png">
-<a href="Wordpress-web-design-development.html"><h4>Wordpress Web Design </h4></a>
+<a href="Wordpress-web-design-development.png"><h4>Wordpress Web Design </h4></a>
 </div>
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/clothes.svg" data-url="img/clothes.svg">
-<a href="clothing-web-design-development.html"><h4>Clothing Web Design</h4></a>
+<a href="clothing-web-design-development.png"><h4>Clothing Web Design</h4></a>
 </div>
 </div>
 <div class="col-md-4 col-sm-4 col-xs-12 ">
 <div class="ind-box text-center">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/b2b.svg" data-url="img/b2b.svg">
-<a href="b2b-web-design-development.html"><h4>B2B Web <br> Design</h4></a>
+<a href="b2b-web-design-development.png"><h4>B2B Web <br> Design</h4></a>
 </div>
 <div class="ind-box text-center therapist-box">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/therapist.svg" data-url="img/therapist.svg">
-<a href="therapist-web-design-development.html"><h4>Therapist Web Design</h4></a>
+<a href="therapist-web-design-development.png"><h4>Therapist Web Design</h4></a>
 </div>
 <div class="ind-box text-center nonprofit-box">
 <img loading="lazy" alt="Image" class="img-responsive" src="img/heart.svg" data-url="img/heart.svg">
-<a href="Nonprofit-web-design-development.html"><h4>NonProfit Web Design</h4></a>
+<a href="Nonprofit-web-design-development.png"><h4>NonProfit Web Design</h4></a>
 </div>
 </div>
 </div>
@@ -1036,19 +1036,19 @@ We're experienced in various <span>technologies</span></h3>
 </div>
 <div class="row">
 <div class="col-md-3 col-sm-6 col-xs-12 nopadding">
-<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw1.html"></div>
+<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw1.png"></div>
 <div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw5.png"></div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-12 nopadding">
 <div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw2.png"></div>
-<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw6.html"></div>
+<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw6.png"></div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-12 nopadding">
-<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw3.html"></div>
-<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw7.html"></div>
+<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw3.png"></div>
+<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw7.png"></div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-12 nopadding">
-<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw4.html"></div>
+<div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw4.png"></div>
 <div class="brand-box"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/aw8.png"></div>
 </div>
 </div>
@@ -1061,7 +1061,7 @@ We're experienced in various <span>technologies</span></h3>
 <div class="row text-center">
 <div class="col-md-8 col-sm-8 col-xs-12 center-col">
 <h3 class="section-head wow bounceIn" data-wow-delay="0.6s" data-wow-duration="2s">Let's discuss your next project
-<a href="contact.html">CONNECT NOW</a></h3>
+<a href="contact/">CONNECT NOW</a></h3>
 </div>
 </div>
 </div>

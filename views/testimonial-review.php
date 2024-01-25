@@ -200,7 +200,7 @@ margin-top: 10px;
 <div class="col-sm-6">
 <div class="video-testi-img-bx">
 <a href="img/testi-video.mp4" data-fancybox>
-<img loading="lazy" src="img/vid-test-1.jpg">
+<img loading="lazy" src="img/vid-test-1.png">
 <div class="video-hvr">
 <i class="fa fa-play-circle" aria-hidden="true"></i>
 </div>
@@ -628,7 +628,7 @@ margin-top: 10px;
 <div class="row text-center">
 <div class="col-md-8 col-sm-8 col-xs-12 center-col">
 <h3 class="section-head wow bounceIn" data-wow-delay="0.6s" data-wow-duration="2s">Let's discuss your next project
-<a href="contact.html">CONNECT NOW</a></h3>
+<a href="contact/">CONNECT NOW</a></h3>
 </div>
 </div>
 </div>

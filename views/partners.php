@@ -36,34 +36,34 @@
 <div class="row">
 <div class="col-md-3 col-sm-6 col-xs-12 nopadding">
 <div class="brand-box grey-box">
-<a href="javascript:;"></a><a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/client-logos/creative-logo2.html"></a>
+<a href="javascript:;"></a><a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/creative-logo2.png"></a>
 </div>
 <div class="brand-box grey-box">
-<a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/client-logos/creative-logo4.html"></a>
+<a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/creative-logo4.png"></a>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-12 nopadding">
 <div class="brand-box grey-box">
-<a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/client-logos/creative-logo6.html"></a>
+<a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/creative-logo6.png"></a>
 </div>
 <div class="brand-box grey-box">
-<a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/client-logos/creative-logo8.html"></a>
+<a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/creative-logo8.png"></a>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-12 nopadding">
 <div class="brand-box grey-box">
-<a href="javascript:;"></a><a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/client-logos/creative-logo9.html"></a>
+<a href="javascript:;"></a><a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/creative-logo9.png"></a>
 </div>
 <div class="brand-box grey-box">
-<a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/client-logos/creative-logo10.html"></a>
+<a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/creative-logo10.png"></a>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-12 nopadding">
 <div class="brand-box grey-box">
-<a href="javascript:;"></a><a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/client-logos/creative-logo11.html"></a>
+<a href="javascript:;"></a><a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/creative-logo11.png"></a>
 </div>
 <div class="brand-box grey-box">
-<a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/client-logos/creative-logo14.html"></a>
+<a href="javascript:;"><img alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/creative-logo14.png"></a>
 </div>
 </div>
 </div>
@@ -76,7 +76,7 @@
 <div class="row text-center">
 <div class="col-md-8 col-sm-8 col-xs-12 center-col">
 <h3 class="section-head wow bounceIn" data-wow-delay="0.6s" data-wow-duration="2s">Let's discuss your next project
-<a href="contact.html">CONNECT NOW</a></h3>
+<a href="contact/">CONNECT NOW</a></h3>
 </div>
 </div>
 </div>

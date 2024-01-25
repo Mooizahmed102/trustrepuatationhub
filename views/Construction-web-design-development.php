@@ -5,360 +5,9 @@
 
   <!DOCTYPE html>
 <html>
-<head>
-<meta name="ahrefs-site-verification" content="e304793dbe10772016cf383b33d1ff991660dfdaccac5f4c2da77c1a173c4af2">
-<link href="/css/all.css" rel="stylesheet">
-<link href="/css/style.min.min.css" rel="stylesheet">
-<title> Construction website design and development agency in USA </title>
-<meta name="description" content=" Are you a remodeling and building contractor? You need our best construction company web design to improve sales. Hire remodeling website design now.">
-<script src="https://www.TrustReputationHub.com/css/font.js" type="94ec6538ec290479d113b662-text/javascript"></script>
-<link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
-
-<link href="/css/fonts/slick.eot" rel="stylesheet">
-<link href="/css/fonts/slick.svg" rel="stylesheet">
-<link href="/css/fonts/slick.ttf" rel="stylesheet">
-<link href="/css/fonts/slick.woff" rel="stylesheet">
-<meta name="facebook-domain-verification" content="6ynx9wkbfydfnuqnk12nmtrxog7ael" />
-<link rel="alternate" href="https://www.TrustReputationHub.com/" hreflang="x-default" />
-<meta name="author" content="TrustReputationHub ">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="ROBOTS" content="INDEX, FOLLOW">
-<link rel="shortcut icon" href="img/favicon.png">
-<meta name="ip2loc" content>
-<meta name="ip2loc" content="111.88.55.39">
-<meta name="page_url" content="www.TrustReputationHub.com/Construction-web-design-development">
-<meta name="google-site-verification" content="jEhGaeNSj_2EY3_39WffHgE1Opf79zKaFCh6vw_1i-8" />
-<meta name="dmca-site-verification" content="MEk0WTBEajhHTXNKZkxlS3pkRitCQ0RuNHZYN2ViRElkMitLS2ZEOGJIQT01" />
-
-<base href="https://www.TrustReputationHub.com/">
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11168492733" type="94ec6538ec290479d113b662-text/javascript"></script>
-<script type="94ec6538ec290479d113b662-text/javascript">
-    window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-         gtag('config', 'AW-11168492733');
-</script>
-<script type="94ec6538ec290479d113b662-text/javascript">
-   gtag('config', 'AW-11168492733/trzyCJqTuakYEL3Zxs0p', {
-            'phone_conversion_number': '(866) 921-5690'
-          });
-</script>
-<script type="94ec6538ec290479d113b662-text/javascript">
-  gtag('config', 'AW-11168492733/aG4-CIKRzrYYEL3Zxs0p', {
-    'phone_conversion_number': '866-921-5690'
-  });
-</script>
-
-<script type="94ec6538ec290479d113b662-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TK45HSW');</script>
-
-
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TK45HSW"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-<script type="94ec6538ec290479d113b662-text/javascript">(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"283013469", enableAutoSpaTracking: true};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
- 
-<link rel="canonical" href="https://www.TrustReputationHub.com/Construction-web-design-development">
-
-<script type="94ec6538ec290479d113b662-text/javascript">
-window.onload = setTimeout(function() {
-$('<script async src="https://www.googletagmanager.com/gtag/js?id=UA-195000985-6"></' + 'script>').appendTo(document.body);
-
-},15000)</script>
-<script type="94ec6538ec290479d113b662-text/javascript">
-  window.onload = setTimeout(function() {
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-195000985-6');
-  },15000)
-</script>
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9TBHNK6ZDT" type="94ec6538ec290479d113b662-text/javascript"></script>
-<script type="94ec6538ec290479d113b662-text/javascript">
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9TBHNK6ZDT');
-</script>
-<script type="94ec6538ec290479d113b662-text/javascript">var pm_tag = 'AdFR2';var pm_pid = "15317-24c907ea";</script><script src="//free.rnv.life/js/pub.min.js" async type="94ec6538ec290479d113b662-text/javascript"></script>
-<script src="https://cdn.projectcamp.io/cookies.js" type="94ec6538ec290479d113b662-text/javascript"></script>
-</head>
+<?php include_once("includes/head.php") ?>
 <body>
-<header class="fixed-header">
-<div class="top-bar">
-<div class="container bd-btm wow fadeInDown" data-wow-delay="0.2s" data-wow-duration="2s">
-<div class="row">
-<div class="col-sm-6">
-<a href="/cdn-cgi/l/email-protection#7811161e173819151d0a111b19160f1d1a1b171c1d0a0b561b1715"><i class="fa fa-envelope" aria-hidden="true"></i><span class="__cf_email__" data-cfemail="0c65626a634c6d61697e656f6d627b696e6f6368697e7f226f6361">[email&#160;protected]</span> </a>
-</div>
-<div class="col-sm-6">
-<a class="pull-right red-phone" href="tel:866-468-6629" onclick="if (!window.__cfRLUnblockHandlers) return false; gtag('config', 'AW-448286750/utYzCPe97YsCEJ6g4dUB', {'phone_conversion_number': '866-468-6629' });" data-cf-modified-94ec6538ec290479d113b662-><i class="fa fa-calendar" aria-hidden="true"></i>For Support: 866-468-6629</a>
-<a class="pull-right red-phone" href="tel:866-921-5690" onclick="if (!window.__cfRLUnblockHandlers) return false; gtag('config', 'AW-448286750/utYzCPe97YsCEJ6g4dUB', {'phone_conversion_number': '866-935-5414' });" data-cf-modified-94ec6538ec290479d113b662-><i aria-hidden="true" class="fa fa-phone"></i>For Sales: 866-921-5690</a>
-</div>
-</div>
-</div>
-</div>
-
-<div class="main-navigate header-fixed">
-<div class="container">
-<div class="row flexRow">
-<div class="col-xs-12 hidden-lg hidden-md hidden-sm">
-<div class="mobile-nav">
-<div class="navbar-header">
-<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-<span class="sr-only">Toggle navigation</span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-</div>
-<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-<ul class="nav navbar-nav">
-<li><a href="/">Home</a></li>
-<li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="caret"></span></a>
-<ul class="dropdown-menu">
-<li><a href="branding-strategy">Branding</a></li>
-<li><a href="web-design">Website Design</a></li>
-<li><a href="ecommerce">Ecommerce Website</a></li>
-<li><a href="hosting-domain">Hosting and Domain</a></li>
-<li><a href="website-maintainance">Website Maintenance</a></li>
-<li><a href="digital-marketing">Digital Marketing</a></li>
-</ul>
-</li>
-<li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
-<ul class="dropdown-menu">
-<li><a href="about">Company</a></li>
-<li><a href="career">Careers</a></li>
-<li><a href="process">Our Process</a></li>
-<li><a href="partners">Partners</a></li>
-
-<li><a href="awards">Awards</a></li>
-<li><a href="/case-studies">case studies</a></li>
-</ul>
-</li>
-<li><a href="portfolio">Work</a></li>
-<li><a href="plans">Plans</a></li>
-<li><a href="testimonial-review.php">Testimonials</a></li>
-<li><a href="contact">Contact</a></li>
-</ul>
-</div>
-</div>
-</div>
-
-<div class="col-md-2 col-sm-2 col-xs-12 nopadding">
-<div class="logo wow zoomIn" data-wow-delay="0.2s" data-wow-duration="2s">
-<a class="hvr-wobble-vertical" href="/"><img loading="lazy" alt class="img-responsive" src="img/logo-png.png"></a>
-</div>
-</div>
-<div class="col-md-8 col-sm-8 col-xs-12 hidden-xs">
-<div class="navigation wow fadeInDown" data-wow-delay="0.4s" data-wow-duration="2s">
-<ul class="navbar-set hidden-xs list-inline">
-<li class="active">
-<a href="/">Home</a>
-</li>
-<li class="megamenu">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Services</a>
-<div class="megamenu-dropdown">
-<div class="menu-section">
-<div class="container">
-<div class="row flexRow">
-<div class="col-md-3 col-sm-3 col-xs-12 hidden-sm">
-<figure>
-<img loading="lazy" alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/menu-img-21.png">
-</figure>
-</div>
-<div class="col-md-6 col-sm-8 col-xs-12">
-<div class="menu-content">
-<h3 class="menu-head">SERVICES</h3>
-<div class="row">
-<div class="col-md-6 col-sm-6 col-xs-12">
-<a class="menu-box flexRow" href="branding-strategy">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m1.png">
-<article>
-<h3>Branding & Strategy</h3>
-<p>Offering brand strategy and rebranding to improve brand wellness</p>
-</article>
-</a>
-<a class="menu-box flexRow" href="web-design">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m2.png">
-<article>
-<h3>Website Design</h3>
-<p>Helping businesses build websites that communicate clearly</p>
-</article>
-</a>
-<a class="menu-box flexRow" href="ecommerce">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m3.png">
-<article>
-<h3>eCommerce Website</h3>
-<p>Strategically designing your website to drive your brand</p>
-</article>
-</a>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-12">
-<a class="menu-box flexRow" href="hosting-domain">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m4.png">
-<article>
-<h3>Hosting & Domain</h3>
-<p>Managing your website empire and growing your clientele</p>
-</article>
-</a>
-<a class="menu-box flexRow" href="website-maintainance">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m5.png">
-<article>
-<h3>Website Maintenance</h3>
-<p>Regular maintenance and support for better SEO results</p>
-</article>
-</a>
-<a class="menu-box flexRow" href="digital-marketing">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m5.png">
-<article>
-<h3>Digital Marketing</h3>
-<p>Helping brands achieve clear, concise, and transparent results</p>
-</article>
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3 col-sm-3 col-xs-12">
-<div class="social-content">
-<div class="social-after">
-<h3 class="menu-head">Social Community</h3>
-<ul class="social">
-<li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-<li><a href="https://www.linkedin.com/company/american-web-coders/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-<li><a href="https://www.youtube.com/channel/UCNjaos6I-2uPC5uTwG9OtGw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-</ul>
-<h3 class="menu-head">CONNECT TODAY</h3>
-<p>Find out more about our work. Feel free to get in touch with us!</p>
-<div class="btns flexRow">
-<a class="lgt-btn white-btn hvr-bounce-to-right text-center" href="portfolio">Work</a>
-<a class="lgt-btn hvr-bounce-to-right text-center" href="contact">Contact</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</li>
-<li class="megamenu">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">About</a>
-<div class="megamenu-dropdown">
-<div class="menu-section">
-<div class="container">
-<div class="row flexRow">
-<div class="col-md-3 col-sm-3 col-xs-12 hidden-sm">
-<figure>
-<img loading="lazy" alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" src="img/menu-image-new1.png">
-</figure>
-</div>
-<div class="col-md-6 col-sm-8 col-xs-12">
-<div class="menu-content">
-<h3 class="menu-head">ABOUT</h3>
-<div class="row">
-<div class="col-md-6 col-sm-6 col-xs-12">
-<a class="menu-box flexRow" href="about">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m1.png">
-<article>
-<h3>Company</h3>
-<p>Get to know more about us, who we are, and what we do</p>
-</article>
-</a>
-<a class="menu-box flexRow" href="process">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m2.png">
-<article>
-<h3>Our Process</h3>
-<p>We learn about the unique customer value your business creates</p>
-</article>
-</a>
-
-<a class="menu-box flexRow" href="career">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m4.png">
-<article>
-<h3>Careers</h3>
-<p>We're looking to hire full-time, experienced resources </p>
-</article>
-</a>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-12">
-<a class="menu-box flexRow" href="partners">
-<img loading="lazy" alt="Image" class="img-responsive " src="img/m5.png">
-<article>
-<h3>Clients</h3>
-<p>We have a diverse and satisfied clientele and business partners</p>
-</article>
-</a>
-<a class="menu-box flexRow" href="/case-studies">
-<img loading="lazy" alt="Image" class="img-responsive testi-img" src="img/case-study-ico.png">
-<article>
-<h3>Case Studies</h3>
-<p>Take a sneak peek at our successful projects</p>
-</article>
-</a>
-<a class="menu-box flexRow" href="awards">
-<img loading="lazy" alt="Image" class="img-responsive testi-img" src="img/m000.png">
-<article>
-<h3>Awards</h3>
-<p>We've been recognized as a leading digital marketing agency from some of the top industry review sites</p>
-</article>
-</a>
-</div>
-</div>
-</div>
-</div>
-<div class="col-md-3 col-sm-3 col-xs-12">
-<div class="social-content">
-<h3 class="menu-head">Social Community</h3>
-<ul class="social">
-<li><a href="https://www.facebook.com/TrustReputationHub/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-<li><a href="https://www.linkedin.com/company/american-web-coders/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-<li><a href="https://www.youtube.com/channel/UCNjaos6I-2uPC5uTwG9OtGw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
-</ul>
-<h3 class="menu-head">Connect With Us</h3>
-<p>Find more about our work or feel free to get in touch with us.</p>
-<div class="btns flexRow">
-<a class="lgt-btn white-btn hvr-bounce-to-right text-center" href="portfolio">Work</a>
-<a class="lgt-btn hvr-bounce-to-right text-center" href="contact">Contact</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</li>
-<li><a href="portfolio">Work</a></li>
-<li><a href="plans">Plans</a></li>
-<li>
-<a href="testimonial-review.php">Testimonials</a>
-</li>
-<li>
-<a href="contact">Contact</a>
-</li>
-</ul>
-</div>
-</div>
-<div class="col-md-2 col-sm-2 col-xs-12">
-<div class="quote-btn wow fadeInRight" data-wow-delay="0.4s" data-wow-duration="2s">
-<a class="blue-btn hvr-bounce-to-right" href="quote">Get a Quote <i aria-hidden="true" class=" fa fa-angle-right"></i></a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</header>
+<?php include_once("includes/header.php") ?>
 
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="94ec6538ec290479d113b662-|49" defer></script></body>
 </html>
@@ -6222,7 +5871,7 @@ Month
 </div>
 </div>
 <div class="view-btn wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s">
-<a class="lgt-btn1 hvr-bounce-to-right" href="#">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<a class="lgt-btn1 hvr-bounce-to-right" href="javascript:;">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 <a class="lgt-btn2 hvr-bounce-to-right" href="/quote.php">Order Now<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 </div>
 </section>  
@@ -6359,7 +6008,7 @@ We’re Experienced With Your <span>Technology</span></h3>
 </div>
 <div class="test-box">
 <img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
-<p>I feel obliged to write a review for Emmanuelle American Web Coders since they have provided me services above my expectations and on time. I was previously scammed by other service providers. I would highly recommend American Web Coders for all the people looking for setting up their ecommerce businesses. Thanks again.</p>
+<p>I feel obliged to write a review for Emmanuelle Trust Reputation Hub since they have provided me services above my expectations and on time. I was previously scammed by other service providers. I would highly recommend Trust Reputation Hub for all the people looking for setting up their ecommerce businesses. Thanks again.</p>
 <div class="flexRow">
 <h3>Enjoli Collins <br> </h3>
 
@@ -6370,7 +6019,7 @@ We’re Experienced With Your <span>Technology</span></h3>
 </div>
 <div class="test-box">
 <img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
-<p>I had an issue with my business email. I contacted Emma she was so disposed to assist me to resolve this issue. American Web Coders has some great staff. Emma is very professional and confident. I will recommend anyone who has a project to trust American Web Coders with it. Thanks! Joe</p>
+<p>I had an issue with my business email. I contacted Emma she was so disposed to assist me to resolve this issue. Trust Reputation Hub has some great staff. Emma is very professional and confident. I will recommend anyone who has a project to trust Trust Reputation Hub with it. Thanks! Joe</p>
 <div class="flexRow">
 <h3>Joe <br> </h3>
 
@@ -6392,23 +6041,23 @@ We’re Experienced With Your <span>Technology</span></h3>
 </div>
 <div class="test-box">
 <img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
-<p>American Web Coders is one of the best agencies for website development and designing. I am very much grateful to the professionals of AWC for directing me through the best web service. Every staff member is well qualified, trained, and supportive throughout the procedure. </p>
+<p>Trust Reputation Hub is one of the best agencies for website development and designing. I am very much grateful to the professionals of AWC for directing me through the best web service. Every staff member is well qualified, trained, and supportive throughout the procedure. </p>
 <div class="flexRow">
 <h3>Neha Mishra<br> </h3>
 
 <div class="testimonial-trust">
-<a href="https://www.bark.com/en/us/company/american-web-coders/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
+<a href="https://www.bark.com/en/us/company/trust-reputation-hub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
 </div>
 </div>
 </div>
 <div class="test-box">
 <img loading="lazy" alt="Image" class="comma img-responsive" data-url="img/comma.png">
-<p>As our original site demanded a lot of manual effort, we asked American Web Coders to make a more user-friendly website. AWC understood and implemented everything I requested. They never pushed back on any of my requirements – instead, they managed to accomplish all of them. We're very satisfied.</p>
+<p>As our original site demanded a lot of manual effort, we asked Trust Reputation Hub to make a more user-friendly website. AWC understood and implemented everything I requested. They never pushed back on any of my requirements – instead, they managed to accomplish all of them. We're very satisfied.</p>
 <div class="flexRow">
 <h3>Abhi Rwt<br> </h3>
 
 <div class="testimonial-trust">
-<a href="https://www.bark.com/en/us/company/american-web-coders/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
+<a href="https://www.bark.com/en/us/company/trust-reputation-hub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a>
 </div>
 </div>
 </div>
@@ -6568,7 +6217,7 @@ We’re Experienced With Your <span>Technology</span></h3>
 
 <li><a href="https://www.youtube.com/channel/UCyCKKAHOzVyrG4dYtEFJJqw" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 
-<li><a href="https://www.bark.com/en/us/company/american-web-coders/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
+<li><a href="https://www.bark.com/en/us/company/trust-reputation-hub/n1RO3/" target="_blank"><img src="img/bark-icon.png"></a> </li>
 
 <li><a href="https://www.sitejabber.com/reviews/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/sitejabber-icon.png"></a> </li>
 </ul>
@@ -6577,158 +6226,9 @@ We’re Experienced With Your <span>Technology</span></h3>
 </div>
 </div>
 </section> 
-<footer id="footer" class="purple-bg">
-<div class="container">
-<div class="footer-bottom wow fadeInDown" data-wow-delay="0.6s" data-wow-duration="2s">
-<div class="row">
-<div class="col-md-4 col-sm-6 col-xs-12">
-<div class="footer-1">
-<img loading="lazy" src="img/logo-png.png" class="img-responsive" alt="img">
+<?php include_once("includes/footer.php") ?>
 
-<p>A full-service digital marketing agency helping you achieve high-impact outcomes.</p>
-</div>
-<div class="ftr-logos">
-<img loading="lazy" alt="Image" class="img-responsive wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s" data-url="img/ftr1.png">
-<a href="https://www.dmca.com/Protection/Status.aspx?ID=0c0535f8-aa02-4aa8-b3ef-c5b6ad472757&refurl=https://www.TrustReputationHub.com/" target="_blank" title="DMCA.com Protection Status" class="dmca-badge"> <img src="https://images.dmca.com/Badges/dmca_protected_sml_120l.png" alt="DMCA.com Protection Status"></a>
-<a href="https://www.dmca.com/compliance/TrustReputationHub.com" target="_blank" class="dmca-badge"> <img src="img/dmca-compliant-white-bg.png"></a>
-<div class="payment-method-img webdesign-2022">
-<a href="https://techreviewer.co/companies/american-web-coders" target="_blank"><img loading="lazy" data-url="img/tr-1.png" alt="img" class="img-responsive"></a>
-</div>
-</div>
-</div>
-<div class="col-md-3 col-sm-6 col-xs-12">
-<div class="footer-head">
-<h3>Services</h3>
-</div>
-<ul class="ftr-list">
-<li>
-<a href="branding-strategy">Branding & Strategy</a>
-</li>
-<li>
-<a href="web-design">Website Design</a>
-</li>
-<li>
-<a href="ecommerce">eCommerce Website</a>
-</li>
-<li>
-<a href="custom-web-design">Custom Website Solution</a>
-</li>
-<li>
-<a href="hosting-domain">Hosting & Domain</a>
-</li>
-<li>
-<a href="website-maintainance">Website Maintenance</a>
-</li>
-<li>
-<a href="digital-marketing">Digital Marketing</a>
-</li>
-</ul>
-</div>
-<div class="col-md-2
 
-            col-sm-6 col-xs-12">
-<div class="footer-head">
-<h3>Resources</h3>
-</div>
-<ul class="ftr-list">
-<li>
-<a href="awards">Awards</a>
-</li>
-<li>
-<a href="portfolio">Portfolio</a>
-</li>
-</li>
-<li>
-<a href="faq">FAQs</a>
-</li>
-<li>
-<a href="contact">Contact</a>
-</li>
-<li>
-<a href="news.php">Newsroom</a>
-</li>
-<li>
-<a href="podcast.php">Podcast</a>
-</li>
-<li>
-<a href="/blog">Blog</a>
-</li>
-<li>
-<a href="/case-studies">Case studies</a>
-</li>
-</ul>
-</div>
-<div class="col-md-3 col-sm-6 col-xs-12">
-<ul class="ftr-list contact-det">
-<li>
-<i aria-hidden="true" class="fa fa-mobile"></i><a href="tel:866-921-5690">For Sales: 866-921-5690</a>
-</li>
-<li>
-<i aria-hidden="true" class="fa fa-mobile"></i><a href="tel:866-468-6629">For Support: 866-468-6629</a>
-</li>
-<li>
-<i aria-hidden="true" class="fa fa-envelope"></i><a href="/cdn-cgi/l/email-protection#88e0ede4e4f8c8e9e5edfae1ebe9e6ffedeaebe7ecedfafba6ebe7e5"><span class="__cf_email__" data-cfemail="ec85828a83ac8d81899e858f8d829b898e8f8388899e9fc28f8381">[email&#160;protected]</span></a>
-</li>
-<li>
-<i aria-hidden="true" class="fa fa-map-marker"></i><a href="#."> 2142 W Washington Blvd, Los Angeles, CA 90018, United States</a>
-</li>
-</ul>
-<div class="footer-head payment-margin">
-<h3>Payment Methods:</h3>
-</div>
-<div class="payment-method-img">
-<img loading="lazy" data-url="img/payment-method.png" alt="img" class="img-responsive">
-</div>
-</div>
-</div>
-</div>
-<div class="copy-right wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="2s">
-<div class="row flexRow">
-<div class="col-md-6 col-sm-6 col-xs-12">
-<p>All Rights Reserved 2012-25 - American Web Coders</p>
-</div>
-<div class="col-md-6 col-sm-6 col-xs-12">
-<ul class="pull-right list-inline">
-<li>
-<a href="privacy.php">Privacy Policy </a> |
-</li>
-<li>
-<a href="terms.php">Terms and Conditions</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</footer>
-
-<a href="https://wa.me/+16502760787" target="_blank" class="whatsapp"><i class="fa fa-whatsapp"></i></a>
-</div>
-<style>
-
-.whatsapp{width:50px;height:51px;color:#fff;display:block;text-align:center;border-radius:100%;font-size:34px;position:fixed;bottom:100px;right:20px;z-index:9999;box-shadow:6px 9px 30px 1px rgba(37,0,22,0.71);padding:1px 0;animation:scrollDownAnimation .5s ease infinite alternate;-webkit-animation:scrollDownAnimation .5s ease infinite alternate;background:#00a155;background:-moz-linear-gradient(left,#ea018e 0%,#9b2c92 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ea018e',endColorstr='#9b2c92',GradientType=1)}
-
-.whatsapp:hover{color:#fff}
-
-.whatsapp .fa-whatsapp{position:absolute;left:10px;top:8px}
-
-@keyframes scrollDownAnimation {
-
-from{transform:translateY(0)}
-
-to{transform:translateY(-10px)}
-
-}
-
-@-webkit-keyframes scrollDownAnimation {
-
-from{transform:translateY(0)}
-
-to{transform:translateY(-10px)}
-
-}
-
-</style>
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery.min.js" type="94ec6538ec290479d113b662-text/javascript"></script>
 <script src="js/slick.js" type="94ec6538ec290479d113b662-text/javascript"></script>
 <script src="js/bootstrap.min.js" type="94ec6538ec290479d113b662-text/javascript"></script>
