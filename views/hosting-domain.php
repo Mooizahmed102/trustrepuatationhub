@@ -427,7 +427,7 @@ Industry
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/hosting-corporate.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Hosting Packages">
 <input type="hidden" name="starter" value="Corporate Domain Plan">
@@ -481,7 +481,7 @@ Industry
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/hosting-complete.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Hosting Packages">
 <input type="hidden" name="starter" value="Complete Domain Plan">
@@ -498,7 +498,7 @@ Industry
 </div>
 </div>
 <div class="view-btn wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s">
-<a class="lgt-btn1 hvr-bounce-to-right" href="javascript:;">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<a class="lgt-btn1 hvr-bounce-to-right" href="javascript:void(Tawk_API.toggle())">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 <a class="lgt-btn2 hvr-bounce-to-right" href="quote/">Order Now<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 </div>
 </section>

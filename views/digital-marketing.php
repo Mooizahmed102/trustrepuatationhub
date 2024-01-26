@@ -266,7 +266,7 @@ Pay for Performance SEO </h3>
 </div>
 <div class="logo-thumbnail m-2">
 <a href="javascript:;">
-<img src="img/logo-6.html" class="img-responsive" alt="logo-6">
+<img src="img/logo-6.png" class="img-responsive" alt="logo-6">
 </a>
 </div>
 <div class="logo-thumbnail m-2">
@@ -337,56 +337,56 @@ Industry</h4>
 <div class="tab-content">
 <div id="webdesign" class="tab-pane fade in active">
 <div class="port-slider portfolio-ss">
-<a href="img/digital-folio/1.png" data-fancybox>
+<a href="img/1.png" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/digital-folio/1.png">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/1.png">
 </figure>
 </a>
-<a href="img/digital-folio/2.png" data-fancybox>
+<a href="img/2.png" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/digital-folio/2.png">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/2.png">
 </figure>
 </a>
-<a href="img/digital-folio/3.html" data-fancybox>
+<a href="img/3.png" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/digital-folio/3.html">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/3.png">
 </figure>
 </a>
-<a href="img/digital-folio/4.png" data-fancybox>
+<a href="img/4.png" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/digital-folio/4.png">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/4.png">
 </figure>
 </a>
-<a href="img/digital-folio/5.png" data-fancybox>
+<a href="img/5.png" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/digital-folio/5.png">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/5.png">
 </figure>
 </a>
-<a href="img/digital-folio/6.html" data-fancybox>
+<a href="img/6.png" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/digital-folio/6.html">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/6.png">
 </figure>
 </a>
-<a href="img/digital-folio/7.png" data-fancybox>
+<a href="img/7/" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/digital-folio/7.png">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/7.png">
 </figure>
 </a>
-<a href="img/digital-folio/8.png" data-fancybox>
+<a href="img/8/" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/digital-folio/8.png">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/8.png">
 </figure>
 </a>
-<a href="img/digital-folio/9.html" data-fancybox>
+<a href="img/9.png" data-fancybox>
 <figure>
-<img alt="Image" class="img-responsive" src="img/watermark-logo.html" data-url="img/digital-folio/9.html">
+<img alt="Image" class="img-responsive" src="img/watermark-logo.png" data-url="img/9.png">
 </figure>
 </a>
 </div>
 </div>
 </div>
 <div class="view-btn wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s">
-<a class="lgt-btn hvr-bounce-to-right" href="portfolio.html">Full Portfolio<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<a class="lgt-btn hvr-bounce-to-right" href="portfolio/">Full Portfolio<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 </div>
 </div>
 </div>
@@ -497,7 +497,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a class=" " href="view-detail/website-design-starter.html">View Details</a>
+<a class=" " href="view-detail/website-design-starter/">View Details</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -563,7 +563,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-professional.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Recommended Professional">
@@ -639,7 +639,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-business.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Business">
@@ -722,7 +722,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-corporate.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Business Plus">
@@ -816,7 +816,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-enterprise.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Enterprise Website plan">
@@ -916,7 +916,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-enterprise-plus.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Enterprise Plus plan">
@@ -990,7 +990,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-starter.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="E-Commerce - Starter Package">
@@ -1081,7 +1081,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-professional.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="E-Commerce - Professional Package ">
@@ -1181,7 +1181,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-business.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="E-Commerce - Business Package ">
@@ -1303,7 +1303,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-enterprise.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="Ecommerce Enterprise Plan">
@@ -4177,7 +4177,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/hosting-starter.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Hosting Packages">
 <input type="hidden" name="starter" value="Starter Domain Plan">
@@ -4231,7 +4231,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/hosting-corporate.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Hosting Packages">
 <input type="hidden" name="starter" value="Corporate Domain Plan">
@@ -4285,7 +4285,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/hosting-complete.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Hosting Packages">
 <input type="hidden" name="starter" value="Complete Domain Plan">
@@ -4330,7 +4330,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/maintenance-starter.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Maintenance">
 <input type="hidden" name="starter" value="Starter Website Maintenance">
@@ -4378,7 +4378,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/maintenance-advance.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Maintenance">
 <input type="hidden" name="starter" value="Website Maintenance Advanced ">
@@ -4432,7 +4432,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/maintenance-premium.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Maintenance">
 <input type="hidden" name="starter" value="Website Maintenance Premium ">
@@ -4695,7 +4695,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/starter-logo.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 <input type="hidden" name="logo_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $99">
@@ -4737,7 +4737,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/professional-logo.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div> <input type="hidden" name="website_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Professional Logo">
 <input type="hidden" name="price" value="for $199">
@@ -4786,7 +4786,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/business-logo.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
@@ -4858,7 +4858,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/seo-startup-plan.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 <input type="hidden" name="logo_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $350.00">
@@ -4921,7 +4921,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/seo-scaling-plan.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Scaling Plan">
 <input type="hidden" name="starter" value="Scaling Plan">
@@ -4987,7 +4987,7 @@ Industry</h4>
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/seo-venture-plan.html">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Venture Plan">
 <input type="hidden" name="starter" value="Business Logo">
@@ -5698,7 +5698,7 @@ Month
 </div>
 </div>
 <div class="view-btn wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s">
-<a class="lgt-btn1 hvr-bounce-to-right" href="javascript:;">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<a class="lgt-btn1 hvr-bounce-to-right" href="javascript:void(Tawk_API.toggle())">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 <a class="lgt-btn2 hvr-bounce-to-right" href="quote/">Order Now<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 </div>
 </section>  

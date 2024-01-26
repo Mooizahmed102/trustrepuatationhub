@@ -303,7 +303,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit" >Select Plan</button>
-<a class=" " href="view-detail/website-design-starter/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Starter">
@@ -369,7 +369,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-professional/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Recommended Professional">
@@ -445,7 +445,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-business/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Business">
@@ -528,7 +528,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-corporate/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Business Plus">
@@ -622,7 +622,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-enterprise/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Enterprise Website plan">
@@ -722,7 +722,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/website-design-enterprise-plus/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Design">
 <input type="hidden" name="starter" value="Enterprise Plus plan">
@@ -796,7 +796,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-starter/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="E-Commerce - Starter Package">
@@ -887,7 +887,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-professional/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="E-Commerce - Professional Package ">
@@ -987,7 +987,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-business/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="E-Commerce - Business Package ">
@@ -1109,7 +1109,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/ecommerce-enterprise/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Custom Website">
 <input type="hidden" name="starter" value="Ecommerce Enterprise Plan">
@@ -3983,7 +3983,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/hosting-starter/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Hosting Packages">
 <input type="hidden" name="starter" value="Starter Domain Plan">
@@ -4037,7 +4037,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/hosting-corporate/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Hosting Packages">
 <input type="hidden" name="starter" value="Corporate Domain Plan">
@@ -4091,7 +4091,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/hosting-complete/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Hosting Packages">
 <input type="hidden" name="starter" value="Complete Domain Plan">
@@ -4136,7 +4136,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/maintenance-starter/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Maintenance">
 <input type="hidden" name="starter" value="Starter Website Maintenance">
@@ -4184,7 +4184,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/maintenance-advance/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Maintenance">
 <input type="hidden" name="starter" value="Website Maintenance Advanced ">
@@ -4238,7 +4238,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/maintenance-premium/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Website Maintenance">
 <input type="hidden" name="starter" value="Website Maintenance Premium ">
@@ -4501,7 +4501,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/starter-logo/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 <input type="hidden" name="logo_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $99">
@@ -4543,7 +4543,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/professional-logo/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div> <input type="hidden" name="website_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Professional Logo">
 <input type="hidden" name="price" value="for $199">
@@ -4592,7 +4592,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/business-logo/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
@@ -4664,7 +4664,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit" >Select Plan</button>
-<a href="view-detail/seo-startup-plan/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 <input type="hidden" name="logo_design" value="Logo Packages">
 <input type="hidden" name="starter" value="Business Logo">
 <input type="hidden" name="price" value="for $350.00">
@@ -4727,7 +4727,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/seo-scaling-plan/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Scaling Plan">
 <input type="hidden" name="starter" value="Scaling Plan">
@@ -4793,7 +4793,7 @@
 <form method="POST" action="/leads/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
-<a href="view-detail/seo-venture-plan/">View Details</a>
+<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
 </div>
 <input type="hidden" name="website_design" value="Venture Plan">
 <input type="hidden" name="starter" value="Business Logo">
@@ -5504,7 +5504,7 @@ Month
 </div>
 </div>
 <div class="view-btn wow zoomIn" data-wow-delay="0.6s" data-wow-duration="2s">
-<a class="lgt-btn1 hvr-bounce-to-right" href="javascript:;">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
+<a class="lgt-btn1 hvr-bounce-to-right" href="javascript:void(Tawk_API.toggle())">Live Chat<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 <a class="lgt-btn2 hvr-bounce-to-right" href="quote/">Order Now<i aria-hidden="true" class="pull-right fa fa-angle-right"></i></a>
 </div>
 </section>

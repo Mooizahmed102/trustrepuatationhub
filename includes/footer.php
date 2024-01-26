@@ -88,7 +88,7 @@
 <i aria-hidden="true" class="fa fa-mobile"></i><a href="tel:(855) 364-3354">For Support: (855) 364-3354</a>
 </li>
 <li>
-<i aria-hidden="true" class="fa fa-envelope"></i><a href="mailto:info@Trustreputationhub.com"><span class="__cf_email__" data-cfemail="82ebece4edc2e3efe7f0ebe1e3ecf5e7e0e1ede6e7f0f1ace1edef">info@Trustreputationhub.com</span></a>
+<i aria-hidden="true" class="fa fa-envelope"></i><a href="mailto:info@Trustreputationhub.com"><span class="__cf_email__" >info@Trustreputationhub.com</span></a>
 </li>
 <li>
 <i aria-hidden="true" class="fa fa-map-marker"></i><a href="#."> 211 E 7th St STE 500, Austin, TX 78701, United States</a>
