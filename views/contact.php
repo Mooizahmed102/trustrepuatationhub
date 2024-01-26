@@ -56,30 +56,30 @@
 <div class="col-md-6 col-sm-6 col-xs-12">
 <div class="contact-left">
 <h3 class="section-head">Leave Message</h3>
-<form method="POST" class="contact-form" action="https://www.TrustReputationHub.com/mail">
+<form method="POST" class="contact-form" action="/leads/">
 <input type="hidden" value="2" name="contactform">
 <div class="col-md-12 nopadding">
 <div class="form-group">
 <i class="fa fa-user" aria-hidden="true"></i>
-<input class="form-control" placeholder="Full Name" name="cn" required type="text">
+<input class="form-control" placeholder="Full Name" name="name" required type="text">
 </div>
 </div>
 <div class="col-md-12 nopadding">
 <div class="form-group">
 <i class="fa fa-envelope" aria-hidden="true"></i>
-<input class="form-control" name="em" placeholder="Email" required type="email">
+<input class="form-control" name="email" placeholder="Email" required type="email">
 </div>
 </div>
 <div class="col-md-12 nopadding">
 <div class="form-group">
 <i class="fa fa-phone" aria-hidden="true"></i>
-<input class="form-control" name="pn" placeholder="Phone Number" onkeypress="if (!window.__cfRLUnblockHandlers) return false; return event.charCode >= 48 && event.charCode <= 57" required type="phone" data-cf-modified-e92913b86c099b3eaedf0d66->
+<input class="form-control" name="phone" placeholder="Phone Number" onkeypress="if (!window.__cfRLUnblockHandlers) return false; return event.charCode >= 48 && event.charCode <= 57" required type="phone" data-cf-modified-e92913b86c099b3eaedf0d66->
 </div>
 </div>
 <div class="col-md-12 nopadding">
 <div class="form-group">
 <i class="fa fa-comment" aria-hidden="true"></i>
-<textarea class="form-control" name="msg" placeholder="Your project details here" rows="8"></textarea>
+<textarea class="form-control" name="brief" placeholder="Your project details here" rows="8"></textarea>
 </div>
 </div>
 <div class="row">
@@ -135,11 +135,11 @@
 <div class="col-md-6 col-sm-6 col-xs-12 nopadding blue-bg">
 <div class="expert-part wow fadeInLeft" data-wow-delay="0.6s" data-wow-duration="2s">
 <h4>We’ve driven over 6,271,747 leads for our clients. Discover how we can help your business grow.</h4>
-<form method="POST" data-noinfo="true" class=" exp-form" action="https://www.TrustReputationHub.com/mail">
+<form method="POST" data-noinfo="true" class=" exp-form" action="/leads/">
 <input type="hidden" value="1" name="contactform">
 <div class="col-md-6 ">
 <div class="form-group">
-<input class="form-control" name="cn" placeholder="Full Name" required type="text">
+<input class="form-control" name="name" placeholder="Full Name" required type="text">
 </div>
 </div>
 <div class="col-md-6 ">
@@ -149,12 +149,12 @@
 </div>
 <div class="col-md-6 ">
 <div class="form-group">
-<input class="form-control" name="em" placeholder="Email Address" required type="email">
+<input class="form-control" name="email" placeholder="Email Address" required type="email">
 </div>
 </div>
 <div class="col-md-6 ">
 <div class="form-group">
-<input class="form-control" name="pn" placeholder="Phone Number" required type="phone">
+<input class="form-control" name="phone" placeholder="Phone Number" required type="phone">
 </div>
 </div>
 <div class="col-md-12 ">
@@ -179,7 +179,7 @@
 </div>
 <div class="col-md-12 ">
 <div class="form-group">
-<textarea class="form-control" name="msg" placeholder="Your Idea" rows="8" required></textarea>
+<textarea class="form-control" name="brief" placeholder="Your Idea" rows="8" required></textarea>
 </div>
 </div>
 <div class="row">

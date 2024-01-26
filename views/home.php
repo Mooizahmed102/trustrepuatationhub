@@ -300,7 +300,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit" >Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -366,7 +366,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong> </li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -442,7 +442,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Online Payment Integration <strong>($149)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -525,7 +525,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Live Chat/Bot Chat Integration <strong>($249)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -619,7 +619,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>30 Seconds Explainer Video &nbsp; <strong>($349)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -719,7 +719,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Complete Brand Identity &nbsp;<strong>($199)</strong></li>
 <li> <i class="fa fa-check" aria-hidden="true"></i>Professional Content/Copywriting – $1000 (Up to 20 Pages) – (Per Page $50)</li>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -793,7 +793,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Live Chat/Bot Chat Integration&nbsp; <strong>($249)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -884,7 +884,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Multi-Currency Support - <strong>($249)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -984,7 +984,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>30 Seconds Explainer Video - <strong>($349)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -1106,7 +1106,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Search Engine Optimization (3 Months - 50 Keywords) - $1,350</li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -1209,7 +1209,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/motion-graphic-starter/">View Details</a>
@@ -1263,7 +1263,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/motion-graphic-classic/">View Details</a>
@@ -1317,7 +1317,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/motion-graphic-advance/">View Details</a>
@@ -1373,7 +1373,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/motion-graphic-pro-advance/">View Details</a>
@@ -1427,7 +1427,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/motion-graphic-premium/">View Details</a>
@@ -1487,7 +1487,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/logo-animation-2d/">View Details</a>
@@ -1543,7 +1543,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/logo-animation-2d-advance/">View Details</a>
@@ -1599,7 +1599,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/logo-animation-3d/">View Details</a>
@@ -1657,7 +1657,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/logo-animation-3d-advance/">View Details</a>
@@ -1715,7 +1715,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/basic-2d-animation/">View Details</a>
@@ -1769,7 +1769,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/standard-2d-animation/">View Details</a>
@@ -1823,7 +1823,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-2d-animation/">View Details</a>
@@ -1879,7 +1879,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-pro-2d-animation/">View Details</a>
@@ -1933,7 +1933,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/premium-2d-animation/">View Details</a>
@@ -1994,7 +1994,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/basic-3d-animation/">View Details</a>
@@ -2051,7 +2051,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/standard-3d-animation/">View Details</a>
@@ -2108,7 +2108,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-3d-animation/">View Details</a>
@@ -2167,7 +2167,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/premium-3d-animation/">View Details</a>
@@ -2225,7 +2225,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-whiteboard/">View Details</a>
@@ -2279,7 +2279,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-whiteboard/">View Details</a>
@@ -2333,7 +2333,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-whiteboard/">View Details</a>
@@ -2389,7 +2389,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-pro-whiteboard/">View Details</a>
@@ -2443,7 +2443,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/premium-whiteboard/">View Details</a>
@@ -2501,7 +2501,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/character-2d-standard/">View Details</a>
@@ -2555,7 +2555,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/character-2d-advance/">View Details</a>
@@ -2609,7 +2609,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/character-3d-standard/">View Details</a>
@@ -2665,7 +2665,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/character-3d-advance/">View Details</a>
@@ -2722,7 +2722,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-screenplay-animation/">View Details</a>
@@ -2776,7 +2776,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-screenplay-animation/">View Details</a>
@@ -2829,7 +2829,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/premium-screenplay-animation/">View Details</a>
@@ -2884,7 +2884,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-typography/">View Details</a>
@@ -2938,7 +2938,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-typography/">View Details</a>
@@ -2991,7 +2991,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-typography/">View Details</a>
@@ -3047,7 +3047,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-music-video/">View Details</a>
@@ -3101,7 +3101,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-music-video/">View Details</a>
@@ -3155,7 +3155,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-music-video/">View Details</a>
@@ -3211,7 +3211,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/premium-music-video/">View Details</a>
@@ -3268,7 +3268,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-video-editing/">View Details</a>
@@ -3321,7 +3321,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-video-editing/">View Details</a>
@@ -3374,7 +3374,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/premium-video-editing/">View Details</a>
@@ -3429,7 +3429,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-cutout-animation/">View Details</a>
@@ -3483,7 +3483,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-cutout-animation/">View Details</a>
@@ -3536,7 +3536,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-cutout-animation/">View Details</a>
@@ -3591,7 +3591,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-chalkboard-animation/">View Details</a>
@@ -3645,7 +3645,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-chalkboard-animation/">View Details</a>
@@ -3698,7 +3698,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-chalkboard-animation/">View Details</a>
@@ -3754,7 +3754,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/startup-isometric-animation/">View Details</a>
@@ -3808,7 +3808,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/classic-isometric-animation/">View Details</a>
@@ -3862,7 +3862,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/advance-isometric-animation/">View Details</a>
@@ -3918,7 +3918,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Content Management System (CMS) <strong>($199)</strong></li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a class=" " href="view-detail/premium-isometric-animation/">View Details</a>
@@ -3980,7 +3980,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>.fun, .host, .online, .site, .Press, .Store, Space. Pw. tech. website. Agency. Center. .Digital, .Live, .Studio, .business, .Company, .ltd, .solutions .center</li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -4034,7 +4034,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>.fun, .host, .online, .site, .Press, .Store, Space. Pw. tech. website. Agency. Center. .Digital, .Live, .Studio, .business, .Company, .ltd, .solutions .center</li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -4088,7 +4088,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>.fun, .host, .online, .site, .Press, .Store, Space. Pw. tech. website. Agency. Center. .Digital, .Live, .Studio, .business, .Company, .ltd, .solutions .center</li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -4133,7 +4133,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Quick Turnaround (24-48 hrs)</li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -4181,7 +4181,7 @@
 </ul>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -4235,7 +4235,7 @@
 </ul>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -4262,7 +4262,7 @@
 </sub>
 </h3>
 
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 
@@ -4330,7 +4330,7 @@
 </sub>
 </h3>
 
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 
@@ -4396,7 +4396,7 @@
 </sub>
 </h3>
 
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 
@@ -4498,7 +4498,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Free NDA (optional)</li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -4540,7 +4540,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Free NDA (optional)</li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -4589,7 +4589,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Free NDA (optional)</li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -4661,7 +4661,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i> Local Business Listings</li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit" >Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -4724,7 +4724,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i> Local Business Listings</li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -4790,7 +4790,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i> Local Business Listings</li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
@@ -4845,7 +4845,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href>View Details</a>
@@ -4892,7 +4892,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -4938,7 +4938,7 @@
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -4993,7 +4993,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href>View Details</a>
@@ -5043,7 +5043,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -5100,7 +5100,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -5166,7 +5166,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href>View Details</a>
@@ -5226,7 +5226,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -5290,7 +5290,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -5357,7 +5357,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href>View Details</a>
@@ -5420,7 +5420,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -5484,7 +5484,7 @@ Month
 <li> <i class="fa fa-check" aria-hidden="true"></i>Money-Back Guarantee </li>
 </ul>
 </div>
-<form method="POST" action="/leads/">
+<form method="POST" action="/select-plan/">
 <div class="btn-box">
 <button type="submit">Select Plan</button>
 <a href="#">View Details</a>
@@ -6026,11 +6026,11 @@ Month
 <div class="col-md-6 col-sm-6 col-xs-12 nopadding blue-bg">
 <div class="expert-part wow fadeInLeft" data-wow-delay="0.6s" data-wow-duration="2s">
 <h4>We’ve driven over 6,271,747 leads for our clients. Discover how we can help your business grow.</h4>
-<form method="POST" data-noinfo="true" class=" exp-form" action="https://www.TrustReputationHub.com/mail">
+<form method="POST" data-noinfo="true" class=" exp-form" action="/leads/">
 <input type="hidden" value="1" name="contactform">
 <div class="col-md-6 ">
 <div class="form-group">
-<input class="form-control" name="cn" placeholder="Full Name" required type="text">
+<input class="form-control" name="name" placeholder="Full Name" required type="text">
 </div>
 </div>
 <div class="col-md-6 ">
@@ -6040,12 +6040,12 @@ Month
 </div>
 <div class="col-md-6 ">
 <div class="form-group">
-<input class="form-control" name="em" placeholder="Email Address" required type="email">
+<input class="form-control" name="email" placeholder="Email Address" required type="email">
 </div>
 </div>
 <div class="col-md-6 ">
 <div class="form-group">
-<input class="form-control" name="pn" placeholder="Phone Number" required type="phone">
+<input class="form-control" name="phone" placeholder="Phone Number" required type="phone">
 </div>
 </div>
 <div class="col-md-12 ">
@@ -6070,7 +6070,7 @@ Month
 </div>
 <div class="col-md-12 ">
 <div class="form-group">
-<textarea class="form-control" name="msg" placeholder="Your Idea" rows="8" required></textarea>
+<textarea class="form-control" name="brief" placeholder="Your Idea" rows="8" required></textarea>
 </div>
 </div>
 <div class="row">

@@ -85,11 +85,11 @@
 <div class="col-md-6 col-sm-6 col-xs-12 nopadding blue-bg">
 <div class="expert-part wow fadeInLeft" data-wow-delay="0.6s" data-wow-duration="2s">
 <h4>We’ve driven over 6,271,747 leads for our clients. Discover how we can help your business grow.</h4>
-<form method="POST" data-noinfo="true" class=" exp-form" action="https://www.TrustReputationHub.com/mail">
+<form method="POST" data-noinfo="true" class=" exp-form" action="/leads/">
 <input type="hidden" value="1" name="contactform">
 <div class="col-md-6 ">
 <div class="form-group">
-<input class="form-control" name="cn" placeholder="Full Name" required type="text">
+<input class="form-control" name="name" placeholder="Full Name" required type="text">
 </div>
 </div>
 <div class="col-md-6 ">
@@ -99,12 +99,12 @@
 </div>
 <div class="col-md-6 ">
 <div class="form-group">
-<input class="form-control" name="em" placeholder="Email Address" required type="email">
+<input class="form-control" name="email" placeholder="Email Address" required type="email">
 </div>
 </div>
 <div class="col-md-6 ">
 <div class="form-group">
-<input class="form-control" name="pn" placeholder="Phone Number" required type="phone">
+<input class="form-control" name="phone" placeholder="Phone Number" required type="phone">
 </div>
 </div>
 <div class="col-md-12 ">
@@ -129,7 +129,7 @@
 </div>
 <div class="col-md-12 ">
 <div class="form-group">
-<textarea class="form-control" name="msg" placeholder="Your Idea" rows="8" required></textarea>
+<textarea class="form-control" name="brief" placeholder="Your Idea" rows="8" required></textarea>
 </div>
 </div>
 <div class="row">
