@@ -6067,7 +6067,7 @@ We're Equipped With The Apt <span>Tools & Expertise!</span></h3>
 <div class="col-md-6 col-sm-6 col-xs-12 nopadding blue-bg">
 <div class="expert-part wow fadeInLeft" data-wow-delay="0.6s" data-wow-duration="2s">
 <h4>We’ve driven over 6,271,747 leads for our clients. Discover how we can help your business grow.</h4>
-<form method="POST" data-noinfo="true" class=" exp-form" action="/mail">
+<form method="POST" data-noinfo="true" class=" exp-form" action="/leads/">
 <input type="hidden" value="1" name="contactform">
 <div class="col-md-6 ">
 <div class="form-group">

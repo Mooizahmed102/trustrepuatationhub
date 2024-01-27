@@ -23,7 +23,7 @@
 <h3 class="section-head">Your Information</h3>
 <p>If you are interested in speaking with Trust Reputation Hub about an upcoming project, there are a number of ways we can make that happen. Filling out the form would help us get the right person in touch with you, or you could give us a call.</p>
 </div>
-<form method="POST" data-noinfo="true" class="contact-form plan-form" action="/mail" cr-attached="true">
+<form method="POST" data-noinfo="true" class="contact-form plan-form" action="/leads/" cr-attached="true">
 <input type="hidden" value="3" name="contactform">
 <input name="website_design" placeholder="" type="hidden" value="Website Design">
 <div class="col-md-4 ">
@@ -44,7 +44,7 @@
 <div class="col-md-12 ">
 <div class="form-group">
 <p>Please tell us briefly about your business or the services you provide</p>
-<textarea class="form-control" name="business_description" placeholder="Business Description*" rows="8"></textarea>
+<textarea class="form-control" name="brief" placeholder="Business Description*" rows="8"></textarea>
 </div>
 </div>
 <div class="col-md-12 ">
@@ -123,7 +123,7 @@ window.location.href='https://www.designquotations.com/terminal/paynow/index.php
 <div class="col-md-6 col-sm-6 col-xs-12 nopadding blue-bg">
 <div class="expert-part wow fadeInLeft" data-wow-delay="0.6s" data-wow-duration="2s">
 <h4>We’ve driven over 6,271,747 leads for our clients. Discover how we can help your business grow.</h4>
-<form method="POST" data-noinfo="true" class=" exp-form" action="/mail" cr-attached="true">
+<form method="POST" data-noinfo="true" class=" exp-form" action="/leads/" cr-attached="true">
 <input type="hidden" value="1" name="contactform">
 <div class="col-md-6 ">
 <div class="form-group">
